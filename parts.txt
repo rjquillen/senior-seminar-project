@@ -17,7 +17,7 @@ https://www.amazon.com/Raspberry-Pi-RASP-PI-3-Model-Motherboard/dp/B01CD5VC92
 
 
 
-
+ this is line 20 --- Bobby
 
 
 
