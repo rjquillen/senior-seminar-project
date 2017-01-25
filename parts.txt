@@ -1,7 +1,10 @@
 Parts:
+
 Mini Robot Chassis
 https://www.amazon.com/Adafruit-2939-Robot-Rover-Chassis/dp/B01M4MCYIG/ref=sr_1_7?ie=UTF8&qid=1485301548&sr=8-7&keywords=adafruit+mini+robot 
 
 Camera
 https://www.amazon.com/Adafruit-Flex-Cable-Raspberry-Camera/dp/B00M4DAQH8/ref=sr_1_5?s=pc&ie=UTF8&qid=1485038808&sr=1-5&keywords=pi+camera
 
+Ultrasonic sensor
+https://www.sparkfun.com/products/13959
