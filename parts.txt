@@ -8,19 +8,6 @@ https://www.amazon.com/Adafruit-Flex-Cable-Raspberry-Camera/dp/B00M4DAQH8/ref=sr
 
 Ultrasonic sensor
 https://www.sparkfun.com/products/13959
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+Raspberry Pi 3
+https://www.amazon.com/Raspberry-Pi-RASP-PI-3-Model-Motherboard/dp/B01CD5VC92
