@@ -12,3 +12,13 @@ https://www.sparkfun.com/products/13959
 Raspberry Pi 3: $39.98
 https://www.amazon.com/Raspberry-Pi-RASP-PI-3-Model-Motherboard/dp/B01CD5VC92
 
+Operating System (Ubuntu MATE): $0 
+https://ubuntu-mate.org/raspberry-pi/
+
+(Optional)
+
+Adafruit Motor Hat: $25
+https://www.adafruit.com/product/2348
+
+Raspberry Pi Sense Hat: $40
+https://www.amazon.com/Raspberry-Pi-Sense-HAT-AstroPi/dp/B014HDG74S/ref=sr_1_1?ie=UTF8&qid=1485540853&sr=8-1&keywords=raspberry+pi+sense+hat
