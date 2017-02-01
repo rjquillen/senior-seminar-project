@@ -22,3 +22,9 @@ https://www.adafruit.com/product/2348
 
 Raspberry Pi Sense Hat: $40
 https://www.amazon.com/Raspberry-Pi-Sense-HAT-AstroPi/dp/B014HDG74S/ref=sr_1_1?ie=UTF8&qid=1485540853&sr=8-1&keywords=raspberry+pi+sense+hat
+
+
+
+actual camera: $16
+https://www.amazon.com/Industry-Park-Camera-Official-Raspberry/dp/B01IX8PJO2/ref=sr_1_1?s=pc&ie=UTF8&qid=1485910763&sr=1-1-spons&keywords=raspberry+pi+3+camera&psc=1
+
