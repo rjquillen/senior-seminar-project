@@ -6,3 +6,5 @@ https://github.com/hamuchiwa/AutoRCCar
 ultra sonic sensor:
 https://www.youtube.com/watch?v=xACy8l3LsXI
 
+seting up robot:
+https://www.youtube.com/watch?v=FkLDHrQWYmQ
