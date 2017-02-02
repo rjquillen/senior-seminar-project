@@ -7,3 +7,8 @@ https://learn.adafruit.com/simple-raspberry-pi-robot?view=all
 Motorhat resources:
 https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/downloads
 
+Existing code for robot chassis (motors, etc.):
+RobotTest:
+https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library/blob/master/examples/RobotTest.py
+Base Robot class this test utilizes:
+https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library/blob/master/examples/Robot.py
