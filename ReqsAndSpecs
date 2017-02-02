@@ -1,0 +1,113 @@
+Tin Hat: Requirements Document (version 1.0)
+To use this template: 
+1.	Replace any ***'d text with your own text. You may remove or add sections as needed for your particular projects.
+2.	Enter the project name in the title and footer (and change the document version number, if necessary).
+3.	If your document is very long, break each numbered chapter into its own document section, beginning it on a new page. This will make it easier to replace/update 
+4.	Delete these instructions and any other italicized instructions.
+
+Project: Tin Hat
+Date(s): 2/2/2017
+Prepared by: Alexa Murrietta, Jordan Steiff, Alex Hallauer, Neil ?, Andrew Zielinski, Justin White, Bobby Saul, Thomas Yeater.
+
+Document status:  __ Draft   __ Proposed  __ Validated  __ Approved
+
+1. Introduction
+This document contains the system requirements for Tin Hat. These requirements have been derived from several sources, including Tom Bitterman, Kaleb Mayfield, Bobby Saul, Richard Quillin, Justin White, Thomas Yeater.
+
+1.1 Purpose of This Document
+This document is intended to guide development of Tin Hat. It will go through several stages during the course of the project:
+1.	Draft: The first version, or draft version, is compiled after requirements have been discovered, recorded, classified, and prioritized.
+2.	Proposed: The draft document is then proposed as a potential requirements specification for the project. The proposed document should be reviewed by several parties, who may comment on any requirements and any priorities, either to agree, to disagree, or to identify missing requirements. Readers include end-users, developers, project managers, and any other stakeholders. The document may be amended and reproposed several times before moving to the next stage.
+3.	Validated: Once the various stakeholders have agreed to the requirements in the document, it is considered validated. 
+4.	Approved: The validated document is accepted by representatives of each party of stakeholders as an appropriate statement of requirements for the project. The developers then use the requirements document as a guide to implementation and to check the progress of the project as it develops.
+
+1.2 How to Use This Document
+We expect that this document will be used by people with different skill sets. This section explains which parts of this document should be reviewed by various types of readers.
+
+Types of Reader
+*** In this section, list the different types of reader this document is aimed at. For example, Flash programmers, graphic designers, end-users, project managers, etc. For each type of reader, clearly state which sections are most pertinent to them, and which may be safely skipped.
+
+Technical Background Required
+*** Describe here the technical background needed to understand the document in general, and any particular expertise or understanding that is needed for specific sections.
+
+Overview Sections
+*** List here the sections that should be read by someone who only wishes to gain an overall understanding of the project, or which should be read first before technical requirements are reviewed.
+
+Reader-Specific Sections
+*** In this section, name any parts of the document which are intended only for one or another of the reader types identified above, and which may therefore be skipped by other readers. 
+
+Section Order Dependencies
+*** If readers will need to read certain sections in a specific order, note those sections here. Also point out any sections that may be read independently with no loss of understanding. 
+
+1.3 Scope of the Product
+*** Include a brief narrative here which describes the product as you intend it to be realized. Use this section to define boundaries and set expectations.
+
+1.4 Business Case for the Product
+*** Why is this product required? How will it contribute to the goals of your institution? This section can be used when requirements are being negotiated, to assess whether a particular change is a good idea. This section also helps readers understand why certain requirements have been included.
+ 
+1.5 Overview of the Requirements Document
+*** If your project is small to medium in size, include a summary of the requirements here. This may be a numbered list of the most important requirements. The purpose of this section is to give the reader a general understanding of the requirements and focus attention on the most critical ones. This section may also help point readers to the specific requirements that are of particular interest to them.  Include separate sections for functional and non-functional requirements
+
+1.5.1 Functional Requirements
+***
+-	Wheels should move
+-	
+[Provide functional requirements in terms of use cases in UML format.]
+
+1.5.2 Non-Functional Requirements
+[Include technical and operational requirements that are not specific to a function. This typically includes requirements such as processing time, concurrent users, availability, etc.]
+***ID 	Requirement
+
+2. General Description
+This section will give the reader an overview of the project, including why it was conceived, what it will do when complete, and the types of people we expect will use it. We also list constraints that were faced during development and assumptions we made about how we would proceed.
+
+*** This section contains a nontechnical description of the project, usually in narrative form, which may serve to acquaint new readers with the purpose of the project. It also sets the stage for the specific requirement listing which follows.
+
+2.1 Product Perspective
+*** Why have you chosen to develop this product? What need does it serve? Who are the primary stakeholders, who is developing the project, and who will benefit from the finished product?
+
+2.2 Product Functions
+*** What does your product do? What activities can users perform while using it? List the main functions that you will build into your product here.
+
+2.3 User Characteristics
+*** Who do you expect to use your finished product, and why? What is their technical background, their training or education, their motivation to use it? What obstacles might they encounter, and what specialized skills will they need?
+
+2.4 General Constraints
+*** Did you work under any constraints such as platform or development environment? Did you have to make your product compatible with any existing software or other products currently in use?
+
+2.5 Assumptions and Dependencies
+*** In this section, list any assumptions you made about your project (for example, did you assume that the finished product would need to be delivered over the internet?). If your project depends on any particular technical infrastructure, or requires administrators or others with specific skills, note that here.
+
+3. Specific Requirements 
+This section of the document lists specific requirements for Tin Hat. Requirements are divided into the following sections:
+1.	User requirements. These are requirements written from the point of view of end users, usually expressed in narrative form.
+2.	System requirements. These are detailed specifications describing the functions the system must be capable of doing.
+3.	Interface requirements. These are requirements about the user interface, which may be expressed as a list, as a narrative, or as images of screen mock-ups.
+
+3.1 User Requirements
+*** List user requirements here.
+
+3.2 System Requirements
+*** List detailed system requirements here. If your system is large, you may wish to break this into several subsections.
+
+3.3 Interface Requirements
+*** List interface requirements here; or include screen mockups. If you use mockups, be sure to explain major features or functions with narrative to avoid confusion or omission of desired features.
+
+4. Appendices
+*** If you wish to append any documents, do so here. You may wish to include some or all of the following:
+•	Personas and scenarios developed for this project
+•	Transcripts of user interviews, observations, or focus groups
+•	Copies of communications which contain user requirements
+•	Original project proposals or other historical documents
+•	Lists of similar projects or products, with notes about how they differ from yours
+•	A list of requirements which were "wish-listed" or marked unfeasible at present
+•	Original screen mockups, if they are relevant
+
+5. Glossary
+*** Include a glossary of definitions, acronyms, and abbreviations that might be unfamiliar to some readers, especially technical terms that may not be understood by end-users or domain-specific terms that might not be familiar to developers.
+
+6. References
+*** List references and source documents, if any, in this section.
+
+7. Index
+*** If your document is very large, consider compiling an index to help readers find specific items.
