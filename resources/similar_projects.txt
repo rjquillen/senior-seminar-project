@@ -10,3 +10,6 @@ seting up robot:
 https://www.youtube.com/watch?v=FkLDHrQWYmQ
 
 https://www.youtube.com/watch?v=t3kXWSctj2Q
+
+Adafruit Car:
+https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/overview
