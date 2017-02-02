@@ -12,3 +12,6 @@ RobotTest:
 https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library/blob/master/examples/RobotTest.py
 Base Robot class this test utilizes:
 https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library/blob/master/examples/Robot.py
+
+Controlling DC Motors:
+https://business.tutsplus.com/tutorials/controlling-dc-motors-using-python-with-a-raspberry-pi--cms-20051
