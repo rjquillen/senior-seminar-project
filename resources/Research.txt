@@ -1,7 +1,7 @@
 Raspberry Pi GPIO Pinout:
 https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/
 
-A better explanation as to GPIO pin functionality:
+A better explanation of GPIO pin functionality:
 http://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/
 
 Robot Chassis Guide:
