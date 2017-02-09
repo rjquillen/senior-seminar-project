@@ -7,9 +7,9 @@ To use this template:
 
 Project: Tin Hat
 Date(s): 2/2/2017
-Prepared by: Alexa Murrietta, Jordan Steiff, Alex Hallauer, Neil ?, Andrew Zielinski, Justin White, Bobby Saul, Thomas Yeater.
+Prepared by: Alexa Murrietta, Jordan Steiff, Alex Hallauer, Neil Miller, Andrew Zielinski, Justin White, Bobby Saul, Thomas Yeater.
 
-Document status:  __ Draft   __ Proposed  __ Validated  __ Approved
+Document status:  _X_ Draft   __ Proposed  __ Validated  __ Approved
 
 1. Introduction
 This document contains the system requirements for Tin Hat. These requirements have been derived from several sources, including Tom Bitterman, Kaleb Mayfield, Bobby Saul, Richard Quillin, Justin White, Thomas Yeater.
@@ -40,22 +40,50 @@ Section Order Dependencies
 *** If readers will need to read certain sections in a specific order, note those sections here. Also point out any sections that may be read independently with no loss of understanding. 
 
 1.3 Scope of the Product
-*** Include a brief narrative here which describes the product as you intend it to be realized. Use this section to define boundaries and set expectations.
+*** Include a brief narrative here which describes the product as you intend it to be realized. Use this section to define 
+boundaries and set expectations.
+Project Tin Hat is intended to operate as a small motor vehicle with limited video streaming of its surroundings, with the capacity 
+to maneuver through a path of hallways and return to its original starting point without hitting any objects such as walls and people.
+Camera streaming will be over wifi to its home base computer on which the program was initialized. Expectations are to use sonar to 
+register obstacles, relay this information back to home computer and await instruction.Vehicle will then receive, interpret and carry
+out instructions in reply to original obstacle information.
 
 1.4 Business Case for the Product
-*** Why is this product required? How will it contribute to the goals of your institution? This section can be used when requirements are being negotiated, to assess whether a particular change is a good idea. This section also helps readers understand why certain requirements have been included.
+*** Why is this product required? How will it contribute to the goals of your institution? This section can be used when 
+requirements are being negotiated, to assess whether a particular change is a good idea. This section also helps readers understand 
+why certain requirements have been included.
+This product will contribute to the professional development and personal enrichment of the creators in the context of their university
+education in computer science. Records of this product will also serve as a reference point for future senior seminar groups when
+designing their own senior seminar projects.
  
 1.5 Overview of the Requirements Document
-*** If your project is small to medium in size, include a summary of the requirements here. This may be a numbered list of the most important requirements. The purpose of this section is to give the reader a general understanding of the requirements and focus attention on the most critical ones. This section may also help point readers to the specific requirements that are of particular interest to them.  Include separate sections for functional and non-functional requirements
+If your project is small to medium in size, include a summary of the requirements here. This may be a numbered list of 
+the most important requirements. The purpose of this section is to give the reader a general understanding of the requirements 
+and focus attention on the most critical ones. This section may also help point readers to the specific requirements that are of 
+particular interest to them.  Include separate sections for functional and non-functional requirements
 
 1.5.1 Functional Requirements
 ***
--	Wheels should move
--	
+1. Wheels should move the vehicle
+ - move right wheel forward
+ - move left wheel forwatd
+ - move right wheel backwards
+ - move left wheel backwards
+ - move both wheels forward
+ - turn left
+ - turn right
+2. Camera should be operational and stream video back to external system 
+3. Sonar will estimate approximate distance to travel and when the vehicle is close to an obstacle
+4. Control facilitated by an external system which will be referred to as "Home Base"
+5. Potential to maneuver on its own for a specified amount of time
+6. Capable of returning to start point when called
+
+
 [Provide functional requirements in terms of use cases in UML format.]
 
 1.5.2 Non-Functional Requirements
-[Include technical and operational requirements that are not specific to a function. This typically includes requirements such as processing time, concurrent users, availability, etc.]
+[Include technical and operational requirements that are not specific to a function. This typically includes requirements such as 
+processing time, concurrent users, availability, etc.]
 ***ID 	Requirement
 
 2. General Description
@@ -65,9 +93,16 @@ This section will give the reader an overview of the project, including why it w
 
 2.1 Product Perspective
 *** Why have you chosen to develop this product? What need does it serve? Who are the primary stakeholders, who is developing the project, and who will benefit from the finished product?
+1. We chose this to explore the world of robotics and artificial intelligence further (basic autonomy decision making)
+2. It fills the learning requirement that the senior seminar course required. 
+3. The creators of the project are currently enrolled in the senior seminar class taught by the major stakeholder, Dr. Bitterman.
+The development of the finished product will result in expanded knowledge in the field of robotics and AI. Wittenberg University,
+having record of this project, will broaden the computer science major's resources and give prospective students something concrete to
+look forward to.
 
 2.2 Product Functions
-*** What does your product do? What activities can users perform while using it? List the main functions that you will build into your product here.
+*** What does your product do? What activities can users perform while using it? List the main functions that you will build
+into your product here.
 
 2.3 User Characteristics
 *** Who do you expect to use your finished product, and why? What is their technical background, their training or education, their motivation to use it? What obstacles might they encounter, and what specialized skills will they need?
