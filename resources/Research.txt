@@ -10,6 +10,12 @@ https://learn.adafruit.com/simple-raspberry-pi-robot?view=all
 Motorhat resources:
 https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/downloads
 
+Motorhat manual (note motorhat traces for GPIO pin leads)
+https://cdn-learn.adafruit.com/downloads/pdf/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi.pdf
+
+Information for controlling ultrasonic sensor with Raspberry Pi:
+https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/ 
+
 Existing code for robot chassis (motors, etc.):
 RobotTest:
 https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library/blob/master/examples/RobotTest.py
