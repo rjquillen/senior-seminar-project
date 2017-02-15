@@ -53,8 +53,6 @@ Section Order Dependencies
 be read independently with no loss of understanding. 
 
 1.3 Scope of the Product
-*** Include a brief narrative here which describes the product as you intend it to be realized. Use this section to define 
-boundaries and set expectations.
 Project Tin Hat is intended to operate as a small motor vehicle with limited video streaming of its surroundings, with the capacity 
 to maneuver through a path of hallways and return to its original starting point without hitting any objects such as walls and people.
 Camera streaming will be over wifi to its home base computer on which the program was initialized. Expectations are to use sonar to 
