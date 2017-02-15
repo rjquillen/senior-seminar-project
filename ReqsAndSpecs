@@ -66,10 +66,11 @@ particular interest to them.  Include separate sections for functional and non-f
 ***
 1. Wheels should move the vehicle
  - move right wheel forward
- - move left wheel forwatd
+ - move left wheel forward
  - move right wheel backwards
  - move left wheel backwards
  - move both wheels forward
+ - move both wheels backwards (?)
  - turn left
  - turn right
 2. Camera should be operational and stream video back to external system 
