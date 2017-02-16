@@ -24,3 +24,6 @@ https://github.com/adafruit/Adafruit-Motor-HAT-Python-Library/blob/master/exampl
 
 Controlling DC Motors:
 https://business.tutsplus.com/tutorials/controlling-dc-motors-using-python-with-a-raspberry-pi--cms-20051
+
+Ultrasonic Sensor Wiring:
+https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
