@@ -148,6 +148,8 @@ images of screen mock-ups.
 *** List user requirements here.
 1. Robottic chassis operates autonomously without the need for user input.
 2. User can see everything that the Raspberry Pi camera sees through the home base computer.
+3. User should be able to theorhetically follow the autonomous robotic cart along its path
+4. User can rest assured that the robotic cart will not drive into them or any other obstacle along its path.
 
 3.2 System Requirements
 *** List detailed system requirements here. If your system is large, you may wish to break this into several subsections.
