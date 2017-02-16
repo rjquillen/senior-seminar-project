@@ -96,7 +96,6 @@ processing time, concurrent users, availability, etc.]
 1. Battery life?
 2. Response time to home base?
 3. Signal strength to home computer?
-4. Time/distance of excursion?
 
 2. General Description
 This section will give the reader an overview of the project, including why it was conceived, what it will do when complete, and the 
@@ -147,7 +146,7 @@ images of screen mock-ups.
 
 3.2 System Requirements
 *** List detailed system requirements here. If your system is large, you may wish to break this into several subsections.
-Should have the ***necessary*** storage for the system and be capable of running Python. System should communicate with the motor hat, sonar, and camera. 
+Should have the ***necessary*** storage for the system and be capable of running Python. System should communicate with the motor hat, sonar, and camera. Power draw for each component and wireless connection speed required.
 
 3.3 Interface Requirements
 *** List interface requirements here; or include screen mockups. If you use mockups, be sure to explain major features or functions 
