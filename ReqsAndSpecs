@@ -82,22 +82,18 @@ particular interest to them.  Include separate sections for functional and non-f
  - turn left
  - turn right
 2. Camera should be operational and stream video back to external system 
-3. Sonar will estimate approximate distance to travel before stopping/changing direction and detect when the vehicle is close to an obstacle
-4. Control facilitated by an external system which will be referred to as "Home Base"
-5. Potential to maneuver on its own for a specified amount of time/distance
-6. Capable of returning to start point when called?
-7. Turns based on visual cues (arrows on wall) as captured through the camera
-8. set path or distance before turning around?  Distance is dymanically calculated through the sonar sensor, the path is assumed to be straight until a visual cue seen by the camera indicates that a turn needs to be made.
-
+3. Sonar will estimate approximate distance to travel before stopping/changing direction and detect when the vehicle is close to an obstacl
+4. Control facilitated by an external system (putty) which will give command line access.
+5. Potential to maneuver on its own turning based on visual cues (arrows on wall) as captured through the camera.
+6. Has capacity to hard code a path and remember that path to be executed repeatedly.
+7. Distance is dymanically calculated through the sonar sensor, the path is assumed to be straight until a visual cue seen by the camera indicates that a turn needs to be made.
 
 [Provide functional requirements in terms of use cases in UML format.]
 
 1.5.2 Non-Functional Requirements
 [Include technical and operational requirements that are not specific to a function. This typically includes requirements such as 
 processing time, concurrent users, availability, etc.]
-1. Battery life? 4 x AA batteries, 
-2. Response time to home base?
-3. Signal strength to home computer?
+1. 4 x AA batteries,
 
 2. General Description
 This section will give the reader an overview of the project, including why it was conceived, what it will do when complete, and the 
@@ -116,26 +112,16 @@ with the purpose of the project. It also sets the stage for the specific require
    having record of this project, will broaden the computer science major's resources and give prospective students something concrete      to look forward to.
 
 2.2 Product Functions
-*** What does your product do? What activities can users perform while using it? List the main functions that you will build
-into your product here.
-Users can view the journey of the vehicle through a video stream. The vehicle will use sonar to detect objects and avoid them. The vehicle will also have the ability to return to an origin. 
+Users can view the journey of the vehicle through a video stream. The vehicle will use sonar to detect objects and avoid them. The vehicle will also have the ability to turn based on visual cues. 
 
 2.3 User Characteristics
-*** Who do you expect to use your finished product, and why? What is their technical background, their training or education, their
-motivation to use it? What obstacles might they encounter, and what specialized skills will they need?
-Users will most likely be other students in the computer science department. These users will need basic operational knowledge of computers in order to run the vehicle's program. Basic knowledge and use of an SSH application will be required to run the program on the Raspberry Pi from an external computer. 
+Users will most likely be other students in the computer science department. These users will need basic operational knowledge of computers in order to run the vehicle's program. Basic knowledge and use of an SSH application, and cursory python skills will be required to run the program on the Raspberry Pi from an external computer. 
 
 2.4 General Constraints
-*** Did you work under any constraints such as platform or development environment? Did you have to make your product compatible with 
-any existing software or other products currently in use?
 Developers used Raspberry Pi which has limited processing power and had to be compatible with Python. The motor hat contains appropriate chipsets in order to operate the motors on the left and right wheels from a Python environment. Due to the amount of power the motor hat and Raspberry Pi required, the vehicle needed additional power sources to draw from. The vehicle then faced structural constraints when connecting said power sources (battery packs).
 
 2.5 Assumptions and Dependencies
-*** In this section, list any assumptions you made about your project (for example, did you assume that the finished product would need 
-to be delivered over the internet?). If your project depends on any particular technical infrastructure, or requires administrators or
-others with specific skills, note that here.
 The home base computer delivers commands to the Raspberry Pi's Raspbian command line via SSH. Essentially, the home base will initialize program execution such that no monitor or interface devices (mouse, keyboard, etc.) should be equipped to the Raspberry Pi when program execution begins and the robottic chassis, camera, and sonar sensor begins to function based on program code.
-MORE DETAIL ON HOW IT INTERACTS WITH THE HOME COMPUTER
 
 3. Specific Requirements 
 This section of the document lists specific requirements for Tin Hat. Requirements are divided into the following sections:
@@ -145,23 +131,19 @@ This section of the document lists specific requirements for Tin Hat. Requiremen
 images of screen mock-ups.
 
 3.1 User Requirements
-*** List user requirements here.
 1. Robottic chassis operates autonomously without the need for user input.
 2. User can see everything that the Raspberry Pi camera sees through the home base computer.
-3. User should be able to theorhetically follow the autonomous robotic cart along its path
+3. User should be able to theoretically follow the autonomous robotic cart along its path if desired.
 4. User can rest assured that the robotic cart will not drive into them or any other obstacle along its path.
 
 3.2 System Requirements
-*** List detailed system requirements here. If your system is large, you may wish to break this into several subsections.
 Should have the minimum of 8 GB of storage for the Raspbian operating system and be capable of running Python. System should communicate with the motor hat, sonar, and camera. Power draw for each component and wireless connection speed required.
 
 3.3 Interface Requirements
-*** List interface requirements here; or include screen mockups. If you use mockups, be sure to explain major features or functions 
-with narrative to avoid confusion or omission of desired features.
+Possible GUI (see wish-list in Appendix-2a)
 
 4. Appendices
 *** If you wish to append any documents, do so here. You may wish to include some or all of the following:
-•	Original project proposals or other historical documents
 •	Lists of similar projects or products, with notes about how they differ from yours
 •	A list of requirements which were "wish-listed" or marked unfeasible at present
 •	UML models
