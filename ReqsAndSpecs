@@ -35,8 +35,6 @@ Types of Reader
 This document is intended for us (the designers and programmers), our professor, and any interested parties including those interested
 in the Raspberry Pi and its applications, robotics, or prospective/current students who may be interested in computer science.
 
-Stakeholders and End Users - Scope of the Product, Business Case for the Product, Overview of the Requirements Document, 
-
 Technical Background Required
 This document is not intended to be very technical.  It may be helpful for the reader to be familiar with how some common operating system
 tools such as SSH work.  Basic familiarity with the Raspberry Pi hardware is also beneficial.  We do not go into specifics regarding code,
