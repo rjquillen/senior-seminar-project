@@ -32,27 +32,27 @@ We expect that this document will be used by people with different skill sets. T
 should be reviewed by various types of readers.
 
 Types of Reader
-*** In this section, list the different types of reader this document is aimed at. For example, Flash programmers, graphic designers, 
-end-users, project managers, etc. For each type of reader, clearly state which sections are most pertinent to them, and which may be 
-safely skipped.
+This document is intended for us (the designers and programmers), our professor, and any interested parties including those interested
+in the Raspberry Pi and its applications, robotics, or prospective/current students who may be interested in computer science.
 
 Stakeholders and End Users - Scope of the Product, Business Case for the Product, Overview of the Requirements Document, 
 
 Technical Background Required
-*** Describe here the technical background needed to understand the document in general, and any particular expertise or understanding 
-that is needed for specific sections.
+This document is not intended to be very technical.  It may be helpful for the reader to be familiar with how some common operating system
+tools such as SSH work.  Basic familiarity with the Raspberry Pi hardware is also beneficial.  We do not go into specifics regarding code,
+including any specific Python features or libraries that will be used on the project.
 
 Overview Sections
-*** List here the sections that should be read by someone who only wishes to gain an overall understanding of the project, or which 
-should be read first before technical requirements are reviewed.
+Someone who wishes to only gain an overall understanding should consult sections 1.3 (project scope), 1.5 (functional and non-functional
+requirements), and all of section 2 (general description).
 
 Reader-Specific Sections
-*** In this section, name any parts of the document which are intended only for one or another of the reader types identified above, 
-and which may therefore be skipped by other readers. 
+The business case for the product is not likely to be important to us, our professor, or any prospective students.  This information is provided
+for the sake of completeness.
 
 Section Order Dependencies
-*** If readers will need to read certain sections in a specific order, note those sections here. Also point out any sections that may 
-be read independently with no loss of understanding. 
+The document is not in-depth enough to necessitate reading in a specific order.  It is advised to read the requirements before going into
+Section 2.
 
 1.3 Scope of the Product
 Project Tin Hat is intended to operate as a small motor vehicle with limited video streaming of its surroundings, with the capacity 
@@ -62,7 +62,9 @@ register obstacles, relay this information back to home computer and await instr
 out instructions in reply to original obstacle information.
 
 1.4 Business Case for the Product
-This product will contribute to the professional development and personal enrichment of the creators in the context of their      university education in computer science. Records of this product will also serve as a reference point for future senior seminar groups when designing their own senior seminar projects.
+This product will contribute to the professional development and personal enrichment of the creators in the context of their
+university education in computer science. Records of this product will also serve as a reference point for future senior seminar groups
+when designing their own senior seminar projects.
  
 1.5 Overview of the Requirements Document
 If your project is small to medium in size, include a summary of the requirements here. This may be a numbered list of 
@@ -131,7 +133,7 @@ This section of the document lists specific requirements for Tin Hat. Requiremen
 images of screen mock-ups.
 
 3.1 User Requirements
-1. Robottic chassis operates autonomously without the need for user input.
+1. Robotic chassis operates autonomously without the need for user input.
 2. User can see everything that the Raspberry Pi camera sees through the home base computer.
 3. User should be able to theoretically follow the autonomous robotic cart along its path if desired.
 4. User can rest assured that the robotic cart will not drive into them or any other obstacle along its path.
