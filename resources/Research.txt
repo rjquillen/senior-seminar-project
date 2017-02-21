@@ -27,3 +27,6 @@ https://business.tutsplus.com/tutorials/controlling-dc-motors-using-python-with-
 
 Ultrasonic Sensor Wiring:
 https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
+
+RPi Cam Web Interface Documentation:
+http://elinux.org/RPi-Cam-Web-Interface
