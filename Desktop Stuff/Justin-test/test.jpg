@@ -1,0 +1,1276 @@
+ssertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Lines/menu_line_h.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Lines/menu_line_h.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Lines/menu_line_h.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Pixbuf theme: Cannot load pixmap file /home/pi/.themes/PiX/gtk-2.0/Others/null.png: Failed to open file '/home/pi/.themes/PiX/gtk-2.0/Others/null.png': No such file or directory
+
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Pixbuf theme: Cannot load pixmap file /home/pi/.themes/PiX/gtk-2.0/Arrows/menu-arrow-prelight.png: Failed to open file '/home/pi/.themes/PiX/gtk-2.0/Arrows/menu-arrow-prelight.png': No such file or directory
+
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (lxpanel:1108): WARNING **: Invalid borders specified for theme pixmap:
+        /home/pi/.themes/PiX/gtk-2.0/Others/null.png,
+borders don't fit within the image
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(lxpanel:1108): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+sh: 0: getcwd() failed: No such file or directory
+sh: 0: getcwd() failed: No such file or directory
+sh: 0: getcwd() failed: No such file or directory
+sh: 0: getcwd() failed: No such file or directory
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ÛHÔ;!aŸ\‹ÙøášK²MA­¿É78d‚Rqh¤~5|KyürXÀùRæ"¾¥‹¨²ÏŒq[i\îŠƒÀ|±´„f`6$‰Ê’ ‘€ Öµúï9õÔêD°¦ãkÅI&ÿ j°·p˜„ƒ/3#— ˜ÖŸ–¸F`uÑíBD¹j&À3æHÆš3ñÜÌs[‹¨yHŞX-¡š$0#Â.]nRE“Ú!ËÅ*†«ÊhEÄR,Œ†ÎSÊñ Fyƒ˜PÀÁ€Ì’®Çõ’	`Õ8WşšCÕvı~µv=íÅE5Mµ°Š¦Ö¹tâ¹\: ;q·ØçŒn «9¿œ–•Tr-Ì0¯ù%ûÁÈ?9Ë~6Ï’<|0F±YM#‰­e³¸dó¤ª	„I±-E,À4ŸŒimâ°²ğÉm„’âF}æVeU‚È‡!õ ae öm§`§f’…°Æ4¿ç¥ân%ˆè÷"ì 1è­¶J’Ä{ck`z%~Øÿ ¨ÄÇz½yïÿ âÇ¸5ÄÕˆQ(@Àu€æFcj¢9NN¥m’YOå°A® ’‡ÜÊXc=àèûc>åcûCìmv±µà¢\„³Âİ#}†Ğñ2•;sQÈÈ´âA’¿:ïÜE*VhæH|aœÈâø«>?–OÃ´Á'†xnöíÅÙĞ ŒT–Ò¹`1Æê’ÎIX(x¤FLt‚D
+FAØÏGÜ¤dwİ‡tÁ}níTÜ­lÚœMJıNÂZ¦ÄìÌ,ıp„0'•k31HCbØËê`ç¥>ÆàF)´§#ë^OKÍi5¢²»V‚;Ì—¹BªÏàxÓÜê"W)*E(DÄ†ÕŸz·ĞOä‹kˆdxAÑNìÊ¹ë;`hÌ€·G¬µA.ıBì>±íìe>V¡~&NV‚~±×•½kKEN¾¡ÔDÙğ4!,‘•âC,ñc\’Ù¥×al
+AHá%˜’ŠŞ‡ü§9®[{(öAÈDòş%ÑäÈˆ™Èù‚	<l±2†-®¬Ğò±_Z^E<²1‰İü,ÁÀ!åMI!‚
+±Œ0ÑuÆ^ÙÖ=•éµ–yÙ8()V
+aM¢X›ªr‚6¼TÔd†òó­æjCHúÕœ‚ô;2/-Œ£bÒG¢WÈÅ ƒBûHóŒ³øFŠÆk{øDhçl±Ğmú
+r€ûF	úœz|†&ÍrbXÍƒ±EL?	‡Õ7˜ˆxïóÜiˆµ£b Ê)
+iOÎİY®ºêŒ}¼8˜$!È.†Ge¤Å#_p	üI
+ÍŒ—•K¶w«ÒF\ `¡O¼©hÁföä¾bRBœPàwò«\vmJœjaˆ–óÉYp™„)6;‡æe+P·ÉÊÃ‚c#Ã½« "Y÷QfTĞ($ª¦8ÑL‚Bam=ÏÁ‘Ã4qÏ$d PZæÑ¶B¬‚¥¬E¶w}
+*0ß 8Õ Hc@NHÜ3)­Inì¤Ò"SğirÓFèMGW #c¬×Iu]3‰Ù™j¥2vß¦7 @Æ²>#ÙZºúxmœÄlA™fD<o+{VR!â-q%Ê¢´–“ªÄ«M¼ˆ)
+éšé–÷¶“*äYr@³iq]¿‡Ê„‚ÙÔÔfÇa@Ú/×\äH¶ç„¬¶©}‡V·³$ç(ÍPip_etÑ›z‹Dêu-Çn¹FÆ¿XåEG1We×m<‘xÚG’b²£ÜÛC$Œ°D‘«¬°âB¢ãÆ(RY@(/í¯cHŠ«dqÒh»œÌ›û	0ï‚Äû["<L^‰´Ôj®9$ƒj Ö*Ñó‰ku³FÚ–hÕ‰'Ù*¢öWS­¯	‡V‡êIÁ‹JÌ
+Û|D&_ÄŞ-´¾(Ñ‡‚W‰dt/ä`@ÜÆÌ‰/†@®å$_¼P4±™Y•¼$dV	©Q+ '@Íí%Ns°»g¢Ğ1:kki}Û½)»ş>F°Ä½VÈ«b»îÊüÃÕÏ>‹ôkÅÚîf#i6í¯íJğÂåëm¶pp²ª®ôÇ7?ª%cÌp£ˆå8`f–6àFXK2ü¥P’|qÏø‹w’"e–0Ì­Ä¼ƒü®[wµº’æÊõÖ(‰13J¬‘0•QX¦ w…£˜$Šá‘±•wÒµ½¥´iø¼Éi¡+O]°-—*5nAç”i—]Õ	V&ê:ŒÕıiÛ$ñm7CrÚ–ûë{íP	GıÈ÷7ñ\ˆ±‹œâ¡¿¹°•ÔÏ´‘bËqğóY#l2®¤*ŠéXn"{‰xÛÆµŠédøÛÙ*åS		T¸FØˆÈ$·`ç$k,İ…˜{ÄyJîÈƒ¶FS½²áP³#­u|Bcê÷`£X5[QitkÔ:d3ImB
+¯·Üİ‡Hãd‰BÍİÙF@E-€2¤k(öı÷=¶öÉmo«HÛ6Í€7nÊr§;EòİFpi1(¹)…YJr>|Û••”:C_ßn0ÅÒµ•$j¬ÉzñdAV=8m•ìâ;-ÿ hëZ‘†	pÆn’bÖöš,.<4ë²•s¨eèËJÈ	B¸¥ªJäJó¨2GùÅ‰ËjTm© é'L¬FûdÕ’}<ô4¥Ã¯{ĞXëäŞ×¾Ñõ#@Æ	®uåü‘é5¢oÖÅAìpß:TûÜ.eR3s¯¡,Şj€ü’däÒûÇzçšğó|á^Şëü²İD†mg¸yPS6b•Rğ”8xËÄÄQ]œ%‹nGñ>Xã8#Wx ×PVE,ä36}Á –5¤»IÚ»¦’ÑV¤V®;¿^D«Ñ%H{e"Ù¶nWIxºøqâš„LíhÈƒfÆÄ„M€eœ³åæ˜¸ôUç9^gÔ|„Öœtó0xi­Ö8æMÑ¬…^Gd7ü82È¾öFsµVz‚+£eeÇÛ	nV? ”°Rì¤ˆ³0q @ÎÈdÂ)v\kUh»ì­Un´Vfœœ­™t™ øÓØ¡kÛpÓÊ'd”MP’‹§í8•-Xá–¹„¢¤@d„™=PÙq\ÜpßÄÂd–5xåŠIL.ŒûdjàT3aã!‘°AZËCÈßq¦H€«):ºD²©DÔtUµpb˜ÖA–ù¤^Ñ¶!Óñ3VØMªFÃ¶ÛtTŒTd¡–+lU">H èó‘.2rÌ“£É¹‰z<¢¾ú¹‘—ÏD¼5™`·§H¤‘áÀ	+®æUÉ'PÇ! ‘ÖjRs7:•$–7dPøa “"(+¦¸ÁÓ}âì)ëä&çd·eš¬Jc_[Ë”‹¬×Şš>«$ú†½W^˜™)Q×vÃa_aÒ±€Ò’zßaXq}ş0Œò;\Íğ´V@d+ÜE éN2¬FjHçÎ± 	÷9ÀÈÈb|‹—%0¿ó# –\ßJ›}gé×s»¿Q¹ìÎ¸Q#ä¡uUæª‰£ëöm_VÅ7`íÅaª¢ÒB|ÙXtW³%²«‘ìV1÷¥¿¸mñWÈòô³ÇkÉÜM,íNÚ •Ö"ìŠÓ¢jÊÅĞÇ¨¬ ‚dñ§º£ş*òşMáU\°Œ(!7C0GÕ¶R§fˆÌs¦Íœj=÷BìLwe›­{†>>ùMÚ«‘YØñ“ÕëÖğÿ 3geêçØ›®v‹.E6C,„íj}nÆ>ËáÆ—;nÔ¿´–H¢5»E#"ÍÑrê’Iwøâ–6Ys\RşşÔ¤nˆÛ"ÈWIÃ« lttÙCFãWÆ¦±Pö…®öô\T,bË’°‡\f;Pg-Ã€ÉUÖÇBŠ)›ıBÄàÛĞ`ãîlµRG æpÚ_#Oq¶^[‰®3móJòË(aˆ™˜ÑtŠì}¿£\Uƒú‚îxÖ8¢BJ®‰™=Å—Ì`HŒÉôÊ6ù=z\ë¿Il:§J“×­£¨e×hØ±s?â}F»ZÃgÚ`†ÖµÄT¯e©}!Ì^élÅ)M‰A£6ÖÆ[Ç‡úƒ›»ä=K')j?Ëçñß”¬Ä[á…7+#\®.­ò¡—LdàkxØlâáÄ2K¥Ìf{™…E'Nşà0ŠÄÄH8Âäª\ú…ô¬¯§ß®jIm÷_İuË…
+ÔlİB@Ú}ø;Tòc,4†©6Çîµ´Ô6¼LFÂŸšfr<ÒD–4ÇYyÇGÛ};ê=WÆ\Hm¥€'ŠİšXÙa–I!Ùã¤PZX˜K¨êÀ:)ƒ
+ó©­æãîUËj|Ê»¯F%u$xÜøå¬³ğkRAí³%8éq#["pÙâ-ÕX°§"b­GÁº<îÔñsÚöÇ,F£‡z3e(ã"[FDe*u)$x3ñ3qîÚG,°®ÉæUv£@±FTª?bPˆAe'¡Z»~R+ ¡$”÷âffÕÑîáÔºvÑ±b4p3ÙÇ#ø€iâÌ)è0ƒz®wX97H
+ã‘µK}©ØèIMygjƒ]]BİX¬®0ƒ­ÖØ\ûd-nû}) VĞ™¶tí_	0\êÚ1í9vQœ,Ç±8ñ ò0]°pÄ/¶¡@ØŒçÏÚ›a‹¥L}»KÓió%Ğc v†Dj±w	xéäVgm[ ûe`ÀÓQj˜¬QX-óH?•¹É˜Msk!b¬Ì u@½•W%Ğ$‰«°R¥ˆ®C<Ù
+@*q¢3g´ep’eXƒ‘^ºÆ©?¦ï@6~ïsiÔä¬ÖÈØı·ZA&›¯‘}º
+\©uè¹hèH[}ªJ^Æ$†Ïœa‡ˆ‚½G®Éƒ
+•ä\é»õ‡h¼mÔöó-Œª™õ­¢v\ÈÒëeİDÓ„4 Ç yrécj‹ÂqË-Ä,Ò¬— 
+ì¢¡LÉ"¼‚&1‡rhÔQYİûƒkÚ,ûwfÙ,ÉÂÁÓ²é}`¿0ÌtM¢69¸¡Ú—Ù}mHØg"ñ„R¨ƒ=—UïÚq^šãíøÎ"ma‰¤=ÄêCO4„3M4…I,¥VÉ=±Q-×/q%ÕÜÒJvÁb1¨×Ã Eû‡{PÀ3Sf¥»şıÌÁ’;R0`€°cd²³C&$›hğî>OåKi*&™U‘!¹;‡Ü|Ò#0ánŒåYmÛiHC`–FÛ1È* Œ¨, #P	«°† 
+ Ç´ñ€£RÙ“©ÀÎNDŠ¨Ë›ˆçè’)@ÿ ÃÃ;œ}¹C;Q±ç>â>v`çª»-Òä±Ã†éµæÈC!ü­?Dlº´G¬/å’wÀÿ ¨c,Z)rNÀf0qŒ×&xå³`¶\
+
+d€	RH
+ ÀÁÎÇ°2j^õ¯¶õZ†" ,uˆÀRó‘nLâ.:0Y0ß…µ›$·Wƒc%V|ÒÜ
+nM©fRrûfP2½¹Ö…ÚfDÄ’„°RImHÈÙAü¼('=@ÍEı¤Lâ˜‰$`à©ìtAÃvT`c=× 	'LÚH‹e*I™˜™!†!§ĞË­©¬+ı»¾âR…ÃD5‚P;„%‡†ÜZ\ÆSªÃ3´i,m$!Ñ+£IlD²l;]¿Pìg»òÅÕ•˜#àë Sƒ£‚3òN>ß5«u&™m·NéÆ?›Ç?ı8Çõñ9ş¸ÿ \òú(@ƒ’qĞ?q¾ß=wƒñY$˜ûäı>ÿ rsñŸ¨èãçèÉm´4Œ!ÆŒcñÿ X¢?Sşÿ ßúb)bÇ'ıÿ ö~µûç:ùN)N)N)N)N)N)N)N)N)N)N)\D¼¨ãÒ>1—òxg
+ÎqŒ»‘İÃxÎq…gÊòœg8J³Œ|ãıs„¬7s’°>NªXûàWĞ£b ÉÀÉ8?Aû×†o¨™ã×á5GZëò$MäÅ«mì05§àÊ*JAQåÆ‡÷™*%À¤æÄ"¿9‹"ÁK9 '3âåï=Aêk°!¥…›•s0T]äTFP¥Gå—f2÷êSC^#Š·ÃˆÇt%t,ÃGpIràü&º2j±.V<­A4‘¢ca½¨òÁ.AA;ˆ‚ËD:#ßw!ÈØ“Ú—ö©RÏP…”ö}ö†¹³ÉpÀI=ÎÍ4™:ÊÅµi¶90¹^™îÃ¢	$W¡Z2´K V «àæ%•Q¨xÃ`‡aªĞ±†Õ¯fÈË3.HA!nÑñÖâÍ‘üíA¢‘P¯× 0"3%y\¡ëFÒğ•(6º¤™ DùxÈ;È‘‡œ[a%¾PIRT´¬À€1Ğ Y$já‹è#³b(9ğÌ%òeµˆ(`œå«9+¹8©…
+G,ªÉ,åuº«Ÿ2uZ2×q”P£T¬dÎÂ7VH…ƒ]«Ò&ë¹=—Xõ±§89¯Ÿñ¼œ«eÅÂ&¹•’AøBun£’G‡ğ†Ù0^4MÆŞÓĞ¬ÿ =ÍEa‚Ğ‰ï%híÔH˜¸°ÎÒ"$‚q1ÈY$`Ú°÷–«ìè¿\6ñbnW¶5İ§«\ûÑ´8Ì5UlB"áÇ(‰‰{ëÚk‹aÕ1„åÊŞ¢›8Ôx•ß–ÑWÎ‰<l-ı3'{nëu-ıëE)XE¶¹™bğ«—Ê±ŸÂŒÁUd]‹ŠAÂò·ñ]Üòbh.cñ-¥‰’4i–Qùifa#©ë‘Àí‘µÔïşá÷ê‰¥%ÓÎ¸Ùã*UºıZ[Ùn€[Ù6bd›qs“Á"ªäÔl9…Ÿ0H’’å9,kDÅ
+äb²»ŸMp\©mWÔWO3' ¢Vš	ÌÌYf›Äç{yYV„Ë$rA=#\½Çâ¬îwvÁnâ›òa•
+#†0­ª@<«²F °Ûj­mw Æ^Ã=2ÑÛUøº¹Ä@ú¡kt%T¢–ÌsØ‘ªfQÑ™ËÏ™Z­U…FKRÖñ,>ëi¸ç9I.v±²Â¦–6•dÀc1*GıgP3í¶øMÃqQÛªİİ(fx„‹D	Ríªœ·ÁÓ,J…'?Q]§µr‰~&p¡†"*6;¯Vé3Ô«ÃIELk;í—j–Î#À8c–ØaÁBáEO¥§0NhcIaEr2ª¶33(Uá™z? 0f+!†KŒf¯¤19`IRÍ<j¡¤Œá‡ÎF;nÃtŸn¢0ÛulˆÈ¢!Ï—>V‹oˆD½¯F17	=U‰1kÍ?;´t­¥J˜Ã’\”ŒZH3ŞS|û=ÄÑÇdHe_h
+NÏ=¯‘Lc!@óÚ¾Ñå€.Üæº¢·ˆ³?°£‰öê±Î'fê)×Å~$
+ÛlçØº¦™¿ìÜkè€¡jVºä§®2D}ÍXør)[ WŒ€2ç¯•ÖÖ-æ İk0’ƒ°ù‡§y\ò“ğş˜NG·“‘ÿ "{Ë˜¸á,mWw‘!Sì‚òX[şfº|¤RGÉ£É},2,±,:Ê–Ğd¼T`Ó%»hÈÎ£É,Q•1`È†­gê'+;Õçàà¶ğåÖËh«@Ğ"á$ÇcİŒ®¥òÚ«Ög¢M&à¶¡œBÈt+Á!±G³µ«S9kÏ=	i{wê›K™í&º·ŒÊ³Ç$Ö×pÚ4º	/%Y&Qq ˜§wÉ3l‘¢x°;9NF	lä†·‰Ir“À\ÊcuÑÉY•ÜÆìe!+•˜yÚÖsÓ%@,Ü’Á³`&N,u/Êüƒ´ŠA¬ù†¨öËÿ ºë!,‹¨l*g¯Ö¤Å»öNûG¨nÕ® µÜ‘‰‘¨R¤ ‹PFÎ£­²²cY-İ]Etp6E-à€¬åLnv X¤ƒq•G$ªÌrŠIIAC×m/aºHd£ÕˆÔëy›Êˆ–Äù¶§ŒÍ!»,a¬†àîD¶©ìuQ¼}…€=„œKõ
+Ì¨êvÊw2\ ÌY¢fÆ
+–v†ö1€ï0Ú˜ÔÈ@	P€{³‚€àvp¶òÕP×u[«ì2&#‚˜d%‹’‘2µÉ=-2V [«6Ì]–).rEYÀìM2Ä^Ä4s"¶V´·2KRëâè¤ÈF-#:®BÂ±nCÚxî6\ÍÁ¶nèU›Tr?Z ½ÆRRMuÈM´$gI€£Ö5[kuëğ4şÑ›…¸Ü¯«¢F[aºånbü²ÿ -;³?ş‹³¡>pW¯÷DÙ.âF3–í²F7—^»¿ºâÓW—¥ŠÚãµŒ—7¢4O#¥™bü-Ã»,I6-äWe*€Ì3RÛ]CÊÃdŠiÃ3,;9x‚í)xã2	 f.û À)ÈSéS·Z+Hoíi$ÍíŠEÛ²ºcSM	XŞ÷F¬V«¥b%fNHØÏª‡6ä52eÊæ@°´C
+3äŒj$!)Ïˆq¾ºÿ &äa6ò]iñ-Ü¹¹¼¸{å-È€nçhíâw†Ë’-uaã’ìE…IãÓoâD1Gitíâ±ÿ ‡Œ$òÆcòÚ;¼]#’ââ¦B@HQ^-c{@5Ö.kÂ ¬UF°EëIÒjÀÛ¦!lDb·®×qÍ^u—fëƒ5!‹3ÃViºcde–§XP¾ğâãôŸ/hoø³2G)f…gˆ)Emô,2$¢Êä£!Ô3dy ìg¸›‘g~°3ªûÚ9	Ë6ÓÉ!Ş»lBà”Æ@ÙVmÀën¦<éH”R‡ØP•H\µÅë|¹®kæØì€Şµ™fÙ»S¤íåO:Í™¤Ûâ©É·6Ÿa¿|üä"ÈŞg ÜBŒ7p5`Ò3Û–æÌrÒZÜ"dr +ÔV ˆ_e,#}JÈ’ÃTÎ`”7åÏ9Õ6jí÷c.»¹¤êW›Æ ´¿‹-¿ø>ØJv]â:*(ıu~ ¶}§°pAÄå—Í¦î‰'äwZòTx‹Õq1Şá –óğ+=İº©\´„ŠU‘ÃHŠaU½‘ğÍ"“Œ° å.ä#ËOpÑÃ!#X”»;#«)Ã#~'µT®2*Î:¡ôç~­»Ã¸ö5Í#¼ú£°…°HAeë4:EÎûMÖAÕ*`HõŠ°Ül}WwFôë±7¸i¼:Qi–|¡‡˜m./	ëñiox!mÁÛrşæí9öÖ{r,ášiâ¹’ÙŒöÆwñF›¢!™3ÉnÄ7WéY‘qÈKoÈÙ=²x.O—’DTxã•LRj¢FbŒXFÍª¤š•€?R>¼P:'ÚÊ¼¥ì{•Zr«¦æå+WÀ97P®@Gl“¡*÷ı?F -»T±†Ì>Ó‘#;
+ˆ°ÇÌ”´‘t×=Ğ¼í÷®=+vÜ­¿áîí;fcEšyM¬+£oSbUÚ5:H¯‘°ÔQòÅÀó‹WÛÌL…Ø¬Q¬’¢ª`‘@Od¿®2½–¸ƒ'}b>&#gpF'aazî†¶¸Ä¸ÃÖ?aºa:î!–©ÛsM)¢r²ˆ³¼ıÖ®Àü‰¸(y3Š±ò	;˜‡âÉXuG*°3…‡ÎTg·÷ğ¥‘‘Ñw>tv@ûJ3äxÎÏ*€[óQG¸sˆ°ÅO=Sˆ.=ü6~±s0öód¯±Õè“í—˜Kkz¦p‹F†••¥}ézî}Â	¥–}Ç´Fk™£„iÒ%oj¢¯–B”3 ’X’ Ø÷çM;ÊçAR²*œÉ ggÁH&7QÑ8*@Û¥®}Š{k§è•-ƒ@Ø5Y›½×3uêÅæò^•¤İ6D…â8¸w2W¸uL”rR`ÿ –QÓ0¹Z²Ñ,8Ûij<ôw×–3Cg)IfIQcÖ,òH@›ùRç*X`Ô¦“‘€Æ’Ep"&Ğ³º´„ŒF»Q Ç™rÅOc.¿k^Æõæ…¬v>ÈÖWzV­ß0²
+£!?&;£Jµ»1C˜Õò1I6nµ`¬.éWìO"p¸Tê²øÎ#ªoNó×YØ^C%ÕhäH£WÜ¥F\"Íny",±ÉÖÃ ™Ñ_ò6*^XØÇ#«7•D…5%ãhË1È²L–\dd~¢ömºŒØfj/YĞõ¶f%ß¹À¤XN]’Ñ°!Cõ^mO·\ÚõgT‘@‘#%á–—œåü,¶1Éàd7,érD`©I$c¬ñ…(üÈûÀ9#E-ÜÈèeÂ©¸E,ß*c1>Ø‘IOéÏ¥Ş²İ4oI:Ô1;ró«"-’½jÙ»J½«mïÀ5´vGFÀéÉrÖñvHk¥<,Æ‹©-%´„Ô
+·ˆÎQåÜO%êbK»+Iç‰çH›[Aª{Ö&Y
+çPcyªc2>X&Z¥]r	ij<†®¸“ñ ÓaÚoˆY;bªËWŸ.ıEv÷S®³ÂXL™¹i‹uÒRBóR°J6ìì]Â±
+ã Í¦EÆv¹°«s„„år}jü=¸°Yg.¼´’7±z¯Ñœ/g ‡”µ·…-Ûµæ8›"7YCu–IT`b@ÊrœO-5´Œeİíä‘÷,I1ô2ààªá²c1ôsºuïL»Ù¿ºÁ#¬vm+hïºL´¼]ìŞ­Q†™ÜTj¸CİìÄlf$"ıÛEš2f¥*mè‰CÇtÅÔ{^[m7©øN6úÍ ¸[+¢ÖRcx”Èë'â<~äÒñT2‰h®ÔRÒ®*íÊî¦3¾«,Nò¨ØJP†Sı'6ı©
+pğ‰
+j]í(AlÓ›Uïí;¦ÃÑöX·,Ğ²ÌÓ³Zºß'Û|k†ãÊ‰2-¶Ü²¶ØÄ5ˆŒ%µI#$†íÜ•ÒİY´ŞlyãxYeÄŠcK`åÉDPbÁâá8©·BÎå&f?™ãtu@,c—§,CÇ8ÃŸ©?¨ëêßFú1\8z_®1‹4ÛŒàm•ø,jT4egeq­OV7ØÈBcVÄuˆ§šÍŒÃT—ÇjlÜÇ¨¥œ¬¼ß(ÌˆÁŠ\É¤âK„MÁky¿å</˜á=DS@µãÂ°HmpX %#1 ’„ëíšˆaîp0ÀŒV½ï?Ô;^ı;×ĞLêª†ÀÛöÙ]½4”$)íTd,·ÅRØ ‰ˆ­“&(ìRí9Æ¯¾#Æ†Éh]¯§ı1wêi'šúiàªÚ¼§Ã6Z#%´‘·â<HÛ!Æ¥IÁ‡-ô\zªF«0v
+¬éq2²†&b >sİdÿ OûU;Ù	²#¶ö®§ÈíZjSVYi3«L«½oÉÂØ-l+*ƒ3 n°¹¢66GîŒÊl¢ 	·ye%Lôó¼Şœ¸ÖŞæîk9!öº¾«³™J ‰mUR[ißÆÏYšíI`½4‘¤R¶$ô<Ä(U8k7jêPÀ0ÖÌú‡÷›®½2F‰œ°tÛCì-ùsÙ•ÍÍk×mP`˜ƒ©Ö¬S_l˜ø—ÊöÕm†ãh’¥Èà¬a-Ã£Êû7ÄMğ¼¯:naªÍ3\D^İäö¢ÂÃ#{[ÈOšâ.á|WOmn£NÙ[ÀñMùš“±9Á"˜£‘±°ölB¸ı£d¸ó6.ª•4#3AßãHurZ' Z×c†?·%§ŒRõöÑ“0…©#/Õ§„öÅœ¿ámú’!¼ãZ&ÌX’)¢’XH·"Esÿ iÚZ$Kµôp?ÏUÓB÷z±Gd+G*ÒKvçÁ3áæ9pA*I¯ÇÑZÇ®ûMµ;g»7rav"ùe7g‚l€äU¢´U·#ĞwÚ)Õ[0+
+Ér¶ÇVí ²8¥êÉŒ±¶vXG9úÊÚ~×Šã¬¤TãmKpÈ"gS#_JìÄ£\xæØHĞí›Åtï4êë<’Fê]c“ÚmĞà°ŒÆêN¬
+}È¨«ÙÏ¡<†±‚Ø[Oo}uƒ×ĞW›•Â‹7[“¤İ" 5iî@£XÃYè§™3=zÕRÂ}•pÔşB22;­ï±kÆˆ"R–\‡Jî-ÚxfÃI#D–Xß¢HxççV—cÒ“Ñ'$MæŠ_5tÜÕÕ™üdv€€ÑaÕ@ë Tí›|,#³¯"†\š’*³±a	"¤ü”´ÚNš\\)
+ˆ´zëyK²Ó¾ÌÑ¸ÈNº®]Ÿä%<:1ó2nÊ¬áÕ<O‚K$¿¨’ iQZ>E½³Ga‡FÊÜ…Ô¶ã¼@ß±ıCç»®=CØ[=FÍ/X³ÇDOSg­¦Å›g8ˆsnñÒk o;]ÉIR¶Ä¼LÈRS2¯F„q>™wÎó^§µâlî¬¢ŸÇÊË*Ì¬"ùIÀhf“Ûä(2cmI
+pu&+SyqH¯øXòH 8˜“)08.r™*:-™1õeî¦Ò×)›úrFÒÁÊ2H¬Èí™Mv©\–¸ã³ÀøIªø
+Mz¬v^-¬Ä“Ã•–Ú
+¦òß;ÿ ÃJÃ,ê«›¿Ä\y¥Öñ{S(i.ü$$ò…¼(¤++³eØOê>j9||®‚#†G…ŠŠØÊŒaŒ¼KåvÁ¢€0+xĞ«ÚşMº¥DÉE†ò£¯›TŒ¬T2ã­2±sÂmsoHW«›qwkDŞVÂòß’¸¸ghu!¿GÆ `C+|8 ÀxÀÎ·K_m&±‚ÕLÀÔ±$6Ëœm¶m!ÏcÖİ×•7+0ŠØsRâ
+¡[Ø‰bV6)n´dİ´i¬ ËŠõ˜¨ïá=NÆPæ[~ä—Û±;´±hÓ  Â“3œ¾º‚¿*±äö5KVIKh¹È#e#bƒ?'í°@³zFé’rBB±şÈxÜ(bZz0(å˜ş·ÜÑ¢
+˜¢•8æq‹×Ù›[kr¿)p8“lš/$#e|‘!a†íA—e$.ÃµŸ†lu÷È"“El*”ÇÆFÇ¥B e‹Fzèf®s®[‡éÁxÒ’Z×³4»lÏ"2Y­³X¹ZŸŠ’¸dè2†qu8ÈïL"bè§˜N%òÊaJdÖ¨9k_ZÛrSrrÅke³Kiİ¡·‡ñ3Icwa+˜ï¯bêó~Zˆ¡ıÆ¼7KQ, òŞè;‰šVMÄ71/ä²a™"•QSm™åBPmC4‡{z ˆ‹zõeÙ:2$¨9ª®ÒÖFL\)AÃ@ëQÜº_,æ^»IÀáæ¡Ó$jÿ ƒ:VErã2;¢%‡ê~"êæ+›˜#ã9Ib1†QàÓÅÑEz¸øet‰£¹Hd†\ÂÈ®¬*%ÅºËÚÆòÊ‘•ŞÎPb¸ˆ¶ì™òjŒÅàyT®®YC­]oK>¦Z÷{FEÔ6Y1´}ÒFY$ÃùyÄ&è˜ú‡f:Á‹ÓoÅ-çğ€q*i+ôëNF<ˆg*ĞY>ñÿ VOµÎsŒ`şÕ˜¼âæ@f„4‘äl¿.„÷¿Rãê0GÔ}jÖqœgõóÿ ¯ıËç—ON)N)N)N)N)N)N)N)N)N)N)N)_‡‡[jı-
+F~||)9N|gçÇÆsóãœ$]Ñ×ş¥eÁø;)?·uô~Äìs^{ù­«îZí¡Ä€…3JæCÂ
+ßç$œ·W¿'`€xdÇpÔm}Ü²Øò(“•G«%°7Ÿ»™“‰¿´bÒM1*"!*¨áœ ¬cSùA‡l]>HÏ¨qh¯ÈGp¸›pªpÒTa	ÎY~	Î	ªz»¼ø
+ ² È
+ãJË`’²*(8VÈHNÎlİgî˜1N~-ìä”#ÃHG2MkYX!Ñ³#+lª
+`¼Àd²Î6ÊÅÒäŒÖŞ›eRIaíğp¡àY,;À$ŒÔ_Ú67«u¹cx= bjäãñ)Üãâšû¢$Ÿã+ÉÎ9‚Q…6qxm†Ó…zãñœp¾äííBÉ(üDrÉ—Å:BÇ.Ó>;EAğr«ús“R9ñic<Å’0°J•KÅ$Š2¢(öÏl?H;7Î@©«ô—ªoíHm£°¬j£í{‚±¬$« ÔìPUÇJÑ«Ös²]‹lbØÕÚ¸ì
+¡DŒŒDI¶læ5M/Ê`¥×ŠÜ·	ÈÍÅúwåî ¹à¯${Ñg/ŠÎ12Gã_*«ş#FR³L«„Ø&í—Åo£ìîÕo¹nJJŞ5¶{¨šYet¶Ñ,‚qv):¶¿^Áì.º“®Rîèİ$¶Ök5ö([RnÈ¹Ìq0ÑÑï¹÷3RÊB 1ó_ô¶9^Ûå5*c½©ôWø+Âñ–ö¼Ÿ¨¯%ãyDçÃÁ›k¢&æÊ0±ß®¥ëÈ²R#(«Œï?ë{›ÙŞ9^Kÿ 7æòBâÄ?$…šÙ‚-
+†';˜¿¦ö<î3aÚ36ˆµ’m&Ó 9òÇC[¢ˆ„tC¦öÕ­;_w&¯,˜ÄZ	¹9ŠœÕ‹2Ì}ê¾l[àøûw-Ä&)"‹Çk*î†İm±%ºD5MYI`P¨\´ÿ Lq*VöA3\4€Ç+¸ˆ…Ç’s.#™œ‚ÛFHPAØ= ûrÔ¸„jüì…jòºµLCê–¦Ş 	åAÂ º”´°#˜èÆ¹g»:K÷‘’q^¥`£KÈÚ{£ÅoøâMÈ
+ë;>æHâVÏ3©‘Û^ÉUÆÔ›vÛ³,’ş©„ì­Rº<¥L‘¢ı FIÀsİl°{e1BÈùÉVæë4f«w8Õ®T4†ÆSD1m‹jÔ›ô)'Ã:^ˆˆØ±%(D^^[r’Y¥˜øá•|  ¾‚K[äigÄ™VÑHù e»®©!‰bRïiõcãQùWUU]™€`ó×x ÖÜ§°aós%XÍ‚Qf±f&–ÎPş¨ì ¸"±Š¥3$‚1
+ä…²^).#„{o!\&{¨’9gC&Çğ®ªò£M
+0ü=Ê¿‡Xùdu8c©ë‚Ãnì&
+Iò£j¬±NÀ‰mÈò*K«{N"R:ï8ìä;SXœHê²·=8Ÿ•š‚©ÊAS'-1äg?ƒí_ÌM¯ğªTd8Ë—æÖ‡…¸0Äƒ’ñ/¸,ßmËßq­$ BğÆÿ ñxÁŠú7ÛD¢2¢tN®%ÉlgjwÅÙŞ*ÆË(fÈˆ¶KÙJ„’à´nİÇ©]>2@ïæ÷cãÅD†3VÙòê[o»ªb*]¦*ìËSšö2<3Ãm×EGå,×J‘QHiD²ˆ.,†ì¨'aá³ğD² ñÅl¼‡¼0e&E%€ •? Õù¼@M2JåH<ÄIøYFJJÂIˆ1°×¢ lœı3È™í‰r$qVH«‡³O¼MWgK¨m9 ™07u—e«¯CÕ!¡gëŞÙ1ñ[¢ö9WGh©Tæa¨i$²±ÖRÀ8_5ÄD,²gc·rkvd¾V8ã 4z°@Z8d\¢à“uhëä
+=ÖÇ1ä¨­I?ÚI`2QÂÌXÆ‰ö#ˆSÖªH;·MXIÃ*f"ÖüĞÍı CÅ!ˆ[ŒDãŒ”`TŸæGjJ)q,Éqe»†…†Èn¬†YZ9L…Tà€@#¬Åã!¢Dxe]‰2[Ëo2.1‰ROÁ `kŒïÛN‡]ˆlKhv•cõèËÜ¦Şâ¿ícÛ´Òæ¶¯é=ËtˆØUÃ‡™FÔ·~ÙImNõÏŒëT,ĞÚİ_lÇx¢šHÄ&¡ŒÑ Vsî
+N­ÛD$Düå}	°{‹{|)Ï»Mö;— IÇZßº¢m}M³l÷kd% ù *ÎíØ³¨´}–ö¸…’y7MkØx‚Ù6ûs‘â	®v¬ŸØÉG™œ>Ü–ÌkAÃL¼×Îqv"Ú[ñg<Zr©Ô7Q-ÊÆ²£¨i*ZP•ğê¤Ç9œ}÷}peKc2;\Ù³Æu':&ä:åTá€Ox#Û±-êŠÇ¹ë=ëí«Xi-¾=!;ßYEÔ)ûÉ«%ÂÇ¯¸Ä”•S,Õé~ZÌ[p«;óÑ§f8ÒšqBŸ‡E?—ŸOóĞ75`éşQyi,–-È^G$1¥ß’n6(Ú2÷œ}È¤FŠ'€#xÆĞ¶‘ãì§f†uYÿ në$T¼r!¹Œ°VÙ„›+eoŸIÍ#·oúZIU‘b#7üÉ@@<.°ëvÂÒ :ÀvMU0’[ƒj”˜p‡\‰Œœ`T“aT~²Zyöÿ qğœŸ©x;^İm¹+c˜;\Ä'%tpB$‘•V¤®¤»‚n+‘šÕÈmui	¦<6ÈvgG,He-¤î;¢£~—“¥@ß"ìòh´ÄkKìåùRv³²i?âDbÀˆß“6–Ë‘Ü4Çá^|tMÅŠä°î†>Ş%¢ÏwÌï <Ÿ!¶–VB$%ËI•òù‡Ë
+ĞÈÙ(V&E
+=:	Åí¬¢tftÚVXİŒ`¢İFÀ*²‘‘"…•Â0'¥6>9×…§~"²}NÏi×UWâ¨òŠÑ{B:‘¹éÛ.Ğ—t{U>à£›mùâÜ| Yˆ·ÊöÖ÷Ÿ„2ÜA(†D&O$Ñ¼~±¬W1`´‹g`¤á°H©áq
+İ*ÛÍHí(…Yåİä‚\ª   •#\€w´=¦é·Û¢]¬ìM‚ı:¹›……ŠôTœ„3zâé°-ê‡ŠgdÈH[×ÑˆY-Æ[á1él§h÷Ç“³±ãäà'šK‹Ş>Â+ë«4Šk·‚%<¥«Fd‹aä–<*‡†UbXÊ€u8ÛëR0«gss%´S»¤(Î^Êo&¨³`2ë"üL: ×ç~öKyn}…°7mîfÙo¤şvF¡–|Íf_RÌ„…š‰ºœ#r—*é²rÍ„k/z0ë©g?”³géŞ'ƒã-&³à¬Å­Ô†é™Kw—PÊ3´f5TXĞ"şœ/B»“¹¾–eş`×EEê0»8 œ† äVQÕŞ½íNÀl=:ïğMÈmE3yÕ´Y›Oz?P¨¦ê©wiÂ?p~=q°V¹m]÷‚ÑæQÏp$©Â®Gõ3Æz~Êú8îì¡å<=½«Äæi‰²IÔÉ™HbHİ£#AÊÆ®NæÚ7I¤ˆéätË#F 	–ÉB#‘€“ñíO­ñÿ N‚Pª™¯tv¯’²Êî§6]Ìœºi0¬Ò×P´i0.¶âÉ·$Vš!bU%
+23àğé$‚YSŸš9ÿ Uzªìí5İó$*Ç˜Á°«[ÅÄh4xåšVu‘á$Èvp¬6íÄñVR–(á’61«öë;O|‚BßF5ŠèGíOUö.±¨öÈ¯ğˆzæ²ÛÀº¢é=\eêœ~·-ÄÑ.ÈäÍzŸ0IÒ±."A~(–¤Ÿi±Ùá;bàùŞ)¥â½ÔN«nÒÙÂ…Ùâµ·3¤…)wf7¸*AVw›«©R`û[±2Q…Ìs…+Àg#²	ÎàÜ	Õû57^ö4*õ†ƒ²5†®µ­*ÿ ÃÇ_ô…0úüÍÖÙ¸4İˆ†É!êüAñã­Â€0¦­…„#âI!‚¾qÉñ³Ã}e¼3Ã%¸wH¡wu1¶™•‘ÇŒ-«±2!ê"­ÜKä´½…ŠÏ›ˆÔ?å™Ê°†5¹ŒÊàäÇ2A,ÅyLÚŸK­£{w¬«1Øöv„İ“ÒS5[ÍÖ¦“mÕÄÔ”ğ“. š¾±Ú0ºz0«,£¹(`dIñØl´}’}ÒY[ò>¸‘ŞŞ.Y-HÏü»™J0ŠH²pV@wxíŞÿ gº²qqæ+ÕVYVò`å£;g¡"dª¤×Ö~KWtv€Î¼ÃØ=ãy>ÁAµ¦zZhg^êLb§¬u¥üÈÏï*	‡ÖB’FYr)5ÒÍ'øy-Øº¹LŠ‚'”ïäR%ü¸¼%ˆBC£xÊ‚X~™Ùó:Ç«4ŠñÃxô>EËK–%\È5!8³CaMÖµí8†æÃ™š®ÏÇ*‰ k(‡‰]š‘]0Ãd#åİCR$·fš·­aÖf¿ÙMv";Ë;ó[ÔÜ¾k“DµÚ‹—qÆìîÑK63„–¨Üê°ë©®q›n>È!–H.³nYU#2Çf!Ë{¶g,©úN Ù­o@ÜÓzòÎÅ¾t¡Zštğ³m®KÙñg ‰F½2w0èö™šªVğª~\npIŒ­Ë¼Ò^Z5İ·áîm–õREŠ@‰4]$;X™d2}’9¢Y·€»häi¿ÿ Ä` ’1ã xô¹¬â>Ù³6¡’Uâİ"k/±WY“©‹Š‡³
+‡Ê®!–ådL~²4K…Ú.2üsÒÄaJe%ºŒâ†î÷ŒàVÚ[Ä¡{ƒFIVÜ’:x!ÖYà¬û²äƒ¨"¬¡·¼¾i]BÛ‡cC.}¶|¬kòKÓaºşr"Kêgßúı~½F…İ6+0úÖ?OÃW¡¹7Z¤EºŒV>B:58~\÷BÄŒe¢7ÛcŒK8uõ®¾ËÓš{»ï«$ò´ò5ÕÓÃ¯ït‚)$],’I1,8(n	À
+8Í'+4BÊÃDŠ!#y·i3¼Ä.PvŸLä˜ç»vg`·î›·;E+c”’Ùp,ÇBlİƒ[‘m¹ê¤J$¸2\,*¡)tJÒÙgï^qÙ%>¿}o¹ ·‹ãì¯-ø@${_Ï6v×
+]İ5òHJb@§vÉUUÓ ®µ o%Ä?ŠöÈÑ2I:!º1%Kvø9Z©º¶&ƒuÛvˆŸ?]ÛlÕã©óÎÁ±.)ñƒ›‡T	ÊZœ\¼µÂ<Q”)ÄdeÖVÓ¥:KN"““»x¹YêŞŞC4´°âê#ívW1ÛBìÉ¨:³)"’§U8Hí”[Ä‰# ¬Œ®Z)Pl™B=ÒÈ #'+rç$j]»¸û9¿¥ÂÛ;ÇcØSq1uêŒUªLi¿È,Èv”ÓJÇ£'BãSÉ)xÒtù=×Vî6<|ÜÏÆq¬–ìY¥”yUÆÅT2—sŸjë²‚jBá@8ÍKmx@º™vRXÆ„w·"ŒtäêÄ`“œ`Ö™…Ûõğöd›‹ñGÂÙ,V,mû“u¸×%P^Z\Ôï™iùó£…°6rÊÔÒ/.lù	""	!w	#H„¯“=»èNWÆF‰_ Ÿ½F‚öÍd@áw“*Œ2TùqìGËçvÎÀõĞH¨¾Ï^*OÈŞõnÏ¸Wg¥a Ü³‘™–HÜS&!eÉ‰xc¿‚Y¯ıšd…[ëÌì¸á–œ#CƒfÓãù›ySÍ,Pæmˆ>HY>GM€VÑ«dM¼“«º±¸|é®‰\¸b¹tdìØ*@Ízıú}Iµfa««¥‡²`$)Uµ¬RĞøûÛ†Ä×2”›¥”WŠa—i¾“c£KÂ‹UĞ}*;QÌz~ÿ ¿qok+–­fGÌoµ»HÑöhÌpª‘¡hØ‚H5>+¸ï-¤E—ÌTí¬ÊSS,ª¹:¡Ù‰8 `u^V"÷/Tí­r¯‚d<}îr
+A2Õ¹:5Â$o°ş[ˆÌJH")äT ğ–ı£ö³dŞT÷¢ò<-Ç;aÆÏk,Q\~
+İˆêHY–27`|É0:øÈdÕ˜«M8æ¸P]®A÷nÂ² öÁÁáİøÏıqºå¨+º†£šm›„Hæ3v£luŒgák°ò!5PŒ‰X¢Ê–’ceÏÌL¾áGUÓˆòRâXÙ8?Ã›«™îfå¤<r!nË8½‚@e’_ÍITà y™½Çw‘XcPyÉÎ´Š±Eÿ ò.	M •I	œÆI!GJ¬¤XÖ1Ôn‚kÎıë½¹Û.áím 6ÆÛr²"W­°Ù([}j¥6¶nu	´ÈB[álÅS9ƒ‰©òR‰)Jã¬ı¿õLŞ—šÓ‡à`·[=H™eİ;Æ%2)ŒÃrò!+‚îq¢7Iã^ñÚâbë4XÈ•6
+¨	õ p;ÔÒĞ_C>mM\#›'iT6´l[€µà¢a€‹º˜ÁR¢3)zÑ7AN¯a¥ èäEÆÅ–â…‡%’cØ•›’_ñ#Ô_ËrV›9ç;	`ÒKTı
+‘¹ñÌAb®[vÉ 'vISğÑx’‘ÊˆCÊ²ÊØXªì„(Æ«³·èö›éË'×n¹—µÜ—ÂŠ6ò.©0} 1jâ¥"EqÒ³õ›4Šö-sfY¦$Ë˜ÍNÄõp“ªè–Î¯€õœ^¤å…Œ¶–öÖÒZc›Ê×Bğdºj•‹_tlTì˜»tÕâÚã‹+–nËG«#öp€@èôÄeGkPâs³Ôâ(ğ4M]‰c#ÎÈË
+|¯¶6>Ps]HK†>¾ìšĞ‰¬Õb™bÀTõ™øô:"-åŒÚÜ´PÇ…F®C˜ËJ6Q•>å:ûd`171É¶É,²îÒ–Èc!X)?¤eÏ»RNÀb³ZF©ºëğØØ[•pô¿Í±+0l@'Õ-‰pÛ6)_Ãí‹/Y uSULæùÁ}wy,*ºº‚0NAl—B¿CŒ®â±ìâ˜ä£Øêdc9!Aö4$‘›ëßsv-B™g§êíÃg‰×6¨8ˆ‹‰ËÔq»yoşK\	ÅM%~›ˆliéÄÜUh[c"ÜõUßÄr7^]Xq¬¢Hå{sq¬‚P—qÂÈ—)¸IXJ®UÕ@`I'êE, ªH¬èyaYe„ h%"p¤¯±€`{ ®´#úà‹>NF5ã
+@°v$İ1RÎ†ØsEYl¶9aØµğÛ0x€­[ÔˆÓì.&¹šEUVÊöÆFOÔ‚; ±ş³!Š±"-â ƒYÎÎ{èı€Ïx ‘^şšİÔÙ¶úéË\UŸekÈŒú¶¸Á”Zà}dÙ$:K#70ãšİPMºFA†³OŒ-¨,\Aê‹>!­­y{ÈâüCªB_m¢™±»©¹H:‚€Ér\BİHïÇÄ|Š®í‘‰„`¬.TiØØ‚Ë›Ïaö‰e·ØZ\iÔáhZ~p¤çıqŒã8ıe9Æ•c)V¬gÛÇ"J‹$n²#¨dt`ÊÊ~
+°$~„VL‚¤«¬
+AìAìç_^s¯”â”â”â”â”â”â”â”â”â”â”àÿ ¿éüé^Fş«:ÔÈ¾×YDo.ôÆµŠ&¦+‘¯¤Ü~X¥ÇŒÙm’¦².eäœ›9µ%Q@ „¡$œ‘å¥¶}µÈÑKÊK1RêD¢ê5x†8Ïlšl>z¦§7).|†Í`0Ñˆ£¿q“©8m€ùª³Ä@YÂ,ÊQkÍ2q"ºëÇHB6Éı’_¶‘ZlÃR!¢BË4æRÒˆJ–œc8{¨çŠhãBdÙÉff\ª‡‘¥
+{UPÊ½|dd[x]˜3eP(ö°ÛÚŠ‡í^3Ş;üÔ%²Ó/“öÍMEÖÕı—`FÜÂºS¸ÊjFkéE}»ds	 ëÑ	ÄÃÃÍ…ƒÙ–Üy^Ş~qÆÆÖ>S’ä/'·ã'°šÕÒ%póG”’	†%†Ô~’tÈ×éäÕÃYÛZÃ·QÜG6ÎHˆª6$%d`>z'¶a’2/×QNİ"Ñ²·^æµHU4ô%vÓ
+dM«!ZßØªTBm5›t]ú,ŒMÀÑ+dµ„@0@êQ‰u€„Ì©kgÂ¹.).Ö>	înîÜÃg¾ó<“•g¶<xe‘† àÌW_øÄ…’2 ‰RiİqÁ¶“ª«e]ÊßëüDƒóáîÒy·­p™„–Y¸™´ÌÊ‰ayI–vš+BVRC|™4_uïm¢\ZU‡2Ş²ûj×<Wb—‘é5¿mñ ÕVhíegÁ!QdG9Øà’z¯
+1~;•œÚ°+5Ô’»cÌÅR<€Ìåp0¹ÁÎ f¥s%&¦À±q’®ZÈÆÄÒ^–R#ß|‡¬O}nZÈ|@ÖÖTÁ:r–š-'$y,Ë7$Ï%Ì©¹İ$¼Š9a–å£PVªT²l¥‰‚Ä‚ú½¹ŠÉV+päB­¼’,‹rXÉ9$ƒ[QĞÂŞzò­ÒÇ%1cnYøUzÙ.ıiò÷¸—Yã!$Ãq.FÁG0Æ“óCG¶¿uÖŸdLL[hâ‚+k{˜ïÂ²Aä¹TK‰ûò$£3QÑnÜŒ©^áå–Y$…ÖÛÈc•„eëuö˜Ìg)
+’P	“¶zï¡öt„Ôc1ùƒ˜„†S‘+LÆªµ9
+2Ma”z‘²§)í8&DGƒ†0¦Ùa˜rñÂku–D2ÀìĞK[iwyzÚ£	nÃ—-äY
+ì¨&»ÖèGpcWeuE“>m¡‚Ë¡Ô®ä ¨Ùkù·¤bÒ¾ñ(`YpàB&écí†1K¢dïy)äåÈ°$Œ³†¢ÛR,fXSŒæeO`JêBÆÑ­óˆÜˆ£k	ÆĞ²‘Œ‚Ob¸­èèû5d0.Qvo`ó>é°*[lc?#èkhGo››’À:]I/D+3q3`Ü›‹:t&\H’zÔ²ÂòÏ V
+iL`M2ï½€ˆÏ¦œqQ[Ú”²gÒ4{9¼˜ØùG•Iä†M‚ãµSãÉ¹{$³æsP3*›hÖé*ßú‰8'GuöÛù‘.>Fm0õû X0ÁØÓÌé’Û‹Ã±±´C!x@ïÓ»áGBH\‹qä¸3èå‰Asã¶yÃ¤v·a§c6“]3É À
+ÙÁ×°J‚[¥+k´èŠèÁä3Ûş^#/»ª©'b
+†=‚qõï¡™İÒ§ÈÉšTU`Ûiñß…³ˆíTëDöˆ‰¥…ft—ÙjÈ@¦-éƒô>—ecå[eÇìmø˜ÔG$r7‰{†B°Ç‹¢™y®Ø’Ä‚º£ŞõÎMWËÈ0Ú=2Ç;Ç´| êÜê`ÌªH ûã¿´ËŒ(¨™ëD:b@t¤0°wõä1Ã;‚kVršd‰S£Ÿ”@/§@¯º9æOûö–¼á¶wmtR–şeVwÌòÜ3¤ˆÄ •hå2±ú¤«Œ“ìÈÛÊcfƒÆ‘*ô²,6Ùt$ù® †“ùˆy8Ø¤œHb9-Y2Áu²©ĞÌ[oz×-„^EĞˆÙ&N 2Â²¡äRdû@äqº°/H‚9¢Exà†ß1#Ê.v]’6DäeÙ±Œr†ğ³2–x¤‘„Ì"cñ\*Åp|6e†S5™+3å2äÜ^¿ˆ¶1Y£Ü FM”­ìa[ü„³3ÍfXÌ2QipĞ––òşšÔòZª"Ã…çŒÜi}jÑãVXíÕ|ĞN<220ÛÜ7UM]âs¾F³–c!òÊ¦8ÉŒ5´êûm»K°DüĞ¬¤G³gÊ­ïô?t#¦ë«:æ¶]u½Å¹ãm;£:‹Qv‹¸ÁAfNé/“­ÒpÔø1âA‹3´AÇÀJB}DcÉ½oiyê~kç;‘Çq7	oå½´1o‘7ñÅ+Ç,²D?K±3¹Ü·ã¸ÛN6ic7Q4¬¨îLŒXÉ Á=˜Ã$y=è:ÀÀ¯9=É«m:bw;f«Q¯ì{tÜÑ³Ñµ0³=C½“y—z~vñªçå2ô|J_É‚á±áYqO4ôy	5—¾ãôŸ¢ï8‹ßOq©Ã\¼ö–VĞÚ3ÄÀÖÈ±ip¡‰Û!Š±Ìn
+˜ı€äüå½å¯)t.ã4ò< …&)V"Ø HÃ`Ö?¬¶ÔKS …c–<?{*JÃj¥BTÙp†¡&!Ú~">^¼éo+ìœ;–ËYXL
+§Èê>
+YâšæÒ%‘Â³µ²*¬’ÊÚ©’	[c¡UYuÆY3˜U×Ì¤EÌÅW`‚Wf
+±ê— Ş2N6$•ÛR@É9‹Q÷ŠØrå»©’áöeÜÑl‹Š×—Õæ"˜²Sâ™õ¹eZP™e#„Zó*CkSÃç~q·r³‡W’ÖÙ§K»ËgvÙá¹1QHE@ÇR+oæVÉ«¡)Ó@Á*ã	$-ÙOG¶ÈØ¶0TÖ1f&Ä9¾Ó‘îEœqÖ´L ×â©æW¯æàCC1&z¯Ë”N¸Ãxq–^oÜp©2´l¦äÆ×İ"(â9.%%®á˜f‘ÆĞ+[e…c!ÇsI!dİ"P¢	c Ë·²V\‘ğöwG]zú6ëí/_ôôÃĞäë¸IìLZšÄ0qÄ€Ïø•³¨e‚ÒC˜ŸN&94ğãÜe9A²Œ²O¸Äw=«Í^˜»2\Yr<Šş
+Î_Ä4˜ˆ«ÛAzs.Şé™‘Å&;ª{û&’òÊ%H®m-	–ETÓó^Ew‚FbT ªá€ÀfWî½GíM7¢z«¸.°ºÍgÕ*tM“±ÖX!W Ş„ØöqÓY…¤ã-ÔÙ‹D’I)J^¤¡o7Ï·Šã¾†ÒO5Ì÷³AnåÑ–W–B-l<¬ÎÑ¨@ÙgTRT«k…†Ç7Ñ$É™kxŠ¨Š,Ës¶€ ~ôø
+Å€'ê|e÷{½·~øÙuëµ(zÄ¾­	B§”³Q½ÖaIÇ±-oÍJ°ÈaJ‘+ÜXÍ8"àø(¶Âqú+Ò”ÑĞ]Ë7 /n.RŞ?/…ağ¥ºHÆäv2<’ÈJ‡:ET±§!'1,qÇnR4g}K–ò–*ÒI± R¡QGc²Äç5†¨Ü—Ix9)y%g‘Ê*„\½bÏ{q1P¡ß¥È| æFf´¢Ø[8e³ÇÒRã¸Âqv\z—Ò#,0ÉlÊ†{À±‹ˆ"××*¢€vŒH;‘R"àîÌ
+ÁÜ‰T²Ç$Å3àDf9#À=n¸Çd[ßYÚwåWaÔ;ÎÌ“n¼2jE7‹U¶âhºÎ•8ãæÈH¯"Vïcü˜GÇÀ’C ÊRËíåy¿PztÚ^ğ6œie}.#1Â–¿%|Ìb“¡’hÕŒîÈç åN—ÂòXï..cLˆY§u·‹RÒX…İ—P
+ÙqßÏ¡ëGu&™êe·zk¥‚ûâm6©ÍgÛÌ—@ÜG;6{DVKA§ªu…ÅAŠ¦I5Eåâò#N¬‰Fóş.ÇüÆõ,.&ÜÍsã’åü… ‘Æ†tT@©ªâ•26$:³bMîö¥ÛÄX¢æ0
+æh,ˆÄ±o#026 F@Î+Ëgh;›hîFûouìhhjL3P‘ôêõ"jdŠÕlXÈ§…Q±m1†É+|¢ÜÁHa´q¾Ú°¦Ûuj÷+OO‰Ÿ²–[«™füTÓx-Ñ ”H‘P¤’3ÌØ¬œw¢k¥¸Ÿ	†EVyI]•ö•¶m€\ñsVßÔk\÷_P§õ(õØr!/Œ¡­Ü ­…[±Q¯qÚ9nTãšÚ¿
+¦ä±µîºE¤‡Ê–·ckÉXóŞœåËÏss*È×V×“”‘Y]Ë"²¨	â@Yf‰—nÀĞ)¼Yí9$"DOá“eÈ×Ñ=JÄçµk ÙPŸL~«5ÓRÇ›x6&v*¾{öKÜŸŞĞ’—¡?(ÏÜä6¶$D¬‘‹Cº+hÖTÚß,læõ×9™-®®Úv35½µ´_ˆÀ(îDFHŒ~ã3½´G¡ß¸3EÆYÌ°–sˆÉYYw² ,Ñ²ê¢G9QU­»ã™—°.¹7F¼	–mµC¢b£íA(cÌ¿0$‡.fM¬ã/Ú”ÚiÅáWüq€‹¯Ns³Å%Õ¤±Ïasø†–Ñ]"2*K,2D^8œî–ç³$uÅ¤œ4\„n°È….Ç¤ÍØ,Šá‚³€8vW&¾Z¿Uöwr|œM.ÁÁ†b·]f½ïƒ™b-æ„âÊ.6 ÚãLEPŸä<Ç¸&Î12~3ƒ±¶ch.@Š8ÂÀ‰3…Ï“4Ò°ÔI#]Îff a›8î‚ã”¸waÑ(gÕçv…rF	Œ"©>Õ0’@=™íµ:²¶å2½\Ù78*ë4ybÜ‡$\xšëc<PUkgØ$Î "†;ğ@}àÒ"Py,;"²FÄˆ¸;©gF3¬ñµ¹‚FÖ)’Û8V`OŒ{,  İÌŸkè”3˜XHÆ%ò2± ‡Àÿ ©—cª·È¨!ÔxËS®o	¢ÎÉíÚƒd”™&ŒuåI !Š³PS-;5"è÷1Íà[ªa¬Ild°šAek¢G xÖ1Œ3ˆôÕ‰pQTô Y”)á¹·¸TüDí³+nÏ‰K9¾A 9å˜®XŒà +ÑÔ³ ]}è]4J5Äì$&ÛÙøüXÆ¯uõEVè~³sRb™÷ó‘Ó%¢˜Ë©‡8Y2˜³
+0«Ï"ôsÏÎsWéì.a‰—(Ğ4W2#LÂ#‘²°pØÍªèR‚WAgÈHñ¦ªÒBrcŒ1*@9Æ0€ïÎjŒ!õÔ„m‡M¸VlâL&åuÜCˆ"=‰!¦Q—WÁ¬»hIlHM½ê÷Ys Ø]ŠŸ|(s4÷Ÿ·¼t³’æ’Iy#Åyr°5›bYBÛªŸ
+¢Qœ`€gÁÆI%²Iq£—QyË²`‰prr $óİ`û¦;‹Í¼ik<MVba1·J(õéFÄ°Û¿å„Õs%6	iz>=ÆE~ğ9ëD¤kÒ6|åˆ´³xàÿ 2ü(i,n¦ºK‚Ò±9o+¡‘D„äuL`+‰8;—iDw"˜š!Æ<hı!µr¸èlçºáhÀû'ÓmÁJzƒ´¬mP&6,,µÜF&öA‰ €£ä,Î¡#i1rD0<ˆÊ} [1‚°§Ğ[Ì¾Dñ¾¥°–æï‹0rvVdØÎ×0]ˆi	€Õl«p¬-‚6bj¿{ÄÜ$"àMm<¡g
+Š ¤)•>v+€Â"1€NBÔˆŞıLƒ¾Ğ/»"‹PÚVë<hóDFì8Ia“7c¾I9èša3™	˜È€Ş’n<2û.|ìÁM(&‡k+é¿UÜYßÛñ×sÛEÅÂŞ,‘y5Ìª©²(g(ŠH€uU?’°I!yãV3ë‘±Us¢ä€ÇBÙPJ€@ê¦õ±DYJjÚ)D9öOCØIH9C±¸RH’qÙËéH˜~ù­d×ƒqGË¡æı#if³„Ø½Â¬ººÏot“P¾H¤èùU°±¶ÒÈBDsIÅª%Ãy’P‘¤Ò;Ä•eít×,Ã,ÿ òĞeóVó×/«=+¯c·k°is3»ıMŸ®ìäÊNL­Ë6¾J£„“g/ûbÁ¾a€¸‚xØ*ÀªÊd¶Á]ÿ ‡×—œÌW,–G‰‘Õî%gd¾‰0ÆcU!™pš’È2C`$z›væÕcÔK8Q@`”ä…ÍØCØ`p; ÔyGÔ_¹Û£±;Äş´ë;}ÜÊµ"G$¨-mÊ€¬0y‘Á”†˜ƒJ*fÂÓ";…:D‚Ùo$¼ê³£¸ô¯§lø{¤Ÿ^R+(nnCH·î=ÄI&»†TP‘ó›,ÇjÄä9ºF_Ãù]Pu„1`»9ıO’Çã'Àêù>¬v.ù×n©ôãR¿uìõŸ°Àl÷›Vÿ v5æ4¦jpÑ‡¼Û²ZŞL‚
+µC'cdcÓêRöUÏ;ô4œE¯%Êó—7	i¬GğĞI+µÂÇrÂ?Êˆ†yŒ(Ş)#Ü<¦ua®Åm¹Fº-ÚiÜêtŒ”Q«HIUİ—eaÆA¶WMşTí'5kß]‹Eæäc´ñœ‚ÑáÃK›EØï†Ã–Ú]ÒÏd&dI"Xª¦à9°¬rrn,|kd‘Çÿ Ê†k.%VEò©k–29„åáº ±Å$aº`!€œeIMãø›² Ép"L$¤¨%2¯AfI1-€ãáC%Ú¾–MQ;£±u>o¶ãJ‰::B},ªMŠ1„‹™kI?ˆÙx`
+U`m†¢iV	©Ÿ1Wµ©Um=;|üçåü6ñŞ("CL6Ÿ¢QJÆ“9VL:•GÔV›†í †gxVFP­±eÖ²?´±99$¡;¨5g¯V]!–$#‡E%×-7F"¥r(4¦9‚eæ0À¤ CÔZ×6+ÊK‡ÈD]]•®ÙE²'9'WŒ2… íĞ,O{u©'Ü0=¬ÙÁRY’@Ã†(vùÈ u®0ÙÎ	$šÚu+nåød^”Yb˜èæ=æĞ#™|xøÄ©äŠˆå:;ÂLğ¡À›è%5|N§>«yÂ¶)ÑtÂüd†Ï´T¯Ào•¨óÂYp¥½Ì9ÇYø lHQöìƒˆîÃô·ÔOcè],Ş‡‰ÕÚÖN9•"÷&DÔŒ‹çL‘‰)i»|KQMæ×=ìJ’nl¸UApõñhèÎ_zjÚï{É¹{–‚yüïjğ+´GÆŠ­Éuğ³jU¥0¼¢¡B¡CQ#pÑÍ»$ñB"Ş#—Rø!Bì£*Ş%•#i•”±aV“Õ©ÒÊz¥¸µĞ5HS8k…<…»	frÀå7IF…2¶Ê}¸ÛMK"³¢¶‰2Æ§Ò¨ü)k8ù!{Å³³$#ÅØ³bÙ£ü¹"|©™UËæ`ÁÙ”Ñsœt—;]´2¥Øã²Ê·
+1Û“«£.H¦c8
+®ÔR†8aÍ†¶(R…y²$bK¬;í)M<Ãí-²ëjRmiZ”«ç¤A‚>àˆ¬QÁ~Aûûóí)Å)Å)Å)Å)Å)Å)Å)Å)Å)Å*­¾©úrfù¨k÷ê¬H'Lk9¢¤,`D.Q4¹£…=ô¿•§$ eIæßoÂrcXÁÔ÷1±±ŠîÆk€ŞÌ‹œ3FÛÂúŒå¢mÀleC÷Ğ"´š½k[øã'Xîb,HC°Éø¨ïñü¼•ïğƒÅV‘!Q<ˆYùÀ†¿Ãˆ¶Š2 #Yäb,Kkå‡‰°}»h+$ÚâÚÀêiSÎ¿âö[D÷nŸÄc$·‘‚êÑdË,M±×#  ‚3Ÿ¦=NMY”;œ²0ƒ±Â)Çdğ1ñŸš¯—ÚNP*AÍ…¬csX Ì_¤„åbBMÄ´ÙQ¢AÜYíCpöZm#˜·…OKO÷–Ñ›>_ÉÉ¹Ñ‘ƒÚªF}¬rší†ò =€v=op†åbŠwóÚk'+‰YX¿Îrr  £=ü/êsmì4·_4Œ´œ]gOm8Ò¥,²ğX:©8©¸–åV‡c‡C©ŒğpŠ Ô?¤rŒp’m‡XFS?ü8â8(¹¾^BÇ9l# ¼dA±5–Ø’PHØYÀV× qªV^^[xÔˆ¸ç.ó•¥ÎJ·Á(ø.ädœô3T×§â£¿Œá4dÄ}írø6åŠŠxïfvJQ¶úŸ3’ĞÒYû¢›o8B‡aiõz«^ñxÉ¿…œ+&s	8BCƒ–:’Äªä	ªOL­¯ã“ñÚZ$ñ‰>[å‚µ dö2Uº¦¡a‚Å´nKa´-…0Úåöh‡¬<„èM:‡2dx©(ÏÚŠÊ’ï´;M–Ê2´ùı¬óI®T˜dİ’;7S‰# ¤ŒrIbØf*Ç¹™#Oâ$²‘$ayÁíÖÊ£  À Ö4<dØòŞ˜åå¼PGË˜pUb6.’§Şu¡ZJ–ûÎG©¤©ò“†GSÈô¼ËXVT¹SI@‹4H-;®ÍêÆ6w`¡¼´å‚’C:¡Vó;+°@F$~S[ÆŠ¤‘æQïàc“Œˆ’	t0àF,ÈŒD…}#…›w’Gh­IAjq÷”*Éa¥!ddE¸Ë>‰ªGÍu(f`˜É!ØÂò!I"PZ0ì®á#|¢L3g¡³…]£FicÑA{‡Pà¬‡ 	bA, ‚ÅHUÇ.ÂÚ`Ã>aùç3"£dÜ)$Wğ„ÖÖ±cœµû©±~ñ^û^àì˜ñÒÙşÓˆ’^qÕbÒ_ÜCh–`@±@¡Òìÿ Ä$ë%äÈ
+³xÀG
+Ï!™ËE”h»ûvE”RÜ½Ã<›HÊØdŒ‹tb]ÛpÄ*ˆ×Y!ëÕşâí}s¶èúï;®í,ÁU^¬ÄÆ¾,‘ùüjäá£°âäßŠfYH‹&iÓÑ©x'Ìm‘ŸSZ“Ïz;†¿~"ó˜‚+ë{a=Á¹iUì«,¥^c½b'r*6 6>Eçùqy£şæ	D‘¨P[91ííg^°}£+‰níc¿ú«wb•¹¢­Ï–2¢•ù¸	ÈËXima<Ó0ê‘”Dsê*I‡+íeæÊŞleªw}éïTÙ½ß($fŠEU–)`bC®cb¦?&»£¦6LÒr|T«éh÷
+Ëd*
+Xş°»ÊÙ÷2’U}	nÁXÃDè 8’DáŒ<ØLú–]ÎKÍÇî œËñ 6bGºîzÿ ’ÂòOÊU–Ã4E–#Æ9Õc`d#Bã9m´$]—!!j†Hß1”ˆL&Èú+’ëÙe!Ø)% wÁ9,„¡1²’Îˆõ’’|ÙÄ­rĞÙO  8‡ğãÙ<†ÜHrx|´ Õ—‘ZT+X„ĞÛ´&LhÑB¸ñÜ@T•ô'Md×(@…Ó¥]0æ.£ƒ!:¼2d=ÄÙÕ²È;jXšæCMc¦áOX©=¹•¥ƒ£È•£:pï‘puºŞc‰ô†¥²Bš¬{®‚$CÙëº‰ˆ2	²6ˆ’$WŒ‡`í°Î`uØ±>Ü)Ók(ı²å¶²;À\ Ô•Pp­Ş ¨’¬Û,Kq"lxO	&tttÂ¶Vm$âeÜHãŒ3%.KŒ`'ÖŒH÷E%X75\REøôhàrÒÍ]][ªYÜÀ±
+¬ì2×Dé²Ô6ˆCIuó·áœùÄQ»CmpÍ<2³!hÔŒE#«kúN6l9½iî.ëØ²uú½ÿ ]¸uÓ]×®Q¶5¨c,u†fÃ‹n0h¦IaÇp“`#bƒ"Ô"†…÷Q,‘åªUú‰á‚KÅòí|Œ·¿ÒË"\º·çH$' G1`]€va	5÷…½¼¾òş6ÅAµ¦à„E\f5Q¶tÃ–RAè÷e&„]õÕ¨Ğ]’¬KGİ€—jDÙÛ›P·Á!3WT`î¾æ ›C_›¬J4¡%’Lo+wZÇq7ü—¥9ä¸{™
+•Œ±bÆ1¶|2£.9Hİ÷ÄÍ²Öly^>Û’·hgU`:Î«ù5eaúHµ`5 ç5FVß¤·rkİ”©uÂ§UÍÚob¬˜M]¶`>^Û±ø¢'lEOY'Æi¸«‘läà§åRa8Ó˜Ä›KG?AØˆœï')#µ«A¬sØ1ŞäÊÅB%¸Ö18bİ:×È©¯-¸ào,®L ca#ş!F8llÑäg+ŞIP¥…E‘BÛhÚv]QµkÕîu+CUƒ£d›zÀøQ¢÷çÓ,©UçbŞ)9x)Xå¸i¬ğ˜l‘Õoq^ ã^âÁ¢–+˜ÜºŒFşfVB—Q¡ ««Xd© í\aººãncIšD˜™d`dÖ vÌ-'³À¨Æ~Š i}€¦L™+›ÄÌ˜ÕÙi™]ƒ.†ÚE‹f0šÃFk¨2Tz«Íº¢)L”8"£
+¶JĞVÏ5å}#ÉÛ¬cŒ·óÈ‘Ácáò-µüK¼··(æQpQFT¡28gÙ*…«?PYL­ø‰Uy§.TÉ6"*°Æê¨cİúeì ‚KUĞ}+(ïâÑ¹“ˆ™›Ø/¨Ş™5ÙK UËP±Ö—³{äHÅV`›‹­8QNû¦Òjp#9V+Ôf9Ó´A¼O‰‚¡fd—RàŸdaİóî“eËlY&Öè6Ë‰_ÉV
+uÎ€…+€ rj°~©=ïÙİíVÓ j­¿?=¢kÉªêŠ´M=‚Bˆ´¯ñ
+å,|‡aPÖ§%åY›8D¾_ bTËLå¦¹êş“ôßÆğö|Ï'cn¼‚½ŠæïF–ÒßÆÉ‰ú)­¹ï;HÄaÛ5†¿¼¹¹º’ÒŞYNâ7Š-ˆ’VÌüœÉ
+ Á$
+†u²gãìZÿ R\vU…Ë	ÿ ñ!uÑ‘ ¤IO´À8ûXèùi¢FÊ]Sùp—óko)Kg›z’Òòê&¸å­¬ì<’N¬ •DÑQlÌ6İT6ÃÇ…,¤*yã•»khòİ8a¤ˆèİ—(LãA¾HjÇá¾’]Ç˜©ì#6VÔ®Q­pÑPÒ•ÊpR™™&ÊïâQ'd ó†ÌH1X§F<oÜ4Üš9(y·R„û‹£›Ô~ŸXŸàÍÙ‹Ê²5ØHd(Å¶æO0)!bò	<î" šæ‹|ÈD×Í9\øvdVö¤UI_„*N1¸8ùºMË²¥juXİY#d¥5)D¶[2¢A×†Uéúˆ0î9Êãù&fIjuÆìyf(ec/‘„g¹ßLqˆ×—£–{[Ö†.NÆÙcßÚ^Ü¦+ê<:Eq²µ´šÙ:mqkÌLÁ#6Ë,HÏo<ìBC4IÒéÙ‹¼€—gIœµ˜ŸQ]É'­úïQÑZbN"22êÕÄk¡×l²:²1¡şÎ›/†[hy9)‡_”}çØZy--YO¸Yz*ÆÔ_ş"íà[@%Ú7rÒ¡ts–1°i™B±we±šªå¤’X‰P¨òK‡]€ :°>¸qˆÁØPHúb>iŠç_´•†¾­ãö^Ïƒ«rR0DMšÕŒÁ}qˆ™U¡°!eòU(3KbN]+a—ÚaæÂòÿ ”åy	aüdÛÜ³[…ØÛÚ¬>MÛñJûÌ„–b `Æ[H¡‰H·‘„€V||ÄÇ,F¡J2ÙÉ&¡%¾õ¯%6}ÒİEÙzB±t§¿}ßøaŸ’Z’o •ª^‡˜@ãÂ>[ ¶NZ,qı9cš´‚ñ8ûkUºãùI­®ÒK¤€ÜŸ~ĞI
+èÀûƒÏ¨ñ‡rU“¦h¦·W‹K‡R#mÉÈ'\†=ã …Ï»QœV—×÷&è;1¹)©-g˜n:"¼¹Ÿ+=ÑÏ%‘ØŒbYd! P2(ë'/ÂWœ‚¶ÓáY²å8éù~3ğ°¬!G3\,ab‚i–ñ!€BûÈ†8"­Ì·K#‡šFÄ(X—‘C¦á‹7À'n±ÑÇÇ¨¿§WÒÇnwÈy=Š-‡TÅÁS$„‰]RÇi!ÖaìO¶r!U*è²6#b\mô0tá¸”©¡ Ñ=¹Ä¼o§ç[k«K›ëÙR'Aa!)#êº¼§.ŠÀ	š0Â7!„’D¢7ñ‰cÂÅù»30!L`C‚HÁ³¹]×b«ª;,’îN¿¤ôß±úÏGÆìz`À¯DÓ§7 Ã]—¬‰²¹ëñãM×›25Ù²Èä2kØ³K±8¤I«+“•ãy¡†ÚÚRg†Îx|ÒÁ˜G/(Río d£S1o8WÈï¥
+H³€J¿_ÈP’rIÔ:•_RCa·[Ô–;üÙzø›f)ws9ˆ=¶T(eÀ—/3 ãÕøIH)Ç¤S)©‹Œ³>X’n˜|á8ä(ƒâZG*ÙÈf¿Œ•óC#´2) 	9UVG;lª.[Kb®c’f}C9·Á`¾0²·`ˆòJƒ®sŸŒ 0DÍİ#¨©ÍÚ"á`å\’0¡HäáZ‚<{\ñu‰Bc™­œ©Ù€yÊ `@Gş3í`v}¥Ôóyì¡‚iÆRwŠÅâ’8¤s*ë_n§ …{ooä[‰¤XÛ;(¾xuiƒq‘ØÏÔb²}ÕõDßİ¸¤‡FİÛdTjeGLBTUW£Uâ‘sã1&ëuñYE¸¢İRp˜Ùä cÇ\Oİ#V•µàf–÷Œ°¸îHäŞK™nHG	…Urª1¢‘Û -ßQEÅµÃšx
+Bë›RÌvs³7eˆş“¯m%´ §µüİ«0Ì:Š±âÆcñ¯x´òÏÄƒ­{íÓmÀÒmÒes	‹5K\ĞQ)L#cuî’0†i
+º–*›.ÚŒş¢T«c¡{½ü}»EP4ŒGaõ–«}Á†Iï8?9¹Úï`ÙœFÇ¸[(õcBšCÖZÕ[üT²“'Ôy•p“/k¬(,Œàááù5Ïd8w¡‡{ È<„y‰sau¹kKkiîãt[Í+YB‘°!œ²FÚ„R?(&Ïœ§c®ã{’¢6t‰ƒe”y[#'²Xœ6Ú®¤1ÁÍI^‘ïè•v"G·¯ ÷$ 5{åF]Ø¥GW–3Ö†Ûj"Ó?¦/ıÔl0±€¹	ìÊRÔèRäIyòşsvóú‡Œ´ã-ä[¸ä†âíÒ'»´Th¢f0‰R:Ê2èÆ4W@I¨fÕbk™î¼râ(µu‚`D—bÈ]“È¨aDÛ•v*Äã;ƒgw]¶Ûó{:ÓZÕZ¶bp·Ö°5Ídášd•´Tk2µ.Ï.#~èÉ(ÏÛ†ˆöÊ5Rìx½*-l¼ZÜŞÈ¡;–U];ÂŞÊB’X‡ìü9S×n¶Œ¨†e„*˜Ê´…™‰ÈQ$Û²çÚØÈÈà©Näu–RPÁ­ªôÈP‘*uØä©/Ù§e5):*-Ö^‚C—hæÄ%½"!2h|#ºâ9‘h‡ˆæ&½+‰áKic?‘j±±r³4e&	Uò#F¡6k¯x·‹›D‰HG-°ä%@Êì
+Iím½ÃºŠú[¯ÑûÆj×Ü,=’¿‰6b‰J`Öî…:ûßp¿PBJÙJQY d¼0Í0ùOºã6üŸ;Å¥”‘Fe·¹r¦YÊ†8ÿ XDL$eË®T	`|.aÁgk3Ì$b²¢‘¢Rş	 ¸e €r£äN5,´µl[l>¿
+4RlQÆ˜<ñ¡>¹Ã×á‹R§d½§’>!¢Dğë-Ç­d:ı	Ã²FŞoıµ¼ü€–Ak<+4È#$±³éGË#9 A“Xä•£·(<è]ìIÑ\(ÜçP‘®5Œ‚vìÕ»İş©3u­{ÿ g®·Ôå5ÊDÚ®Ãh§¡ƒ‚®a°¢%éœ¾pÕiiâLAß'Ş~[P9rUüH³±ôdqLy®^T½·’1xÄÏ$·^bÌñ])ÑÇº³º¹%r 6Ö_æ%à­ÔÇ"ŸyTDW
+7nğF? õ‹ÿ ÙÔ€±lşÌ\ö‰6ßÆÁb¦t¹¨Ú ×ãÅ¶Yå&É:Æ‚d´ÌN‡.Gû`óª)Ó’t@ÿ ¿	$|2D–è¾	AWğ÷~4Q…qùcØ!oiÈ%[LÎ6I‘®YüğêÊfŒ»lNıŒ# ©'eÉ#éßl¿¨?ÕS¾;ŞOKî8wzå®¶9úö«Ø?¹›¯ê¶+ño>ºm\ƒ “v›šÁ‹>§°jšÒøûÃd´€SQæÎNO‹ôï§¬aky-ïoaŠâK^Ì‘$®¨.ç+©"¦9!‰Ud–>–¬XF´W’şv2‘9ø±»EÑ¤éÒWÎ¨pC’0dæé§Lâœ\vb×¼ÛbW¦å¥#ådŸ¨˜“­pŠª¾]‹4pınJŸ!5q@¿$sáMCÇçÇæ#•n8Îç“´–HÔM'Í\a„¡ •šMQÔ &%ŠBYÔáN¤†xYd¹	ÎÑ(y+¡i6Ê{	×¥#ßZ³NõhLlÚ¼ê˜×ò*c±tÏ­Ë6íÊÎ.ß'3cJ>¢˜é)£ãøŠ«rkİ=ÉFÓi5ÿ ª£Hü~Ş$W7rvó—ÀRN™b0ÑìÚaT„c&Í7,‰#â&ÚTÆvÿ š$ † ):¶£l±âÄÆè¿Vv#Ø]7½µà~#İ‹bQúTŒî-‘°ş$ÖÉ2n¹ÄËòk\"À}ôÇZ†w*!e¸Ğú“•…ä8SfĞÈñÊòÛr=JUÌhŠ‘¢šTP³#HÁfÂ}Ù¯™® _-Ñ¬€Äğ2˜òÙÙÊ¼aˆeb±I±^0Í*Õ=YºCŞ¡êÒò‘pVªãÅ%†¿@ÏÆÈ†ë&6úãß¨ËÈ¶#¥dâr,Iq±ˆí›ÜYF÷6·sA'<ğ,²YÉ&í	bHBùÛmNHè `…U”ªò{²ghC-ÈFêP, °*/±ò™Ø‡*H,cè#éÁÚ#çgDì#Òì¸b¸EQå½à–˜Ëê¬eÇ”ç¯íÃ§ÃåOg8îAÆs†ÃBµ¼-Ùñ­´2"brr3˜É$ı‰^ú>ßŒ’ç,BHn¢\9™T o‡ t9€H8ìš·h«;N)N)N)N)N)N)N)N)N)_'ÃHÊ³œc>3ãÏëÏüyy
+‚ış¿ïù×%\ŸØ|ÿ ¿ûÖ¾³(9`d"äXdØÙ
+@21…Xf°àÅŠò>=M;®²´ã>r…çÇß*æÕ‘Àe`CNr=`ı~ßÖ¥Gí#RA^ò>A?CÉù÷ä¼}4Şúca[W¤ÏsmÑW'!ªËKEŞ®Ë8ÙÅ1Yö2Õ™tœ°seÆ€b¬ÀÆ:4À›CˆgËy†æHnãK3;™mo¡#\€¯£8Y¥le$c«dÖÿ ‹æ.Ì¸/2Ä‚;ˆÜlIÙ(?$gÜzÊœŒ ¨ùÕ#F˜×û;eÜÇ¨ÆY6õ•f/ EUb´xx„r\é@OŒerÌFF”ö#’PÅ´3‹VákÈÜ\y‡I-í&$‹Äëd‰ÕT–S«ê­aƒŒœhÃEùw@aÚ&iÀ“iHö =¥µb;ïçÎv&´ë¶Ò¥n¦æ”¨W÷ÎÁnpês/g¯1±–¡ &™+C}L,5H©Odª2@sÌé …*3‰ì–âî,=Mj·††ãÅpĞ0üågqÇGXŞ<€döPß¯Å¿šÒù^Ø˜ÙÌ F¸(P6’ğr”8#W˜]ÅôÀïnˆ¤%¬¦lVš‰¹ÅÚµ9ÍlDD¦”‚q†Ÿ¥æMØAdë8”<ÀØ2(ÀÚkVIÑ«=5Ë[Ü¬óÇ),ò
+±¤l.¡X²HQ¬20}àjCÖ9l¹Y¢h•÷$¹¸…‰(Ñ¹!T 
+‚=gnÔ|¨ÿ VÚ£”|<µŒiæä£ÖmB—9cÌc¢ÇŒ”aqÎ¬S#•÷,)˜å<?Û•­Œ„ÑL¼î(9oLË9müLEÂ$/$(íå.’]ÖU*ûF]°C0èjxÎv)?Å<¨í˜™#™€Ô# VL²j0p ã^«bÌÕë€‚ñ/XÃ®ÂGÊ0[Ö
+ı™	×dau'šÊŠ¶†dçÚaæ3„0Û>÷º;n°ï2Iu,¦ÈZ´óˆ–;™à¸T·+dŒª³9x×
+@ò1 ’A­Ş(£"Gp"Udy8Õÿ øª©'?Â  }F cèû¸WjQ02²×¹Hä@×«ÙF%èx÷â‚ÆKH:ÌÚšiÆœÒV,º¯¼ñ›5µiÖá¯æÂ+8İK\ZÅ<wF-%Ú,”@ñ’p®ò‘ìˆ÷+C¸Šé¤)#˜åh¼K&ÊR ş_Áb3ªwğÆ»G]v·`;^œœ¥ÛµÔ]4ënÃ€´ŸcÆOO<“&$œ”µà\\xVIp†Xä6;˜Å¡ä8ïLzlrV÷vœ¥ıĞğ[Oo¬r–,å#1ÂøÙ_i6i.¥˜bŠW¸åùVµ•&¶´ËH4ÍX®YY”YöœS¥#©ó`úŠİuÄÎ:Ã£jóõÚœ+Ák£«q‘ù´j&$—¤h& §\rJ-:có%¸,£/¯2N¨†–f\ÇÛú¯øù=KÊrb;©äYg’ìˆäÕ‰.¦àcV™ß…Jàh1ÒÕÄœÅµ½ô]½Ÿš4Œ¡¹x„ã¨ØGŒûAfòr3İLm;«>¬YØz“sÖ)ı{Øºv 'ëZjB·*	?3j©;‡£	£Ò¤®ù“b9ÜÊ³•)lûU+ßBs¶·\Ò^[J±4¶Êé°lşH&.¶°hÜ£˜ÜŠNAáÈ,<µ›‹»iA/2$’ -€ºÊ®ÄÔÈ)ø8ò·^@5„T×€&åëñ–p“''8¦^tÉ‡†Róá˜ÓX4ÆU–]×´#Æ@rK/!Ä‰ÄsZO,Ü›iX›U‘ yº
+Áºb¤‚ «1Æ#Š”Zrš-Ú?*£ºêÇQ"§Ëw†SÙrfEÌ×@òDECÎÌÑŞ/9pÂ&IÈgÈ).´KÀ·ö«öØLR½ğN}–‰+
+^ÎöLF·RÚÚòhºÌñ³ÉoY¼lã(²1~È”‘ˆ.è˜­Ä°YqÍ=£å‘Ud|(Âä˜\à¡%@!A9<ÀkJ&–ä´P ü‘sä‘&IÅ6X‰¬Ê
+;ËmD¨w]ÈÎ)´àä–gÇEÅúI8_Êcˆ‰JkÃŒ—H_, ª†?ôß8<E¡‰vò¨.à¢’Î]‹®‘2¨Ôër~CŠÚ6iÈz¬¶d#æc_¯4„å}ÁbªA>Ì”ˆ°1%!XdQ&¾Ù‡ƒmÒF$áĞ^„}¾~ÀÅsÊÅ2A+^ÊZ™§»	eãŠE“MLEİ èÌÕÇâ$æ}ÁxlšVFAt€¥¾Ó±eeÜ°}T9
+ß ‘±|
+íz‘£û¸Í‹^nM©l×š%òôæ¿Ì‰Í’ì6wÆ,'­),
+8wRŞl!:¨°ğÛ£+8#Ü:ŸS\úJòÒïŒåf×–¬Ğş^9YÔycHR THìÀ<UÈl›5”ãÏ-k:Oo¬°]17#«Õ[Wggí‚*d]Æ f®«¸]ÑÓ?L­ç¦u¼•qÏ×õÌı§d*nÊDhµë½ğˆóªÇE˜„J¾aà¼Ôér­˜Öd`gš†Ù!(SXOMú&TZ]^µêÚ¬Å¾ğ™b«»¤…]K,HT+m–rC P3gÉsík*ÛêÍä±F\ª)Ô è¿É¥
+,I¨—Õ¬…æÛfb­¿&UJ¿şCÙÑ›v®\}b®LüÄ²IFÀD‘í°ì\dd»Ñ‘ö6Ğ£Z	2Ñ>îMÿ ¨¿Ã…±´<¼ëok«YÜÉ,’"gËoªœ»›ÆFWcã%z¨Ü:·4W± 7µ¿J8ö9?¥† ğHÉÕMŞö£>¤THMA½iÂ‰y.:Z/Cí™µJ†/¹ÑSwá%j2*„c2&Æ;’¡Ï4Êìè¢é/8Ó8Ş”¿àî„ÖğÌDöÒ’#tVÑÉ¸mˆ ü:‘•lœTÛŞ:ŞxŸË¬°lÈ‘ûcÄíÒ·DtİR;>pKú"v&~¬&¯ÔŠÎ©*.Íc¤o;\¤8 Ø¬°3‘ñÍÔœTË‡=ï·„Ëª	¡=Ù?¸[xW­_ZKÇ¬©a3ò; ö*XFªvQpèÃC€å³«
+€Ä\3E+6mÆ?4(ßfşH÷)ÎÄ¤N¨nËóİéd…+V¢Òfß¨kÀôæ«²Õª­AD_†‰”Øw›{üTlì‘n{¢!–ÖcM±FKQh1Ö¼çŠ²NkÔyÉ41¤÷-ssÌÈ'ódC¶Ìîªœ„ì÷ÕhîÙ£µÛ‡`UH˜ÊƒÇ.¹Â©;€'¡Ö+ÍÆ‘®Sà>÷s´,£HlXùµÈá©lfÇ8t™ğ ¶|ÁDaŠÌ“ˆlwò–\)~¤£eë+ÎVÿ ğü/be‚î7yãğæßğ6èúCø™p#O*F«’øÆB§ÏGmgfòæeG…‚‚Ï‰<’0Ë˜×iÆeÏ´ç#bp,#¥} ^©ít¬»9íc¬,V£â¢- Õ^Ù–0Ø|úÈ–WÒÊåâFÉF`_x“äÈû(¢œBJCI¤‡ÓÓGéˆ®d··nM¦y¯æK™'[ˆ¦ÄFËñÄâ1áB®ê3\¯¯V~CÂÍ¸EKeÑcyY°Z_Óœ·¸áÎÌ¸Û\b¶eô¿g.Å«6ÆìÆÔÙx»5İ4m­ÇEj´=^Ù+—$˜.Tr…1ø„´o ÿ Éøí€ÃUä;ì3êäŞ7’°ã®b‚"Ê+ib†&¹½io®ÄJKÌ‡AÜdjƒWnBìãb÷S3‚ÌÂ Ç©XÈ8bTÉl‘Ö1Ùãu|>èHCW´•AŞîĞÕÆÃJ¤0ë=ŠÚ%á²Ly5e”l|2ä	Í–EÙ&†lçèXRÂ2¨v2^^Na‘ùn®^ã1Á+‹àãöÉª+0Ê†wl,ìã‰M,Ò(„GicÌº€»a˜l[Î ÁÂ¯´·-iÿ ³•ÛşÃÙf6nÌ£Ô5¡wsc~g{ÜŸ”²D·¶Uù1õô ²¯ÓèG¾Í„úÖÓi<Œ'Ru¼wê·ŠâãàŒ¹ÙbœùæÉ*ÄÒ´€’Øê2 \ıÇ+ÆE#2‡ºr½Ğ¼`®B -„][¢ß$Ÿ°;í?û;ßL®ŸSî=”ú‹væÙ%NŠrÉCƒjªËÇÆ5‡câab™~zÇoŸ}ä­¨
+Ílv$!Ô°8…:æs-¿miQ^rLÙi(íà7™Øñ«:¼ó3(÷* ¨,BŠi¹{›‡g‚Ì&º³<î¨¥b6XĞ|œìI%ª­ßUï§ò¶½C¯]éæ›ê.š“³+ŞÎÁêšï`;9„áb7{­Õ6mšæ8Ğ£æfá›¤Õ|b¿-
+Pù®|ÄğÜ5ÕÏÃAÈr6©µµ­Ã¼’KîFÎãg6•!—r
+¤ˆç¾6fNJò8¹>BK{iX‰ W¬ ı%U¤iNŸÄšãwxSúâgjJ˜×—#ûr‡®³n´öZÏ±ä6»bÙmåG(‡‡…‹M00™'Ú?\pÜ{b¥Ï>àyW^Úİ_z‚æXæs
+qGŒ[(-L'ïÄ²g`YË1 ¢q\W
+–QÆï ‹“sç–O `É&§@È0v 1S€ d›,úmw:ÉÑı†úW´ÇØÍNç^²`¨¼É@¨¦I±¤ÃBÍŒ‘‘He‹"˜Ù°‚
+M&¿{v æËÊ^‹)·‰ß/’šK±££4R!ÆVHÙ–wÇa™ƒApª\‚±ºbÊèÄJT©BIRCSØ_Ûlì4ÀZ‘·_í7ÀŒGåşÉ«“ó2¡É•†I™u¼*ZtÌ¡çÚÀÏ,L9”úåÍlö\e½”NÎ!P²)]˜
+	!8ùcŒlIî–Á–fàdÔ…¾µÎ:Àù ªÄSîw{uQHM­vÕä:·ÆdÕj«]™ça©³ÒcŒ{'FÆ®Ã%fh†j.H™PÆ‘|Æ.cŠşY@yíáüH·ò .2»ˆşI¦J†íÀÆG@[^Oqp¼(Bd e]uØ{|CvéˆèŸ“•t§éË¾»ü'jºëÛ‘3¦dzw6Š”•˜ÚvÚ:¤Òšòš
+>2{^‚($ÍKK3:,Œs`9*Æ–Ë±¿9Vñ"ñrpÛ_µõ±»âm„QùV9cÀbĞÍånâ|cW`U©}ÈA+]™PÃqáyJ`?å–]F$
+0ªê	=U½Ãrìşùı/¶Ec£ÛOJÉKBĞìµúë]WëZö¬ÊlÒHµ{¨Ï=d‰$Òä:mÆ\sU @’$¥·³CgÁzöØKê;^GQ-¼·R[Mrf u3Í´‘KÀªdQ8®Y¸©J[eo"«Mãe÷ä.6È q–2AûÖ½~›t+Õ$ı<¤±!‹ÚÀá6Ë·º×jí†Ç™=÷²Ëuÿ á“A°€LqªLİ ƒëoJâ}i)[‰}[ù @ÖË¨ä‘s¬záC(VÊTïŒ·'·šXxùC¬Ùœí€HÉo•:ä‚£ÆpN+krÓ¢z±¹6–ˆ™³Q³ÂCØW0OÅ5RnN¢b!¬³[&å([²I R\f0ƒAfPÇ4¶JŞ¢²³æ­$HÅÅ»‹>"†??‘u2Ê?5d†4ÿ —²‡ß,0 ©6×©dÒZÎÅÌR(v$¸Á
+¹ÓÜÍœu³š‘ÿ NĞi­[Ü
+ÜßÚÂzkz#2NAÒšj	Ó¹KTùY(y”64<™	V#eŸE±)d˜¡z=GÂrCkn2æÎÂéîcšèÎÌ#’ÙNÒÀ’ĞI„,…Z)P4.¥šçÔ7×N.%¡ñ@ÑŒ²Hw(;Ôº	‰Pêö{µ¼:úÓJıd+%)JÛ‘óšçUÜœ–)÷a gá©Ôñ lt¤@³‚Å-,ìÛ1ÇEÈ….ÊGÇp±^ğl—Ròñ:Ú±iok4ÑÜÚj ‰HRÊÃ6òÇ˜6ÊÛ ÈlæâD¬ËrÇ¨¢8gŸoÃ˜$”¼a£2ˆõÆH„µl›kiËóÕ1ƒ½2]^Z{bÎ9]£¹î2ÿ ¨¹+8Œ’šşVÄ~	ˆ|VŸ{òËj(G!ªöD³än<¯%í¼w­õœGo{‰@e#XX¨“$‡*ÅBêÃ¢©‹4E‚İb•Dªêb#'¤‡Ï·ôã¬`ääÔŸê–ÓÖû(K¦•±Æ«rlUÊ¾€#$œn"¶£˜ˆqØqCöç‚)¼¼ôu brëÏ;‰Y¤
+É,åÙR\ÚËÇ´7°Íqt²IqÁy7†IÀy<€³‚ ôhÆ àµTIc2\%Ä±ÂÈ©$XL”BT
+ ƒ&C|œâ´ÇŸ×°›tn—W{v’ˆ®*/i¹‘m.²“8"KmÆ t—ò–ÈrNoÃÉa¬'‡kxĞ7'=Çù’´ÂYcÊ"+âH•âÃ»–ü° gE,Ø¢^=¼>Cn‘›éµ@ªÃbÄ{K+{Bª’äáCœ%³×~¦íÇ!+L ôi¥‰kbOLé–v)÷/J"[MK$C=ÌHä4àÉ5Å8—™Ç•[òüı„WIøxúCMgH©k@u,ê<‘ì†FV#U8ÈÅE¶³•mØ³iegÈP´¤ãC–*@É!”€vqššK&õ~×Ùµ˜b &¬2{23TCÚòdıGbrN—(ëÓˆ<f¸|õÇvh°’m€Fa`š/ñî;«>"GG·ŠXEË@ÆË>¡TL™ÑâEgŒ#ÅŸnÛßÃ[:ËxÄŒP8WDÎ[BFwÎ©ƒÃç×§>Çè;ó:æ.— í·;Z«†e×uíİG¬×-Ú>Ãlk„a•®5}H‘cjú/®2‘’
+•7rÊÅQÌ·tPÓ.AÃ_³¹G²†ybÍµœÜ™H-Õ|i›¤OÒ&B R€6ÎÛ9XÒ>ém‘\MÓâˆ‡Ûå²™IùPä ¡r™fj#¥¹kL½ğİA¹-úØ›4ÜõqWÛÓ$öLÔ)ÙŠÊÀ¹XhµÁhó³)@ƒÄØäÆ‰x©RMW’#¦ı
+õnÅ«Dª­y$(’Î‘…=4ö­(ê@Ô#ÆN¤Å‘šùa¦Á§—£ãL.0JJ©ôØt‡^Æø9«ĞºT]c[óq]0éq5‹hCX+¢• ›1±7ûnÇ#K èª[m_ŒÉÏáC¿í«²Ñ<qûƒÇ.ª‡,$#v (Øî¨™a¶sƒ¸Ë¬‘ìvP
+ü£9`Ú€XŒ|šŞ/?ñ,3×*$¤¼3q¥KŠĞå”áSµw!İ-Üû1-ÈJNfÖæ]o"ëuX#rÑZmA3‰]Üœª…ß!@,Íª3ê ’Àj`T)İJ¬‘!gd	[b–$ ¹rpFI=	­-Ó}í¨tÓÛ"õ®c§ ’Sğ³5™×!C.$˜°$e³y &	õXõÉ‚QƒÇÇ‡’Ou†rÏŒü|İİÚA×AäÕa’â&Š‰¤MÂFÅ‹	‚Y]_‡ÔàW(îm†Ñ* •r^4¼j„†Èd ƒğÇ`Á—?L7WßKª[+¶¨3ß0yuNCšÂ\[c¤y/¹}¿w9um+7œ d6ë­<âRÖS§Ghæ'8:²°ìq†_Û??×8ãwÍ`´r)Æ{{ıú=ßÇĞb½qjûÔ~Í×µì^Söv˜ ep„üá‚oĞp¾}JÏ‘l³ç>¬e¯æÆ3çŞ[Ê&†9F=ê	èß?¡WÏ‚i"o˜Ü®~à|ê0­gœî®ªqJqJqJqJqJqJqJsá8ı†i]£ÊJséÏÇû¾·Ÿ?¯øøÎ1ÿ üüg5Ó¸ô?©ÿ OÛç¿œüT„^¾Øşg_¿úÖ›¹Ë&0'ßõ'a
+ô'*ùË™Ç¥9øıxÿ ½úøøş¼®¸:/ÏÓúç³ÿ ÙûşÂ»ã ~çû|ÿ _ıÿ *­Í¸vN$IGCA%ÀKbr(¥­m’$«L?ß„CjÃƒ“–
+$l­9Ê÷Gy²â›VS•²[ûw‚NÌ‡!¾¨ãµeùø#ã# õİ_YMà‘YNûYqÓ+	QŸëÖqUÅÚ½¹£ı:ƒ³©BßÜaD
+£)_mÖ;lË±ñG¢ÈxJ-ÊK`Ü4˜n°NMm´óN²ÖWæóq\•¤Í,(CZ¨+6Up w0ÿ ¨‘ÛcácÎ¢Úæ)chÚMÉf “…: G·ì?çà×^Òõëoi®ÍŞë×Õªƒ-%ŠÖ–MÚ`Û*\€·«NÖíª!kŸŒ†aÁÂ9¬’¬4¦<1%e
+ô{~fÉxx¦ˆA0DE»KxÖ/Î`ù€€¹.Kr®XàæªRÕæº|—C“ây69„ÃŸÒ×#°pjÅ~}Üd‚ZÉK`QŞÊæĞ»KŸ%[€ÌÓIsV–Bò§Ø~ÜBkó%ı¿ãNSŒ9ì°Ú24õqœ"Óqâ(Œ´¼‚F¾"ò)ÄnÊ]²UŠäHA=kOii,V¡.¼’«ä[ŒîÊrIÕ+•sÚçàV¨úœô’w—dî¯U(sÏJ»+´u4Û‘àœM„L¡©;Şµ^BzD´4÷ŞÊÇÄ}ÇÜ˜ïæcX{*9–ôŞõ<vCÆró$VÒ ldr[Æ™?‘+®3`£2û?I%u"•â\Ê×«æ˜ ²*ªT‚Dƒc…uÁl}ÄóY•şwNÍ¼5V®U-®¦.MÙŞ?c;d†­ÍWŠCˆ•:@eC`ˆ¦ÙjÜÃè)R)=Ì°ûÃ£šk¾gÒö\u÷1mµÓÇ SomKs%Â³,h±¹‹ ³;«¶c!™É85$å®'‚ÎIİ#E!¥iY£Ğ…fív!”apİ 1Š¸Şı2»Ôı¹;½$aÿ 
+áÅ?UÛC|mVP8Ç1+#76âÑ)%z¼°ËE´4®%µ¶‡™.¯ÏıMêNvÏŒƒŒ´¸µŸo$‘M’fÑÊÑÈ$V8=ŒÂºŒ]ññId÷K{p“¬Ìds—}Á°T:û€È'¯¹ÖE¹>­ıV7«ûVË®Õ#=ØPß.‹l¥ND1RÏE‡s„œx†S'PLyÈ,Ì¢Ï`×’1èi©]váï"y+8/àhìqÁ™fF( ${+.p+#ùÎ+…Ç6‚9¥ ´au 1#å@K.@z¯<İt¿mu³ˆ¾ÁA5?i²‚cf¯%j§Ù–;„áÁ\,bX~AJJ@E2[E:†°¼%ÇwÑıIiÆ\ñ€¸-¬xh°òImòC*ƒ€FÏÎVğít.üê²	”J'k)è©'¢[ùÏÒ½;uë]uj3}ÚPòÖ}(ŠüÈ3P1õ	X‹%Ëm[SïU_¹(û2PëaO½„Ç<…¶3m¶2—˜cÃ7¸{¨îY_2ş
+çA¢#Ù¤Ø È‘ÀøÁÈÈ;³:FÖÈ#Y~j4ªë,epÌ V9#Q‘Ş@ƒ^G6ÌOüXÛ:›_Üb´åzé&$5VÅ"Vea`"`ğÌÈŠÃÎ [¢ŒŒºÑoaæÖêEÊŞq.+?¤-g™¸Û+{îBÔrwVÊLŠĞš]Av†"È³k°,j[Ü >dè#¹šh­dü$2Ç´€ìvøfElu“úXq³)»†4âd&Ç¦E¶XãF‹dŠ­ÌY…QÙmñ‰Y‰õ¡¬+4¤4ëÇ!¢VmæùŒå=#<ÉÁqy;Û<“ø¥ºHb¹˜œ –EA+(cImWeÎp+]cê;x¶i¢‚$,[ÅÊĞÇòÁW:£áu`5ØÄ`l;Ní Ûñpé¶Ì±L¼fQ¸:¬1ï#OÊF¶BİÆZ6 \xèöŒ¼ûÏ<õ/èŞiÚ)n•¤“LÍtQ¦¸>æ%#@áFcÓdÔ© ®ıE`‹â&FT‰I±÷)%p œ€zÉÍaµ»v~7F.JìÛ=3l[\‹¯ZÜ€Ÿ7× )Êuõ³>[aB‡Q§`‚L[,
+ól­¶ÁÏ§Zn};Á¡øëE¼ã­°Ö±êYvLG
+G³v¦8Îì}ÌÄÖnIyKÅ[Éø{‰ƒù;Ê®Ø.îì ôY”²ëhé@¯e3”N‰õºrãrÊfôwXõøğúö­j:.¿l7iøâ3ƒKƒOlé¨À«i¢D£W’Y.ãÆá±¼ç9$F+-ÍìåËàş_˜±l¢í„`ÌÀ÷f¯ngŞŒÄÊ `CÄƒ
+Ø
+[’ ìPú{2Órß;jïµ¯åeÛeXM±H®@’
+QICÑ5ñä¤òäƒÙ¡ãBCAÿ –Ğì%-1ŒgÓú
+Ê~¶±…ĞEi£¾’ê	šg nÃc“ğIÅd0÷—RHÊCJÄª|+)¬k‘ŸÛ Aùı,¯ÿ H^×o]gebŸ¯5VÈ—)â¬·I!²üD+!NÏ	óM¦+Ù`†ãòĞí,³”Ö[c¼‡ñœºõo×1Ãø‹›˜‚ˆÂ£Gk#°Û¹±¡ÔcbŒ.OU98÷Œ…qHIi“;Ì‡'U\àŒÀëäœ|J{]şúJÄS‡Øµ]§öuRF“«¸ËÓ5ÔÉ{çN««OM¼uyæğë&–#$¡MË‚å,åüµ…U¸QÊ.%¶’Êòİ$Û*±\™$	ƒ¹ëp€ıDœ‘Ø‚æ?ÉY„È	Ğ0Ã# uPsŞ£½;ï `T?¡íı\Ö'v¿uÛm@Õ«s@‚¾MH1e€€‘£²L¡î … ÈLåÜÈìã+ºË,Ğİú’Ú9¯­½/ÅDÇÌ-®.¬¬P”h‰I’Y3‚£êoíx­#ù‡n¼¨‹ÑÉÆK”bÌ[ ¯À'=êiôÌõv¡¨¬cìg¯1Ñß~vĞ¬’ÄÏÍ¹_^_1C‹*ÓQ0‘b44@æHà¹gDî™•ª¨ñRZ í*\yßÊ’‰¶–c±XÄ}¢©fDL{Büšã4Æc#"ø‘p A¦¨™ÁbNÛ¢ÌsßÏGPm.¾t‰®ÉRH h«5ûv‘4Mú¿–jn²!l¨UÀ•µÄs8
+69÷Ğ²L¼dP]má³"JšÂt]òŸ‚k5¹Ã:øÖdy5e"`¥Ó¯×Œ ¦Úç5¥I|ÎŠ]Lú0Ï· Ò±\ ¹-îÆ{©•×¥&ıØ;ºÅØ>ÉÚµUbdÆÀ†d„¡ôÈ´ê¥_±„ ×âVØ’J·Ô•<8ìg>U9,kHì›şÕNò,‡i&“%‘p‚2ˆÌBô{nÄWbmĞI$˜ `@$ô	Éè¹¯ v¢èµ·BzKD+2× ìÛÎs%G—ÿ óÀàõ0•Ö0QÔšŞ"£s—ñ÷8dâ+	xç‰Ê}9²·ã8¨]?İä$/XÀš®:Ø±ë³“Üg¹¾—*§Ä¤„RXçîÍœßÀ\|}±c•İí¯è1mÄÒ!*ô¨–YdfÀ¬DE×ÃÃ,#°…³0©},£”áÜ;œ~ñŸœòö+Ø£P‘‰F XĞ ÇÆp ù?¸ªé,İÎd,ä÷–%÷$ŒıGxúcàÕ}D¾¸›¡ZÉ¹†VÅÜÖÑÊkXjhÙÇ?`5¬áµÌØ¦rÓ£×êñjq²u~¹‰Lz@„	òÉ#Ì¶[©^8˜{3A*„¨;a°uèAÁèã¢ke·P\0,HUè dàŸo@‚~ÄüWŞı_ûaßŠy´ù:n¹q
+`$LmĞ©wlÑÄO…›äëØJ#"ÃM‰zQ“°•X'~ıÌœ­·¥?ş·şqÏósò·°LòqÖ°‰,ì¬c‰ÃÆDQÊÛ8©c%c“%œKš¿kÿ ÿ §‹^7Kky%ÔÒšiÚDÔûŠoûÀ…ÁA)šEÚ=A¶Ğ;¤7"ëÀÇ˜B2ĞÒ‡GÌÈ¬ V)ğSâ)†–¥¹’#@ÏÊ-¼2Nvr½ÜÁŠdÎK”$2îYT6YIIÈ\ä¨c¶•]Ø+¯)RÈÁ•¹ı3•ÆN¸&kõëTÏßz¨/bµ0àNÚôõ‡b×÷åxPUˆz>\®JÒí1õ½&@Ñ‚b^li²bã™	¸x÷å}MB–²<¥ôvŞ —‰äGo}og7#àFg*ÑOH ÂÈêº,UÈSÁ«>5äİ."Ãøä–+•Ôà(l©P[•Xgà0÷Ö+¹¯í†Ù¹V¦
+zÿ eO•—”—[©KV2û¾ó²”¥	|l­ÑŞn@¨ÇX8RQÂŞŞìÄÈ”‚I#VÀ\à‘‚~‰@ ­Â+›{ÁÈİµò¸jg8?ÂÄ@#×ßĞB×YíE/së±GÓ·ıqVb*yèë Õ³vCö) ±	¡¬lÎ*°˜éY×d!c¡ìJ‰mù·ç„M/ªÚKÚâîÎåà™£‘D‚|JV(¶B£&gEeDxÌ±T“2Âe¶i!E-ä«)cRD’g'F:!*nå\!UvJ¢ì&‚:Vë}†ƒ‹'Oì¸K… %øç`¬u÷”}Quë=ef©É€›±aì–A¢:–¾ÂG¡ÑSl–¶×6v—;%Ä‰-Ä±0$ ¸Ø;vÙ]A!Õ{Qeì®e‡ FùhÄ˜u{Œë’YOØ‚sUm°»9ßİyÙS#&fgv(¨—e`äÂ‘-P6â±o«×c¤œ[°eËC4ĞÓ1AL¸èiŠŒ–Ë¦oNzr(Ÿ’‰e†N7ØèS<ÎşHæ’\	HÃ¬.±b6hÕ‡¸eºÖ{Øä[9B¦c&KgE.¨[ÚJê]Ke°pÃ×ë&¹Ûµ"¦uÔ!é×òà¬æ¦¥†—†Œ Ùœ(ÂÅwíŒÌšüb}”5Œî;—ó­wÇ^¤—a%’2‘FTÆÎ|Š¢%8/"çtNr‚"ËÇÆ³ÄÑÄÍC³r‡8#¥l`‘€ùó:!³/Zgv™_›˜gWoFmú¶ÚêEiq¹lÖgej1åÉ˜n±$Á€J¥Æ–É*Cèx’rÆ^Âm=EkkÌqBIâQy`\ ¬»ÃnòGÃÆ2"  0B²‚š°\A¶òZ\Æ±G+ÈŠôÎ¨Îº±Æ’A;v$W¹©> İßº_¬Úë½´z–ÇŞ(’Ò³„[ék€7^œD»-5'TJ iS„=)ÌÙƒ¥Ûn#òLy½÷§}GÃ\r—›šxlfò·¹v/lÄÉÇŒ‰ –|Š¡‚ç*ÍunÖWî•|®úJÄŸ;EŸqNğX‚k»P‘šÃ½^&WXR5İvN¦N¸ÖZ¨èjµ^"¼U!˜Ê	­ş†°Ìƒ%€©Ë[³<AF`)ÆœY¶uï·—Ş—ãœ^M5ÔSÊ/g»rìÍ7’{t,İ£Æê#l2ÄF¬4şÚúá5•Áñ’ eW'•`ÁğFA±î®=d‘Ğ(Y^ó©mÙáÖú\4ö,l–JExæG!æ
+Hî(û–ŸÄXZááÒhVA«FÀhªX32‚v;.0r,£ n—‚Q€ºgØX+UòA > 9`‚8øi©¶b±sÇ"#±MJ¨–Ñ$‚~?2+ZpòÊ$êLÃÉ?u#d˜2²…µ0„vmw<jÍ¬…×ó0öœŠˆ#U!³†bÄ±;Ü¥¼NÊ¹MxØ)Î@A#8ÏyCØÀÆ*nõ“¨]íL†ß¢(CÈÖbæp¶›Š2­dÃÇÇ®<û
+c>[ï#˜˜6>#/Çû(ópèæ˜ûÉ7ÆÜ¥µÕÌ>°‡X£b–ÂâY4Œc…$¸te†2ÆIŠÈÁ5Ã
+CÊ/ˆ¿„¦ZF·y)¼Œ‘Æ$qjs##L¯¸¿U¤»-ÓkÆ¤´ÃWû7×*Ô}‰óò×]Ø*—Èy"c"‹[lÎU¤¥f†9)N]œX’-¤¦ğ—CÃ’BN°–ÎöÈ,®.TÆC\[\C-³åuí	S’HÇ¹³´34q•}„SFU²NAÈ:¸RWR?I ‚#½w\jMm±¥'•›,è7¼E*@Y7¬˜<ˆÔQ±†@ 8—TŒœ‰ãåŒääRU\‘yøocÓbJÇ@ªºàÚÈ:ìŸK` ÕÕ@fl*2IÆqóôï»½A­:ı¨wY[Úµµ¼‰a´KÚ‘\Û¹›³LDÈ{Õ¦Œz1ä?VÏÄbKÁÓÔ¶¦„Ÿ
+ÈüîøÈ98­!¿t‘lXğJàñÉp™eVeV+€&#ß¨Ñ+Û*·$y=Û‚K¤mÓØ€Jƒ’öT
+°ÈNÊÚ£AÍ´öÕWD¼\õvÏT6H‰6I>|c^2Eøä‡*	P®¬)†i¢ …T@$0ÊbÊ¬E“Ò¼4ŒËs
+NÁ²¦hsĞL©b¥}¸8=Áì‚’VêU "¢·Xñ±?#Æ-Ÿ¸8Æ~«ëÕ’¡¶;6m9®\ğò˜Ä…-ãä6¥¼ëÑ„ÁYõôÈÓ®±,ü©1û‰VÑ
+“–‹J—&±İo"{Y¤hYäË01˜õdõ(®ºà# +ØlŠ9­
+)’"äºaÆÙ,;AÃöH#Ü­ßÓu¸Ôİbìà×­?t¥õ¢9ÓFVÂ­_çØˆb"FªäÔÌLm©¦£eÂx¤âDÙªšó€Bëó’Ye/æ%k?©xë›ˆy(’å‘f‘É¸yˆ¬à›ˆâr|Nfc’™€/*÷NÖËo„Í,Ê­»,NKp«"`"Jàˆ""É#Ç‘ªšû»TDMªfªüÌí~"ZN	ºò¤ˆ¼!F´Í¯‚¸ĞN4Ùg£Âğ2†‚&ˆ å6ğ¼‘ÚÇrCÛË(Ù “©ô
+º`7}Â”Ùåk„:Ü2Ç$ @fıXÈÈÔ‚W ‚lû°X{«û3f”*Æ»ÃrÖñe¼ö*J“ŠÙ2Ìû/áè¸TÔio©’„˜h„¤bRÛ$ÔD¬õ*>¬Il·i}øKG¼eñ-Ğ†3pWëï×9#›äÖÅvQ8ÚC’DŒYŸ]GÎz#!~>B¯Á­L5í†ÃÀ¥ßeyeMš#M²8I¦HL<Ó$Ç›¨àÙ`8!kŠl_i…»¸i¤Û(ü÷¨=t~À}F>Š: p0,QãİÒ6*ïú˜`õÑ NqêÛéyrzßÖAıKyğàî3Ñ‘¯¸Ñ-£í6]ÑS’P•)Ğ1’œ'Úw9BÙ~GokÄœ[´e²Ñ¿`Ôº‡×ıvR~+ÏùlÇe Uøú•Êö>‡ géöê¬k–µYN)N)N)N)N)N)N)N|# ¸¥tr­«Ğ¬ãqøÿ ×ôÇÏŒr¯¼Ñüä}Îqı~@ù®õ9$cä‚Oôìç¾ÿ oƒİE]¤ó…‘ÛÏò
+Œc9ÆŒeÇqŸ_«¥z|'×9óñÊ«¥Ø`ıÇ÷?O¯_zï‹®ÿ ¯Ç]ÿ rqŞq÷ê¢¦	²ş
+F3‡S”¥?×8ÏŸJqœxRqŸëŒã<¬xòr£¼tsğõüşÿ ½X	È8#¬ÿ úşõ^[ãCTîĞäGYb…•KqÖ›a§~İÌg8eğ–¬eàËFq…4PËmö•üÈZ|xåuÅ·”|vA\¨#ãí××ÿ "¦ÃpWÜ§úõ'¾ÿ ¯ÛéŠ¤.Ëhı°ì$m6“·âko™'¯ÏÛ³sßµ­˜Ç€lÇ vQ'=•ÔåCU¬—ÉŒ¶øî —ZrïÇ=“;fsÕ¼K@£,¦X0<Œ‡ É†?Ä¤pÈÁ½¨ã_`'`Œ¨$§ä÷×× b¢˜€^ÅU*¶(õİ2cÃD%ÌyePdÅ–%µªJ&ñ‰(¢JÃH(¡™•	C­ÁVÛm;Ï4¿ârÿ ‡¸ºšÅåœ…ìeÂ€#häLàˆÈ$©9×#WmÈ¤¨]•Vá£‚Üƒ†œ:àŒçé“ŸŸ½v“››ê'Ôø”ëˆCµÎÌ¥Å\qi¦Õ§êW˜¸XéµøL[#Oz^f•6ÓÇ¿y	—ˆhç‰g#6FŠÆóÒ÷‡±ÜqòL¦ÚßÇ2Ê.JŸÈ°jcI‘ˆ%3â‘€ ä*¦·¼s,¶Ò‰›¤2#ÅâØ*Îu j²ÙGd1\øÏ¬½£yl¹=s¼õı#]Æ>,:Ã&u;Yñ`â[ä±™YŠK¶bŠT”BğX!š1 
+·Sqwè…K$Û{Ñ’I`x
+Ë<`†UC°W@1°9$@ÈªûNGÅ3£A q p@r9Û®U†_Á©AÜ„ö´ıO´k±JÖ%j•ÇbHë‹‘ò»f¨–ddMtC†´,Ô:èÒµ —£Çßaå`\Öúü¿å­ï¹xæVŒºC@Â6'Ty`|6œƒİÈ	e¶’+WRó`ÊsĞP¸eVÚIÔŒûpHûå>“ªK’Ù¬k™Á
+‰]@ì±sIĞ@®tYD’À§ÆÊÂ‘&³1àJ4Æ}ŒûØ	×ŒÂÊ³ç×ùf..[ø™%Ì{BVBÙ†È7PÚ“õ¹êƒŒ±k«Èí[ +“(aN=Ê[1°øÇyï6]ÖÊE|T4¡Ã%E"Y
+€oîãË‹cEÈ3cluƒSã±Ö¤ÒÑ•dlá¿ä=OÈ_xbÏ{ %’0Añ[¦Xºl bêH(İê‹’kĞmøû[mœD8‰Ub-!€Äv5ÁĞŒ‡Åo½W?yëŞÊfèæÂ“Co©ë\¨ˆôÒçãÅyÃ™
+pS¸ûM¤€Ä(·ISL4é@‘îøN*Ó‘·–ßK²±ÌÒ›{6}İeP3H¨¾ÀŞ×Ô²í‚k¶{U”êÅŠ”/)Yı~£' ìÕ©jÎÎj·ivOÄØ6<A·MÛI°;Vòšüz*È²¦¤ş(p‘ñIAºqÒíô‰„ s”Ã˜™´òHÒ$24vÒm¦h$-¤ìÎé°r
+‘ß}’UNÜ*ùX†Æ4pv^ˆ3*ô§A@1ÕFı-Ò§VÛ¢l
+4F½¦Ú»9)n·lšœíŠ|Î½Ä1ÅÇ=!(TˆFâDBY$´ã:ZÒF$ãØ÷9{wÎúŠí§{ÛˆÚĞx×>Û{œ0,’DªbTêÄä/a°jµ¬lÖ7E·Œ£¶|l?1¤?¤æ0 ç^È$Vªız˜ÄSµ«fïÙsWŒÜ•ïU´óõSæë:°‘î9ùŠå²£€ÎÃï¦À$0Ãd¶š´[óÓK¼QYAP„’?É»»%< ÆÄô«‚bÃº€¼U¢¦“¤>@ÅƒêCv ªvP¹¾~£g>Úÿ Wª_mv¸h½s!{ÔÚz‰®(¶áìés4‡ù•³¡@}À­ô—×6Óí—÷O²µ°·ZçM§¥æ¼´İävís+\º<e\ÆÇc!9P²3lB•×R0H WxºQ)ŒDÌÊt%ÊßhÀ$ê ÆHÉÏÈÔU&ãÚª]¯Eh=‘D£ĞÔ«-¾ÙY«Pó!a°±#a—!¢‰dƒ„ÜÁLbd 3(b	|wÆ[Ì‹y8¾ñXÎ//$V=]µïV‘TPHØÉ?a“]÷0< ¼ÊñCòÈùÌ¤¬QœàÓÿ ~Àë¸ŞŸG[F¸Íã©×F¶…xÁš“Ÿfv>Ğâ&à«—ÉµËQíaOädıãŠm8ZR´)*äÛQÅ	Éª´#uì‘£OÏÊä¥DŠ$¶-á£1Àsíqv21Şùø©¨4ŸbúÕ@·Çî¾ìCë)hÖh¦K×­…nŠ²H¶H-ÃÓ_– ’bLŒ«ë’>õşAMû/©¿kîZ§d¥],$K†•Ä ùcÎÈ$.(!'^É5&s,O¶RT*ê¾=_ægoÕúv#ïû¯:·7³¯Ì	iØóûJKñ¯ÌÚS3’DU>Ø†=õH{DÂ¢1àÃ%qb7†Âa¦ßqÜ'</}EqqYq6#º]®]DqˆbCHUìÊ=¨ŞìHÅJ·´†×Yn%ó…*#,åñ†
+Oêì`6{ç=$…‚Ôõ©Ê©±úŠ§p¿QcFHŠİ$[‘ŒËa~§eà«o<jßÀÉKMÁ‚à($²Û¯›)È6–³ZÚ-²¢âaùà¾À¹mœ“¦Í–??N†uÍ}™ÚâV‘¥d]©ªƒ¡Ğq×ñcûw[cø*çšÛ.ÃdµMSjm³+ä3IDÄªqÆ±.ô#ÈÈ
+ß¯Ã‚(Æu-£ße^„%3£·}6çEMGÿ ÉğAŒŒ€H®¬Åp¹Õ»)±qñõ-Ñ ç@Gu»a7¤9¢‹V€©¨œár%BÅ…|“«ÂDö[IÇ©>3ŸpÂV~~qlàI{J¦F2 °OdwŞ]f£¸Œ€ :	=~İœ|g'¿æ{¬ôÎÌ½¥}ûÙ}JR•é[‰NRŒçÕéñŸÎ|§	ÇÆ3ŸßŸ#øˆÛeë¼ÿ ¨ÿ Pqôı±E‘ñö'ì·Ïíõş}× ÊX°æS÷¯úıVî+Ç«8Î0•©*ÇœcÎUããçşîyÜ8$`gç}=c»úÑ„gé’>>p>˜úuı3ö"´vÛúÖt¬psÛFMöyôE@ÃaMO:#XyĞD[ßìñ­¬4;³&¥AÆåì¶‰Ê03²DwÓFÂÍ·Â–ÈXÃ|Ô¨b£·ı#ç®Œ[î¾RÉú;ò “Œ†~sß×Î^ìØ;¹[–Whí95aM~‘|€°õ:ÑedJÌ"òØi²O QCè@ŒªVŞŸnÙˆö¶oxô^ÖH­c{‹ù–îúEVšêP¸g8÷GG¨ 8H“Ú ’ÌzÛñÒ$—R"À‹ˆáF>8T±* U¤riF	×Ğ±í‰o P`Ü¬-ƒ²\L¬T¡}”“1“Á±(Ü4+'—2K…>Vìdµvñh€KéÑòİ_‡”ºœNŠp$VC+0ò²É†.GÀ‰	ÛÚTŒí¹Yxè"he'S£hø‘“eÙC1p¤:²œt*«HÈí1gÜT©¢¬—*eîÂò’›aèªb!D±s‡Cî ïNKLÛñJÁ9oØK+*CÍ+Hş¢‡Œç-8NBmõŒRÙ^¶LOreh^ÒFUï_¬M†0ÆÍÆIwe=õ”¾Imî'€a\G¦ë"Õ¹”'W$ÌŸ¤¬íÎƒ½”urÇ#ª¶¥wXì¦?ğl9Mš€>bZÆ.=é³á`#fhr™H³Å“ZÜeà‹ÏˆrÙÜ(¡šó+9æ×
+³:Kˆn@ÊÆÒşµW#-}ÀÔßLE0ŠâIã†<n4WvYA?©T€6QyÃtq½%:³b(7»×ı“¬»%­£nSƒXÖrs–6)bî@-—dƒI©X@!	ÚåmJF~B9—]gÿ •ØOuogÊ[İñ¢$Gºº#…§e
+K€CÁ¬IFpP2@¨"¹d’·0;bS¹
+>0;We Pm‚NNH:—­=ºŞ=r¶®Û×ı²5E‘õf:UTéWãå]#/ñS">Ö f\K~èGK^ ç³‡^}·,ù6ÚğÛÿ ˜Û[ŞRÓYÎÅƒÀÒ¡C-´Ñ:º3G•,$Õ0>s„Ç$rÇ:%Æâ+#èÊÊ²ÆêÊtl2õ‘– ösh†}@6k§`-Ëv=9y€ƒ«-a…®ÇI(a]’tfJÍhÌJÊ9÷ò(iÃFÉ8iõÂaü<ÔûpSŠkk{YÈr¯¼“Ép±¬c.ä°DUéˆQÙÈaPqğ—IHÕÆˆ±êìÄ‹rH=`{²1•5±$7¸–—€ŒŞUè—dYmë­¹øNÈ“Ûhs ì„Yla`¼çÜáA,åR¯0ømç"¤Whë,„e8BîIÑğ=ë¹6S­ª`y\Ìø\üƒÈ ¹ÏÈÑOu¢½ìœ³7	§`$Z*S4ê+ åïË–¿eÅ1$ãm°HÏ}Ş@ix{<oÛ<ë£ã¼lì²¼Š¥d÷7Œ¹ á€î2*Å£ún¡HÙ~5ÎÃéŒã'ç¿œFÛ–Šª96¿¼ÔGyéøû(˜‘\áı¯¾‚°ÖGeqòí–,[­Mé)X[¥#(wúñÏ¼4¡À
+^&ÆTà22Öq…,u|3°\}¬:øNÇàüö£?@qQ«°}i˜²Êd©Q­M‘x*$ûdLh8“T=ëÙŒÁo)l´ÛŒŸÄ€‡<àØzIfœ2_Ù³Ëä¯ Ş)î£[xæ†T`Èåì¨GlÂ†¶À”ÍskksÁñååu‘	 ‘€mØô¹#² ?;SÊ©´4ßt­¸­­câ{ÉªèÕİepL‰U*ô‘%Ø ‚§]¥â¢Ğ Å³(
+ë.‰aÀ}o,ÌltlƒR~®TÜ-÷¥®¡6—NüıÊÊhÊ.J®†•C+¢ÈBÀŠì‚º|È
+\B®­ò\q‡ ö’Ç$ æ«"Ï=Š	ÄRçˆv&×A°È@K!	t$Ùª³4ÑÀŠi¨cÛõi"<¹=ĞZÉkDËÚÛkIo1q+ÚÏ‰ãÇ"É€HÀ;M€' gŞ2+µï ‚1»y>âK)ŒX…X—íìì×´÷Ø¢›2BĞÑn”Q#}p@0V™`‰È×S=SŒi+	š›`¶Ôe•ÖË¸ŸqnşRˆT9+ã
+¸ìbÛ²€’W ]m*|Œr…[}º: Ç {Ø2PÀ–cš=xú¡v¯¯´yİ}£·Tµ“r·,ädBkÉqVËXÑ6zœ›SRqÆ^Éöiz$ÑÒWi'ĞrF5ì8†œM_%Âq<•ÒŞr-Ìp Ùšá híç2ÇæŠ	%’ŞFòÆò§‘#c«,+Œi&¢8ŞØÇåmI†'˜yâU!$‘2‰ ]4gœ†Úµmhéd±vØ6‹¥VU™%şRİ)#dš²PÉ€L¬ùOX•<*zÁM–‰8”†±Sªï³
+ÈnŒ¼p+<1‹{(ÒÖ0ºA
+ªÆ{±£Ñ‚6¬¤©ù©ĞÛZş·o,Ÿi0Y€˜Ò5Ô‡FRâ¥•s±ºÎY·Û:^yÕÈ~$¹ 3.ü	Vr.G ²oui‘Oa¤çÂ¹ÓÎ…>QøL7&‘2„`FI|.	Ø¸Ruí»èÛ'‹°D™-‹€ø°Âåúïòr£õ‘ò­·“
+Õ‡vÓ6PRP5]k)*—¢OØ3”ÿ ¡âá§k&É
+*ìÊYs”øæÔÄÍÚĞüœUŒªuÎ–•éĞ™	R…t å‰ÀÉ!‰!‹ }ÛåhØ b5¡1³0ÎëØ …âØÈÎØˆÇŒ:·—\6ÏCán.ÙfPtù&Ì>2ï®$áÆŒ¥‡hñs\ q Œ­n¬ÄxùµÛ —Ÿá9‰R©pˆ’“•˜“ÈA¤7\\P\Æ‘H%²F‚)¥—+ãxnn – S¥…üAã5'põFûå‘î¼»œM*HÑ÷:Bá“-ÒÈRcÀ«–ÕZŸéÑ¼ ¥h‹¼Ì´â’lCö;ÄŒ4í^IÈÿ é´YXË\yW'r)H¶æóÃq¸®KÔ~ ã0×\t0HÈ¾#zñÁjÌúª‡6ğÌ!v¸ˆÊ÷@a&Z¦[XK"´æğÉLÃkšfPX²‡’xòÚ¦·;Å2V©óÙš5Vûh©Dl:DÔU~Å:¦$k(ˆB%à ÙÒ¹ş%&ùG?ÌGLÌqãÃ;>ğ¶HQœ!–öÉ-Ãq¶÷òFöòÍSIlŒÎ‘»ãG!©^ÕÊ©ì¨lWdB9.^Ü‚eUäUFè³($l­íeÏ_¿U¢&;@¯3.^’–<pÄlƒßr>u¹ÄHy%!I2F  æ+q†ÀHGYˆ2iW™×ıqªø–’6b¢AVR²+«°^ö\ã½XRA#£aøUI€ÀI•aãÆIÀl€k‘ŒökÙ=ã!v\‘&ã‹J_[¬œ6#pb…—#iâó\±#È¢óš¼]0ÜúmÚ^3Ì# <¤„$j³–f`9|) u‚ Á?—Ÿ™
+[\€r@À`u+®Xü|ŒzÛ±]ÀW"EuN*DœâÌSe­å¥òşá¶™+î^)µ¹"[¬- ä¥	Z£Ú‰K"T×%©Ë—h;®>÷hò‹†sí:•¶×Ë(ÏÀ.F 
+UrˆcsIVU'Ù±>Ğ£`·K’I9È÷gĞ.N†êŞ³¡I”!ÓÉzÃd:<œ˜	–G1*Ka—ê^
+8w„‰eô:ën$å¥å¯G5~™º{Û;«²†8®/æhüø¢(¶2¡ˆ%d„åMy¿(İÊÄ¶`ÇbÙ°	9\ş¤*ßTÇæ’«iÅ)Å)Å)Å)Å)Å)Å)Å+âûIuNqÖxóÎ©#2íÿ qû÷ırVÇßï×È#íÿ š˜|³Z}X[‹ÏëÌ¬£sÿ ÓŒxÎ?_ÓÇÏ+æƒlşÿ ış~‡î>_P{Åw«‘Øøÿ ¿ş¿ïÕG[y÷R“ç*ò¤£9Â¾¬çÏ§õñŞ3ûóÓZAış~;=ô~zîGìÿ aô#êîÓıkAl
+>m¼å¬)*óœçÎ?~qŸßœçúç~~9Å±lĞë9û÷ò?¾w	H=€0 øùş]uôşŸZ‡í3‡[P©ÂİóŒ&|+ÏÇ8Çœc9ùùÎ>qçÇ÷‡,eÈ=¶?~ÇÇÜö©q\…ï8ÉÁ€Fsßÿ CóòjìÎ¥¸D<Ô#(¨)gY"N»-Ü¤‹‡2)¹“–8L­k@T°hëVTÑV~hn¸x®Ú…a‘²å[TãR0
+œş;ÍZE®¹É°	ø9È ÿ >úúÕ]lî˜Øàf²Wçe…@»&F+hK}¦[F\Œ+·œ‘–$öZ1Çİa ·Ûæ[ôÛáI­ã+k˜”"8$«0ä1Ø•ï'İœf®­9€¥Öbí°Ü%µèFAwŸ®:È¨înƒë ÕyŠnèĞ;,Ã¤¦ã¦»jirÆ"=`Š@Æ&Ó–¼£p×Êy´DŠm*Z™y^3]ÇMê¾ é®\ÈÊQÄR¯‡C&£`2v@ rjMëX^´‡FªX`º1“÷
+rA‚¤‘>jbõ~AÔ§‹Õ[Çr®…NSù­èm³Yh±,d„+¿Ä5$¡"'#ÒÁ!µ"s‘9\²ÜA)k/*êä.o. k›[czÌÅo!]]Pç@’<E€ö£jv&º£%=ª_Äÿ ó‰Âü+¶­ñ‚ÄĞ#éŸ÷/XõÏ±”h¢·²#“ºŒ“5ÚTİNÙ¬¬,¨Ó—^™sÂÎ8öY8uÁò“r<w[yœ8ïoÉ\ñíâ×Äê?² šld Æë†ïušë”m«(VÌeX‰ {Ã?E$©èª‹NÖ;|<Ò¯Z2dÚD ÁÆ">‰+6¦4‚G4™@()–…-1*­˜²İÏC¯4¬'¯Ô¼?3ÏsÄİ“Èß®<le0 ,¡Ö UTøl¶U¯ËÊ<q^¨X ÉØs€ug
+pıüôÖ¶·ñı{`æÀÍR5Qÿ ‰“D#Ks8pG€-¸¡ÒÓûdºÊKŒ%â”Ú™'Şh†yŒx.8«È¡b³]Ãl²4ÅdŞÅA"S†\\BOdN#ªŠ¹YÒx‹ĞòáPcÑ\vtÉëAòÉäÖ5OB]¨ÆU·msaÆ^'mã×¶°+ëqÎÇ».0£ØÀ°èÌ’ò
+„9†Ÿu¥š¦Pµ+¾'Ô÷„²{;xÊ¾LFçBT²[²›äå
+p£¾˜âª¯¬KH^²ÈÇ>2²	!ÏläDUN>Ä÷ÖJ]¹úi£$åº÷¦£¶­¦ñÃ›¹]âõœÅšWeX3Â«’7¨HØÓjáÁ¤F¤‰aæD Ó”¼ó™rÊä›¤7óÜ[ÿ Š	."Yaˆ*ºÈ!ØL©Ÿ¡9 õˆÍ¸ŒÄûdÀ'+îc˜ÙÈõt?°Í{‹Õ½ÚIvÖÑØvJº½rbî"Y‚c_ÑÁJ[t•–âdg’‡ÍsFSf:XÎ­8Œ;#ˆä§°gñ-»[NŞIÄ!yÛU·#hú=1ØÎj=ÄBM2²y"ˆ,¬¬{,@:c¬ş¡×Ü…kPémÍ¦rW6â'Í1¦Û3UÛ!nÒzŞfÄûF¸ÁP±åxÉ/Q*—Ÿ-/°éHG;ùË«Î]a‘­£·´qJŞ2İ˜ô<…&À“*gâ³:É2H?Y@ÇİÛõ\ÿ #'8±‰›¬®Q…a¿X¿„£M¬KFÆÅTìE1jif§Š#†,ÑpÁ„~OÉê,VÜCÃˆæ6Ë…–9Ùˆ‘Ñ¤fv¼ŠAV™Âû—|‘Àty Ùİ_‡Hõ:è1sÁUS~:Ê÷ƒƒŠò­" ª¥&Kf[¤d,«åšk”TxèmœŒ„ŒŠ>mµ´ØqÂ¸ñæ”C™ñŒé—FI‹6IfpYI:åJõÖ UQûœÕFèÎ,H£½[ç=sÈ$±­PÎĞÛ2S2Xle3#€‡@R„	 (Í—RÊÇdXØæYsâÖúše¶p¬#9iJO¯6ütê„‘ƒÌÎ:$ª¯@¯C'®ë©äƒ8(23Ië$üvO_¹8ÇÎ+ŸX¯½ÚÛ‡h
+u×ÉdÛ—Ÿy×yçÊÛ<C®µ/
+RİqNeYV}Y°ÁcÙµ]Ÿ -Œã'å±Ö3ñ“]R]€XáOì?lwüşß8ûíˆÈ©pŞ+¤ç•)	Î3ı~qèøÇœgúg>|g~q™qØ¶AĞÿ ´gã®ğÀÿ ¿ÍF{¼uœg¯óŒûÁì
+ÍB®ë‰qA¯?…0Œ«Î3Œc8_£Æxõg3×÷O&%Fu ıs¾:#8ıÁûTstÃá¾½“Öß×?ö¬¨ZbNq}+_Î¡ñŒüg>œg)Æ?yş_Ÿ×Œãã¢Ğ‚Ü~Ø=}OÇÏÖºÚìädŸß±ş>™ëú
+È£¤cÂ|£ÊÛör”yñüÙøÆ0¬yñŸ)óŸŒxñã8ç1Ç³QöÈÁøèÿ .¾¹ø®ñ~6=|wñóœd¾÷šÅ	[†•²XL&<™I#ÖÂ 6òé¼óÊô%)F<cÎVêÔ†JÜq(Wcqú¡ d€z;CRNG×Q\æÄ.Ç²Èë¼dı€ùÏ@|æ¨O»Û‹­½±TFÑ´[ËTÓäF´í{å§&1zyÆCŒ§¬ã‘ˆ*…u‰¾ğ9?³K¤•¬éqÌtqÛåéû.vÊ[«NêÔ[Ü"~·„´;¦k¦Ui%+…p€ 9;@¯·³Ø]Ke”Ëaî]ò%\cÄ23å¶‘ƒ ''I$N‘æû’$“ÆH™yE€ÿ ¤iÒØÄÄxY"jRR·bvR0I8k`6Ú»2K3Î'{„ˆ00•Ù¤`¸>!Ğ#'  ï8ù™Â`3³0,Jj1:İÀl{‚ñ©-Ú²î20êôgek;)»SMº:Ûy§Øv¦¯Û-™7µİf:»/cfû+ØüŞ±‹C"LÆ½„¢o-ÉÊD°ÖPh£Çôÿ «xîJ­ï`ÿ -æ!¸Kìd‹F7HÈe)
+œ€•Éde‘ r|må¬ĞÌn¬Şp·
+Å€ %#]Ô0Ô–Ã2¬+RhZvÅÕÓúùËKŠ‰¼Ç[-ÆDÌ’Oü"•#³mã 4H»í½—2ãjB2Ù´¸^¢Ÿåc¼Ô™$°kkhdÙ^o!™Ì2ÌdÔ Je	×5/ˆêÈÂd-ÏYR_M —8 “©RrÃoqì
+šÍ±l­KÆL0 CşØµ@À0§ ‡2"ğ¸@H×F&ÓÅ,±D%2ÒÅaNºã_2-gepŞGí¤•—%å'%”œ± ãÜHf`ÍğÀUëNJj ş•Œ`j¸Æ¿H_Ò Î2e~¦ÖyZ¦üÕ>o@î7ªìHUÛß…Œ¥äŒaRY>W-<<ş½!”£óSFåúy2L¤„$§G^#Ì[Em{ãÊñ¾uÉfî~¸ö1$ğ–ò[KËzÊ¨>p`|° T=ú õòë¥û7#±„›&Û®{*³6nÜ+Ù’~^mÇ
+œˆbj688u´Î\Ã•à(é%V—l‹ã©SºoL_AyÃi£H®xœ[²ÛÆ;I
+9-ƒ	 d}ÍTÌ’GxÍJRä³u°Ãà† >Š ;ûb´­¶a±õ¦å×5 Ìj éâR*Ò¤	w!ÂØæƒ}×1–~åÂ\!nã†Ù-ö\åÌbêá£H$î0µàåKH{O(Ç¸G•‰­Ö0Gæi•Ö
+Ó ¤a™ˆEö’	ì3’Ä|·¤nØzyVê^×ÒÃéÄæÎ>x{%’“¸é‘-/cE1* n…mjgŞ¦½( Wl1L½Ü=™ˆâ¤‹<©ZNs‹çdåS‘â9xíRX †[™Íº[Olø¡Uho!˜3G*´ªÅ´%J…®$Í!1ÈæfD—P»˜°håQ².F PìZ<éyöëz©pSÎ¦j	YˆèhB•™B†ªSÌ…2Êğî
+@#%¼»–ØÂˆÎ}õ/8}
+ÍõÔe¥S0|­ÓË.ƒvj(b¡A'"¦Z3¬÷!gÑ	ÛDÉUFW$Àş‡[n}acĞ›5 "dnµh…ŠºĞlPÅJÛ)³¨Zã,5™	 £•%Ä–8ë<$}‚c%EáFk­îá»Š€)ˆ›S5¼ñ’õ$+‘ƒ«”$©"*Û”:«ÏÆ6¯§C ÿ ";­‹I¶*¶ß”qÈËa5úAÑbûÆÒÊˆm…§ídS„¡µ!—ÛSmº„>†rò´ôËÇG1bƒI
+¤`êH cïÖ cº£ºuÂIïL÷óƒ÷ÈøäŸ¯Á®¯4`:ÔUû|EkQ7uÇb‰¼tS§GÕ¡à†~~é*ÕN:Å™¦ÙŒŒ³ÅÄ°£‘U²²¼J¯ÙdîSŞZ\Mñ÷R,P®Ïb/#‚88sĞ…8Aîì jÒ)ÑØJ„äIS™ u]»
+ 	#.p2EbšŸEt÷¹{wxv2Ò>Ğ(P'£äg4ô‰ÕŠ"ŠÉUÖZ'aİçÅË¯ÁZDá!VO°ÌÚ[ˆ=RLÈ¾sŸ’æ¸N>Û€‚&Öò1å“PÌ5Û)…†\«`•\\Ö™VVPÅ™NŒW!º_€ÒƒX]ÇClÜ©í5ZJƒN‰ÓU«6½h=YAX˜]š½¦ôáÏÇXÏ+±‹Éëqª~ÂÜp…mĞ„i×F­¶ä=OÄ|íq=­Ù2ù¤i’Ac>i=Æ¶#*¦7
+Ë…ÀP;¦³²”ş-©²ç8@Å{œÎ`®ŞúQî{:„Ñ;.µ±Æ²MFAÕè·©$k}Îezo+fÏ/:I""‘sÏyqÒu×Ãˆ5É¬'š›\XO¤\­“Ã*£?@ó«#†ÙÈœ‚Œ|’8eÂìI\‘^6æ%w·”´l@l»°Ëo2‚³‡#
+I$ĞÄ›`ë+íÏ_Şc^ŒÛ4»[æÎVœ@®¼nÇ­ŠDE‘³Ü‰’a¤Àm*)>,Ä¤ñJœ´¨T/7œZ³Ã$p\BûÙÍˆŒ»±)Ì¦Ë#Êò[\°I0¡SbIP§[;ŒÌƒÍ…Â³Æ¤I˜ÁUD¹„l­.K?·|ğa­’0¢ø£ˆ "kÒßpøå"¥™ÕXõµ¼F¶$&5u§*¯YZ‹s-‹cÌÈ–ã.gù"£á¶9’a€¡LÊª—å¶h¼ë‰âÉiZT: 2k½;m
+²’2rÄøØ³Á7Z‰<,Æ)tEŒá²F+#oaK6§\&,ãVvŸ©1”-™}öÊÜz”$#	v,—ÖÎÎÖíG¶Ôtaø[¬òğµFI¤eTòõXÌçky[²Æì@—bÄ¡Ïfç!YZ5V.cÎÌÂÿ ıePùmÊap>Jüa6£3‰"Ï’	l¨©Rn£GF>—ÊÈIİ_fİH´›,l+Pöì#r,Ôcß”aÓqëF—Œ‹XP4lƒ,â7,
+¸$InK6É~»]‰r Ö_’ti‹ÄêFBù+‡¨®”;18çøpvê¯»è¡±õ+]€¢<óĞ}Œ´ÃGk¸&ì*¬ÁFj£aV}eJ´D@@Ïd“0â,znæƒÊÉ-_ÊÆ„sÉÿ Å8¹E½âæ…-Ç—…åW6oä2¹„%¢ğËÆ-‰dÒáKíZOKg·$2‹XÜÄ‚?,pÄRqîÈÑ+ìó‚‡hÜp€TÙQƒi>Ïìi]Û¥lhXÏâì‘rrÚ‘UÈOÂØÑ'iˆ¶±•~;iÇ‹ºŞİˆ„(_A¥¾?ŒW7×§,¯%±šÎæuRöÒ*Ã™À @á-§(V’W=’¥v‡j‰cÊÍ9cUp²«4£
+IC³w2‚^FUÉ©é#(zpÁ0yêìtq€,Ç
+;$Ô‚‘qh2B2¶Èğb9ª§	!ÁoúúEÂ¦´õÚA‚ ğ>FşJtüK†‡Å “!WbQ@†ò¯E˜7»,„aTŒìjõš‰¼‰É †'Ûœ&r ã¢'‚L¨uÇ}w*ï5HÑ#	[‚¦Y”Ùó–;L\8TØÒ¥¯éêa”~zß—:9\ŞÅ¤C*"ÀfKa§³au-7\’´ó2»ÛEËo’]ÄqJÌO¹°¾”—’ÌÏ³j®â6b>0T4˜c“…÷•ë7…Õ¥Í®¸ı·ŞnŞÔñlêm-G|™†vt¬$‹­C,·ĞçÙE,œ(?9)ğbl/f˜n1ø•vAÍ¿)§ÃÚIR®n	}Òa“&TF+,ŠÄ@ û…âM£K,á™ gÉT9ÂjŒA’B¹e˜Ô ^±õ¸saR Sd`pçJ	ÉÇ•¤8‡ÎÎID(©_Ï³;ŒFzücßpWÎ0§szge…½¬cdı2ÎvbGÜ““óœ÷šÅİLg¸–RIÙ¾OÉÇCê~İ}†g<°¨ôâ”â”â”â”â”â”â”â”â•„ÎWš}—p†ı^ã™^<cãÏœú®|c?>|ã>¦yÒc;dwóß×ú÷ßÛã9ı«˜o¦>ßÿ  ã?Ìÿ JÔò4¥kõ3ñŸÒ°œùOïÕ8Çú|g>¿õäi!-Şú}¿‘ş½ö0;8øÀæ;ìŒcûÿ ¯Óïô¬ì”o¸G§ØÇ¡?*ş_>qŸş_Ş1ããÎ<üü~¼F0àöò'ãN¾ÿ Lşİü×fäööïãûÿ §ôù­/bÖ(ÊVœyÇòã(ÆsçÇœçÏ>|ÿ øÿ ^PÏãõõÁïù³_Cã÷Æ3“Ÿæ~ãûãºÒ6T²ZSyg>œa_Í„yøÏÎsœşüg9ñóŒãÆ~~?QÍs×]|`Œçé“‘óØúÿ çµf#‘ƒüÿ ûÆ?`>•íyå8—DË¿Vs…'Î1œÿ ŞÆ3Œc?ÛúyÏ×ˆÏmN ƒôû~ØìwGpW°İı‡×é÷úÿ èákéÔ<Îqq¬ùN3á8cÊ²¯><cÆ<yÏŒg÷ç?8Î<rÚDGqÏÉLı>¿¾>ß¾È©)zãà•Óéü¿¸=Txè¼r”âœŠB=¼)-á¦}ÇŸ?Ï…§Ê}>sçÊp¬ç9ÏëæÇi Áˆ×Î:ûŒ‘ñÖ:ëëÙø”œŒŠzsı@ıÀïïûŸ§YÍEûÿ ÓøCF’Ä”àG©‡8Á!–±pâFtICÌ¸ã	uxÏFŒ-xNqêÏ ·§­Ê€ƒ9äwõ= õùøê¦Yú'FèwÓ??Ğı‡÷"¢Ò>ŸVª³.Æ×%mÑ•§$9Ø,«®ó˜qå.ª)(uXÿ he¡‡SŒ¡ÆÖŸÇEÏ§–P	bd
+±Tß¯Óƒ€N?zÇ}T„åĞŠ ìç ıñœ±ı b¸1]6ªì‚«ÕŠ x’c-†)•÷ş2GÜû¼°=Õ;÷	÷}õ:¥åÌz¼zñ…r¾›–tñÏ4Òô”ùäå”1Ö?|T˜¹˜ÑDU=ö€Ÿİ—9ïçê¦9Ó„kŞK0a°ö\ËQâˆ\R•î©+ÈÁ£*K¯ø!Ï
+Ç¸îp§}^”%5èû"¶¼hD` UŒğŠ£ ’sñ~©ÃÔ8R èŸvY‰c×lOdØÿ *È)WÚôòœz±d†qñH¤–Uî ·Pñ9‡WûC®²%#-¯)NqòV3Î×Ò0ÛÈÒ€æG]Yß%ŠõíÎG@ôú|ëŸœ.ÈQ3ñğ{ë'ıõYé[Ø3ÑiŠ°OX¥JÔ¥i<Î\Vqœ¯ÛWï
+WóxÇ”%ÌŸ
+åºp	ŒÉR1îÏÇÏôëëóœã?5òØrB€q‘Úõ÷úüã?_­u€ôØ¨±áÊy˜ñ0¬%˜ò¥«Ô¤§%½öã¥kÎV¬ã)J×ŸVsêVy9x•EUUï üóßÛäŸë”f'’qŒ[ããîF:Çağ+lUú‡î²1#ÃÂ”Şiñ²É¾…g—Ø![D6µg?æ!kF|gù¼ã8ä¥ãäê¹?P3õşYù®‡äsÒŸp?+‚s’~ÿ ßë[b7¨f4êr˜üå*ñŒ¡LxÊUóŒøÊSó…'?îÿ O9ä¤ãÀÆÙ c¯Ÿ·@ãçû}*4—äÅñıH#öÀÉøşà“ü¶ÌGQZê‹ÊUŒ'0Î|ügş\a}9ñşî®¿ë¹lW°?¹??±øûWK_+ÖÇ8ú÷Ğıóûıÿ í[:#©®yoÌbÒŒgÆ}¥yÎ?XóÖqóá_¯Õ<ï[!ŸĞ0sŸåõúg¯§Ûúšé{Às‚Hã#¿Ÿ·ûë¼VÖŒêc¸JqøìãÆ=ö²ŸŸ8ÿ éÏï>~>?¶q<‘–~¿¨Á?×¬vlãö5Ğ×ßoûädü¸Çû5ŸÇõEÄ¡9P^œã<a¼çÇøÆ31Ÿ>®>qú–?üĞ÷óôÇÿ Yï¯ÿ /Ø€~ßlşŸCûÖV/U’Úê3ãÊ½ŸÆ3úÏŒøÏÏëûxşßÀƒğGÏÎ>¿qöùøøıu¦?¾½Œ¯ÏõÏÇ}}kØZ³_êhVì[ÛS Á¸ûa±-r‹® QùËBü¡"6aNzU”²/¼÷§
+_£Æs’Ú(cifÂ"‚K`¶qôU ³1øUPÌO@|
+û’NëjK1èÇß¶$áTw’H dª†»³Øk­ÎË!¡:ÙUÖ×J…º”3·@8šå˜	qšidkØF’¨Œ»ñŒàƒCÅoŠÂÑ+WXáãĞIøNF8®¤’úÒÊÙÚf¶š²–å­Éd’à6g[UÆëñùH@T«»x'µ‘£oq<ˆ]$3¬JøÆSòÌ…fôÎ†9ªÈÛİnw¨pLµ)–J­ñÄÈ¬ºÅÖ øeø¤0éŒùxø¨Ût!à¸`ÎK@Ø_:J(†ãf"D—ÂùÊß”·å›+˜n•UÜ$.¥ı™È(=Äœ’±öÄ£f¶¨Ğx¤bªY²@V=ğ>£¼û†	Æ	6AÛ®u·Eı,û NÒµÕîı¨×ò:«vëıƒHl&¥cÀÚ³AU©¨õˆ†gWìš"™*VÑ‰œÀß«òó°óî(â]{Î¸oTòÜ§¬lÅ¸’*fü#ÛÍ±WH¢‘¥ äFeGdsíòÄU:<Š×—·$i6¹ˆLÎ¨@%ŒŠ¨[ ·Â¹m3Ê«
+îëÌUßPuÖ·J²M4u®Nk`¯_º¼É°*± Z¶6ZKi*?í¬sëg/>ã±)õ%>şqgÍCkÉsrßA­­·›]L­	d3+.0£|•mM|ã¶‚Å-åa«1œ‚Ù($¼DŒäìGÆXü÷†±¶Zäß—×J-XÃ«mog[­°ŞN0Øíe×2Ó8Ç´…-kÂ2¬åXìƒ•”(L(;{9ì€Î?Ó³×|Şî q·Æzî~ÿ 'ë×Óê2s]Ğ=xq)VCu”)?+[yÂ±Œçù“ã	ğ¯9ÇïÆ¾sœyÌõãYÌ»}ô>Ããöùëç'¯´oÇB2‚{ÁøÏÓ¬õŞqş¿5-:âÉšZ`¸«-øÏ[ZÛt+}@æÒPêû‘Dì`¤ù±¨{ú2„âA¦×šq¡_k‘³º4HÈ„€@n°Ãè8'ã$œ€GK\† £ÙH!ƒv@9Á#ïØÿ â_=Ì.Éuµ`éSpµl+	ò·F‹¹Ş®Q®Ş5Ø¯O¾Şj¦H–{mêÍ0™aãë¯º¦Ö‡ù˜x¯l¹)YÄÓş>1i0…I,$!R\5*ÁK+126ı-S¡šH€î#lg`~: ŒŒ€	ÏC9úïª¤õÔEˆ‡ç5–ñº £s1}‹«îÁÖUù€JznˆµµÔé¶ÏÈ2‰ùê(GÛ¢‡	ªì}®)¦dÇ¦ÖŞ‚“Î¼œ)ÆÜ:Ãe8¶÷²ÂÀGzVßOÄbrˆÇó<n&îâ9ä‘@hØI³I,Ñ	q±|ª¹Ş„•9RAÔwÑ¨5Í—IuæĞ)û(ÈÄ°Ôª½ŞAÆ]ƒ2%¦„.IMÍŠÜ°O·
+¤vZ·rs(dæTZ§òÚò¯.¢9·Xµu¹0«F“d/ V`Ÿ#´z@ñ1#BDQÉ
+†ògeFBtf\(#åz‡(}Ëòszç¥õ'øñJ«öFâ°µE:\Ålˆj,ÍvRn6J9ÆŠnéÒÊ‡‰ä®.İ3
+ÉÒBG¾ú˜i‘TŒÎS‘ä¤âî.8§nJ`¯nÒÙàÔ³5¢’§	†\†rÊ¥õZäm„OHª!_c©v
+¸å`¤³ªõ³Ve\°ê{)¶ 7~ÇºhN¾V£oıdë5îÛeÕ|3¬st-u´—ÇøJ|Œ¸ñÃ½¯ÚcNDc!ü)n9-Ce¯ça*ÛÚòŒ²[rÜ¥º¥Í“¬hÓ½»6·r$Dƒpad2¶gwfÔ¶µ[;x^dÙ]¤ºÆ k+¹@UÙˆ€*€+MÁ×K‹u[kN3œgËœã?8øÏŸÏŒ~±ã8ı|{õFŒÉ cO¹ÿ QßÁúwœÔ]’LäcúäõŸçöê¥n¾,šÀ8VXuJóéuÑŞkiÆ>èBXSO[mºâC.!ÄáJBıÆÔ´+ì©Êé0É¥Æ6ş1ñò1×ĞgëÀ3ÄCFNG?¿·ÇëÙ­?Ø¾«m»CÄ…˜ÃÅŒ‰¶ÎGxó&4¤{pH›©ÖÙ«,T(S®Ì5‰	1#ÙÃeÁÜ`„*´ºHLp4f&İÊÊ/Èİ£*;$é‚p}¸PÕwÇ_D§3òÊ¸^öF8ìãuóØ$Õoş¤"©96f%h6Qd$#«64!'÷8jF
+[_ÿ ÅI1ƒ2¬xHXF$JyÒÇË0˜¼o){bÒÚİ(’ _Ì“ÒW+ ŞD8®—ÂêÊhíou–?×…(ÊI’<6	bäk&Ol;#Û“‘œj©ØîÍu¶j*JÓ°õíCö£*;3â_Ÿ»²Øƒ){¦Ñˆ”¿;¹ñÇ1ç¸ĞÌ”îzx¾˜ŒÍøscq;‰ÑÌ%„cÆÑÔa£ ”"*2¤f±Ö{i|Á£Æ§}MÛpJ61úº=ö1RSfhv;M×h>ËWè:ŞÛ¤B&rëiz¥‘ÏÌëˆ2CbÖb™…ˆ‘–b\³-i³È¼ôcL#’Ô3‹U!€ñSIÇÇp$µïp±”(ğ¨Œ¹,$tgEù$w6Úé$“2(_2ª+É C8pH9%·ÔÙP…$•8U± ábÜ°'&”y/Å:©ù(ÂQ‚·((á¹cÅ‘ÈüTà*æPñ×JUIò^}×œÂ”‡Î£â­nncŠILa#bP²!ŒxßH²‚`5Y$/"…*Fs]w÷Û³¢ùK2{µ%N°2Kƒ ÁfTÀ}¿aVW¬¾‹W­É×æwÌ·c5m2Û´¡ f4í”ÔÚ¶M¾Ú‰.vŞ<Ã’U¨ùº ËY#Èø…”?ëHÌ‰}O2@–/-µ»Éo4’—r3 ,
+¥UPH¹*ÊİTğËw+#‰mÓcoT²$|’Õ¡Œä€pzÄ_ĞW|ñîÕwN”²öq¥ê¯—T‡zSJÚšÜPÕ
+ÚX¬C¡r2Mˆ÷ÚÅzKC©“ÎãªEëërcY8ëˆ‹3¬¬’	P\ÂÚ4%U¥™€ßUˆaÏ@p—‹eVc2º²A6Á™¥ÕˆÎrR0YÁ8**Êz—®¾˜=7¨Ù*=çt=h¯i]²gÇtó-}=!ŠC’×u—»“¹½"ìd&#‡ä‹}ÆKœÔş¡™^âÎe´ÓÛZÍ§¹š;¨î¢%ÕîˆEhçö?§#³°–Ûˆ(fü±19¹0Z _Ú³@ƒSœœ‘Ù¬šéóÓ/©>Ü›¿kÎÆÌ;`¦[€Ş@PuéŒ½`«Ñ™6{§W§œ€*b„pŞ<1æìÙ@J•%Æˆkï{ìyÓviÅÍO«åãé˜¼*Çw¶y#%¤~ˆHİÁ$«A5×xö÷r´ŒÂÀ¨O(`ªííÂG’®eQíL§¸gı+è$§m’Hv%-×$,ÛõĞÒµÊÚ6ª4KÏÇì¤Û` (J°)¸ã2ƒÈŠ&ç¾ß,a÷DyLÙÉê«¯d¶¼D~SYævEïàDb9$tÔ–zŸÓe‰#£ÇŒ²]I€P?…U“ßßJæ0v9PuÂÆ5mĞ¦ºõÔ1×î•KMm‡5°Œ>Ï;7]bpY(ºÆY&=‰kBÆ5«\†ê+uØËF{33ºúYOöşnVayÎëeoáA{*†
+	ÓÆåÚ0²&Äb~Hn•i!|[Ç¹]Û1di ª;Øô .;aWsÕ]²7¬Ì.üìLDlEdÉ5²…Áâ %][ l“[¬`ÉÉ##À¥—"i’[8pp…t2­¥xk{hÚXµ¹ĞyŸ
+×r"‚²h0İOÆ¸2H3’ªÙÍs—š±NflùX¼i³Àş IÈş8#cš´înë1N)N)N)N)N)N)N)N)N)N)N)\7ÁŒxZ1óıqıáãŠ¿÷ı«¤&²#éÏÆ=YóãÏÎ1ŒãõŒxóûùıÿ ÇçõÎ¦Œ``ä—ıÿ Ó¿§uô>¿ËşßÌu‘Öat,<µgÑëÇÇŒügãçÿ Ûú|şóç?ú#\wüş3ü¿û¯»sşŸOŒ|*ÂÖŞ¯9Høóÿ ãúÓÏíÿ 9ÖĞ©È 1ÿ €2Göúû¿ÎGö$}¿Ş~~ŸƒÊk?•ec'?>1á3ïóœyùÎ¿Æ||ÿ ^ul|>~Ç¿ßÿ ¡øï'çp úŸ±ş¸¿Ó³òß£—©òœ9„‹Œá_Ó-ùı~¼g×şŸ8ÏïúsƒZ8ÇÛ¢>>İ¦:ïÿ Jy¹ï£Ÿî~˜ıÉşÕ‰™§ú”²ñ…£çÂ|ùÎ1Ÿßœyñûışş?¦>c½ÏÀ8Î?cœußÛûu“óK)úŸæíÖaRZ’Ç¹Û¹GıÜ²Ÿôÿ »ëŒøOü¿¿Ç:ÅˆÉ8 ıÆGÎsô=õÿ o“\ü§¨Œç¼Œÿ oûwŸŞ°Búô+ÉqŠFœÿ *PŞ1çÎ3çş\~óóŸéñıóÁ±Áø'¼‚{ÇÏÈşGíü¨·,	úŒ}N>q‘ßşÿ ¯ÅaulORÔˆïNWç0Öqğ¬ùÎ2¤ã><|7ÏŒÿ ×œM—c£÷øøı¾?úÏõ#šÜ	ë'¼gÔã¼ÿ ôï€çUDV1Æãçú{iÏÎ?_¼g9ÿ _ëı¼xÇ:ÿ ËÎsßîHşı|¿ëAtÙÎH#ÿ ™Á?¶sı:¯‹}[…çÿ vÿ ó'åŒ|c8ÇÏœ'÷ŸñŒügıyùç?òï’ûüÖO|}ş¿†í±Ñ??Ï¡öø8ş¿JøÖ‘˜iYü~¬c>œû_ÛøOòùğŸ8Ï«ãÎqŸçÁc¯e`p3ßíñÿ ë¿­Ë`dã?8nÎOî>ùúuİ@îîõ0M³×“­>ÁWDì†9UG¹<‚Yaı˜ØNr=‘D2=
+mFI!Æ2ï¼İ4“%º<G#ÛÜÃqâ“ş\©eqŒàtÃ³‚vTgÇÈ¾VİİD‘H…“õ®Ê; g¼ôHÁ=ŒŒšñ×Õßö‡¤Ì“Z´Í·CÍ˜“é7ÚË’ÔQ,Jc&Ÿ
+øˆø>Å–’áÇÃID<ú—”„¡¥?‹lÇ#‘‰$ˆLc².Ê£²°¥Ô·D’k“,¡¼~P¤l~’~3ÂŸ ècºõÒ©=³´°ö²áú”›î5â"•n/\Ş£ $|Ë·$è(‚­İ’`sÒ„µêÓiÃ	qÔáÓEe•ºåmï=Æq2ÛCÈë—!Ê0ÜûõI ÃCÒ†'RÇã’ğ·÷òÚŸ2¦•1·ac'&GÁÎ«ŒœÔº¨ıQúJMˆš•Â»¹µİ²&RJnnƒ6ô4Ü„b9êÍAhT!ânàDáo6‚GC€ÁNŞCwÇÍÍ&):8L«+cVOj{ïO¨«{;µw„©.¬ÊA`¤2üŒß¯ç×ØÔ‘êôùk{Û&|rÆ>ÜGõEù²_¶ëÏ4Ói‡[O¼w&6ËÎ©Œ·”§Ü_”ç¸]Xc©¢GQ>z89öãÚAÏdŒıIÅ?Ë¯ÈÈˆà‚rdAğ?' ÷×_Èık°}Y:]DDµ®®$5H-{Yd¤BRŸŒÍªv¿ù[+l˜P›"Æ§/›
+8¨[éåøÛ ¦FˆÈ?1RA=}ûğq·dá•ä€Lƒø~{#ïíûj ¾¶}RÅ¬(ûEG[k÷Kr0ı‹dºTm+MÆˆûFU£.A,är˜P³bYlõ‰@[M‚³4•Ã½ån"·‘¸î8ßNºë³­º¾ªÊ¯¶>t%	=l>j]¿d”-ÅÚC	ÜFdn†@Aœcnñ‘í$ÖÖ]àì÷w¶öÓ…ëòÔ³IQ<8·	(’IU/ÇÑÁ—*Í1/,İšL6¶(Ê„Û F3$ç#á†Ù31ÏzÊN"ÖÕnmÌW³êÍ´ÈŒ¥Agcç#AŸc2{¿PÊ¨&­øßMÅz]’G’%xÛ“€…@|ˆ=TÉõc >©Zõàûƒt™Ù{ŞÂ¬şµY­²¶ZÂªå“©ÍÜ¥Xà›5·#¤œ®S¦(B@’K(pWsÇÓ|ıÏª?LO µh‚L%YÕÃ`*¸|ƒTuû™·üe·-\áÌÛe4ñ°*dv02	Ïd÷ŸU)Û]¥¸¦ë”=c~Ï#*ÉBCÔãŞaéØà’T„ùù‡¥€ÀëqM9Uj	÷%vAÆQ"ã¬¹ šÚÎÎÚy¯æAoäyårİœƒ¶ÚF;9Àøˆ—O,BÊ&ó+0Ò5 ŒÄëÑ œ®F	&¦Í£ê§Û.şt²kéÁ³µ[ÓqXö]kSŞB‰Gñ£QñSNŸ=¨ß³÷í­„ÒnÌÃÑæ;L°vfÈ[{™koHñü3=g-¿O+Ø)/
+O4aBÉ³'%IOqÊ&»5î¸ä&ä!’m×ñì±£JOŒK8bN¡e€g€Ç¥!ƒHMô±Ú°ğg3Úkİ‚üM»PÓk5ı<¢ÂJ«9Œ“Mà¸r5q:ÉÓv*´3çG&Á$FJPU‰Xï'¸ûm|w3\aİçcšEÙZuQ¹é›PDšàÌm¡aqró±‰!erÄ*DÌÑ $û¼dz dã ŒZ>²úqHÈ©2á-ÏyIS®ÚÜ}Ì¥¤5…-nç+Z’ÚoqyZ[BŒåJqwiÁ(™1·d;$ä±ÈúœŸ¨'ãéU\»¶UJ€>£ ü}p™ùëàÔc¡ğp-§)ŠiYÃYÂ¼²œç9ÂxÆSŒÿ Ç8øøåÏùtH½Œ~1¹ëşı|UQ¼™Û;’ÓãùwŸ¾pjûgX€‰eÄ±œ!+Wòá¬cşçŒãÙ?éŸßïÏ˜3@£#99®×ëØÎ;ÏĞ÷‰‘\1ÆOÇĞıÏÏÿ Û?õå4°½$d‰qp±PqÆNOÏMˆÈÍv/.J~Á$´-1ñ@ıÀÌ¬i×Ì4À¢ãE:b@òs|¿'cÃÅ—LŞK‰–ÚÒÖó^_ÜÉ€–ö–ëï•Û ±È$÷Ìè½ÕÍ¼÷¬RÎˆÏ#œˆâZIô  ~rI æ¡nû—×—$ÖétÂuï^FÎ‹`œŠ¯Ü+T™(¯î3:àRV£‡Û.58¯ÃÍ}Â‰~AM%š˜¥¿½–Vä,Ó…ŒGã¶…îà¹¾¸İA2Ëøuh­‘u1„ŞI$ıTVŠÒ¶E–İZş`Á¤hãu†_!S+Áò /@;©">©ú~M×jÆÛMå]ûfrdŒoS}»é%L¶¢ÅQA.eL(¦†i”ìä<Ú]õ¶FÇ³‡võ´S\şÒ|4ÅÑ#ğrˆMpDFUyâ#>ã†,9 —-“¨yxÇDYy‹ÈÂsnÖ­1 WH$efè$}—àŒVÈÙÿ M‰RîTú'cw^°›«’Û1N]¨vÅ\†púœ!ĞXb­ñ®á¼É-#ã„:£ AŒ8²Ó[üI¶6æûÓ¼õ´îËâãîˆlHy¦ˆâ@2Á¼wÒÂ:¸‹—ºeUÙî!cälgÄÑ.D®= ¶5îµ½>—T´ìt9ú‡sÄßjåëãìÈ ¾¾IÉÔ¤åâfğ˜ëµ€ˆÀuşÅB"4èY)¡åâÁ›Á[-Èâ–SÏuyÇ[òE®¸ÛŞ&á/­íñ ö÷~#YĞÈ.-$I$ˆÉgÕT5EŠæf”:Ïê$’’%o"‘ 9}”il·µ2Ä
+ÜHëû\jÍk½‹­&¨w›â×Éµ7$HUuô%ÎJ öe£È‘Š˜t»,Læ	®ÉÈÖLJ‡•Š=³½ş[z^ÖNW’<™¸üL}£À¡ƒ/†òóÇ,Ñ`LJ­ãØºg ‚s|ıô;hâ(­!,ş2º7ØèÀ¹*@!ƒõ_{_Ş+ÎR}>sçÑãÆ¦~qş¾1Œgß8Ç7ÚO°ÿ @>?¶c¢qĞø?GÑ?_Œ·íşŸL|Ö«+^ï”4â2ŒùÆpŸ¯Ÿ*ôãÛ>|ç?8ÇïÅd¶„W?¿Î~ñ×ô«¸0ÅGôÀë×öûı>3*í’Zid¬)á“”åMç×ûÂ¼%iÂ™*ORT…%XÏó'8Ï§<„Û®r6û©Ïõ?Ìu÷ú€ïIÎ@n½ØûŸ®>ŸÛ?cû‰TGYeŸŠ¶HÆÏÅ¼££al%9Ix§ wÅ>¸K©i’Áf%Ç<,¬AD`È§[ô¸3ÕÒCï3Fî)ÄríÎU‘Œh*Ì6ROiŒjgDÀ)GU*q³ 	63UÇÔ=¬`0Ãë]äëNšØ“W5Š¤n2’‘vK$¶¥,ıøÑ#‡f6r)Œ6ÀuûZ¤¢<Ã‘œC>CdÊayOTM-±W´GĞa^“$FX	°÷0Ë€	Béí#° îÙIeQ…*"l›cœ¢üd®Ê2[ c9q¹Œ×”½Ö;­TÚv2¥½&íÆÚjúŞM8j|æ*“Lı¨ã0Ÿ¸
+ÁP¶®V!·2Ñ0ç•¡âVÚå™Ñ7ƒ!\#,§ÜCFÚ°rXà»jO±ÎXWR¼±ÈÒ]«‰Ì
+¡_S…ÖEÎÊ:!Ğ+c¬×ÎëDŒWcêJß}S´oªBM-±çê@JË×kJº„3t§œ£)Òµ	'Ÿ1çj±âJ–øa•{>©¾I¡´ñÁ3Ú²²»Ç‘©gÎA`¥!Gf%’0Z7@»a²e\Íë²É—S RÃ_€èÄÈX*€]ÈVœ|âlŞ»tŒe¦µÖ*ˆÏÀ úã¡Øh’šÊ³ Ä¨C:ö­eC©‡^¤y;™®B"¤Ûã»–s™êÆŞé#¸&s.bfWdoÃ]~a!¾±I3"ª; K¶³™âW‘Äa@`‰0r	À×ÂØ$*XlIo­FÙËõwRìmødõ~Í!x° b ÇšØ•ç…[‡59f`%ëöí3_¬—Ru ,B"=¦ÛWkóœdf9l8Ó,³'%•]W„*‹GKØı…0#Â·ç€İ‰Æ.àÍ!5 èvñ‡Éò I_˜;3•r¸NÉF¦èŸ`l¥@êÆ d«‘ŒCìm«l}ÄëB)0Ùµ |qŸv»Å}ŸmÈ˜8hA ÖLÖtŒöêHĞZó7&ßñ,ŒA†6UI
+†‚ğÿ Ë‚kq l>¤–só
+ô[Û•^ƒ’‹–Ëğü³E.XàŒ€B‰çAwZ¬j[¦(íš•äÚÔŞÚ ÙÄ)¤ãÁ˜’>Ë¤àÉƒU`ñ!·`ˆÊ_7¶ë™µ6ûÏf÷	ÆTºîw“ÚS³ùc€‘BƒUÕNLh"K‰B)ñ»£—…“¥Ğ‚vlèÊX®«îü–"¦OXzI¹—MúË½¯Z2J7­scœrLÛ|SL½ŠtÛó1–Qİ¤SóàpVáÌ¼ËL˜~§‹,¯‰}Ñ+KcûG&±…^€FÔùƒµİºø 1«§XäDV]L‘8#°}ê ©Ü ë!‹}¾ug¨Zº„<1‚Jæòù±¡™+(Ä2« ÈL¸ àšsÌ>ár'xÍgÒ3±iÅ,¥©ÇV>;-ø¦änæùÚX²¾+pXF¡NIaÓßPAï¾ñPn¹W†6†Öİ”°-•w#ã Œª•99Éøè}jë©‰lxÖCe¤2Ë%´Ëii–„¥(m¶Ñ„¡´¥>0„!)JqñŒcÇz5ˆñê€]5 `  00 ècéŞ±·Gb\’XŸ’rI#$“’~~Oy?Ş³>ZTJqJqJqJqJqJqJqJqJqJqJqJqJqJqJüå	WÆRœÿ ®1Å+Œ°sÏ©”gÏÎ|cÇÏ÷ÿ ^)\%ÁÇ¯9òÎ>áşÿ úøÇ®2«QŠÆ1íã<üúSœüÿ |øşÿ éı¹ğ€~i\Gê1Îc8JŒgÏÆSşØşß?¿ü¾àwû÷şÍ+®U7>‘¬ùşñıãÆ~|cúÿ ¯÷ÇÒù¥|óBóğ†¿ÿ \~¿_?ş1ãû~¹óEû
+WóìcågÆ|ãÊ1ÿ ŸõãUï¯‘şÇïJü/_F«>¯eœç8ñç)Çòÿ §Ÿ×Æ?çÏ Ğ¥tÒ:ĞÛÿ ôÍ-hó”+ÓŒå9Êrœú|ãù|ã9FsŒùÊsœ|ğ@? wó×t¨å°t+2iyÄ°œ+)R±á1êğ¯ôşÿ yÏÏõı|rİ’Ì§Qƒ‚öú|úë±ğk¾š&íÇÇÛãûœ~äàUwÿ éAGìí
+ÏS ã5ùòö 6ekñµ!ƒ‚–­GY'[öZvIâà¥-—l‚D"PF+^>K:ğ^[FÒ)"1H0¾Ì†
+p@P@Èï}äW1ødbœHI]rÃô¿Cå½İã&¼ÆlMßß¤5;qRu©©£v(ØªíKnQQ&™j®ì±$Ü:0ˆKÜ‰ññq‡`Ñœ8A$"DDıw!aÃúŠêÊ~R9­eã‹4öî@ŠòÜ“ÀÒ)]8ß¥ˆ,¸Á[ÚİŞñĞO»¬‹r@ŠPröóPJ+ë ‘œç£oÿ I¨dgñÅ§])»É,¦±°Óö3‡Î[ì{/8- %”±R`ºû¡Ú•È-’ÛªSn•Ÿ»©VŞ©áÕc„ÚÏmÌ $i$1Ã&ùDûdĞ‘©1ŸÕí÷TGâ¯C<¾t‘òeüÂË$’ÿ üQïè€#gÁèÈovêÎëõÏoÙËdGÜØêŒˆ®BTc¦È³æß]±œ¢ëªƒ~9ÃY™9u5ÅŸ~>Xba>#É]ı­÷fo¢ÂÀ¼­$b6„Å’UÔ’Dv‚r*pËøf÷3`FÃ‰Uñ†£r8(F:Õ—Iı7&ãitIíÑÜ}Y+s¤6‹˜›¸8ñÜÙïG‡’’ri¹ú‡<Xå2©·³:¢äY)x‘ë^Aî'Š×ƒ‚á?²¬n¬UÇ‰€w 0Â…À´ßä6Æ$’Ké•–<ÎU"e6NA,2CKcbÃàÅ.ĞU:cÔŞ¶Éõÿ u_vl¤²Ånr$ó<Ä	Õ Ü‘hÊÂÉŒ:##ƒZ##è*`ó
+±×](©„)ÁXHz.çÔ7­ùå-"µãŠ
+…¢“ÛâXäS—%	3±‡×P§ Ó_CfÀ¶r<Ó#²‡;m$}ùL‰)ÈŒNrÙÈ=yŞ­ÕÃZ5„ØVZ°[¥–êÅÃC©yÉ	¶
+‹	ÒpA“2ñÙ™Äqe)×PqÔÊæ¸^õàä9kH¥“S"HÍŒÄ2æ)2‰¢/î± ¾Á ñ°¾äíã’ÖÊV.ÈU\¤„ãu$~YÇ[À÷c®­2Íô•ú¤ö`ø™¾ÄÙª P¡ÃWaÅ]¿W&K˜UÚåàš®fe©/°÷şâT·ŠbDÏ½G”ú”Â‘SiÌp<BIÇN‰+ÉpácH}ÍŒ)òÊ'Ğc_Ò¿y“Û^_ºKyvÚ¬õ>®¿/ì]6=œ9Éê­3Cı.tŸW%GØz×pÛ™®éH¨úÊuÈ¸Y³-äY¬3­l‹‹Œˆ!J¸pSN‘Ûî’âH‘N¤¹äù[×:ş®–áá†!’€å İ\&6ÉQ³¶ä ÔØ †È	cUxš#¹Ø¨_ÖÊªÎÙØ©$(
+>­S§ÿ H×õ^Øo‰n³O_òÄ¬Œ ˆa‘·ÚĞ{–™–r+ˆ÷I–‘pˆËYuÇÒAc²Ğá‚ÆšnïmÒØÂ°[.ª‘®r± 5ØŠàv ú 1Š¥ê9$®™fbKußDôT‡×5èPôÚ.¾#DÉ÷e«Òë¯œ:êÆ1Œ©n/R³ãÓ”ç
+ğœ.3ñãš{2+p= œ~>3Œg ÙÇcéöÏ]^É;IÇx à}>ŸÓ Ş¥°b60l!€ZJRŸŒûiùøñ9Î1óıÿ ûòä*à§ãì~ÿ ·ú~ß5±[¥iä-I¿8J±	ÇÎsçúa8ıgıqŸëqp¤cã?QöÀú÷ßÇÛç?\’õßúŒôëì*.Ş´zŠÊÑ€ñŒ­Ä§
+ËXô£ÜVê^1Œ*sœ+9ÇïÆ~>y[`rFßôş_üı+µ$#ã¼üã'ê>£'¿Û8ı«Î•e+ê+ ş¨]e×U¸èÍ½DÙ¢Lê¶´Æ¢KgShé·[Š3#f5!9[–0Ç›)IOİG[Ï(¢[OçOZİÏÃÿ ˆ>œæî¤ØÈJÈEµ¼nÖ×ëÑÊë7âÉB%u$%R}S†‰?Èîá@âfcä*ê'–5–ùu"=—Ã™(Æê6$:Úçl¦ºò¨–MfN(Ã£¥Æu‰x3!àhgÓîø%á¶\iæ›pGÈäa?ínêW¶‹z"¾†@`x•ÒHÈa$nI#e:° †Ÿœ×W~-ƒY¸a!¬pdÀœõ‚½œG¦LÚM’Ü
+Ètµ“"¥Xªaù­Ğ½àT`ÊE6ëhJZ“uC:·S£OŸJ³›kaø…¸-ÈVÀ*JŒ±P$>á–Âä€q“Z-¤ºh$‰Æ@,€h€f8J/ÑG¸OÀ®ô'õÕ§2²0 „K˜œŒÉÅ-g$µ¡Ó#¿'8A/„Š^\i-4:#ÒCn;‡aE³½ºğ9Ìw,‚ha„¬€A&BùZÑHÀİö';w&[HQ-™ŞÉIfon:&1)ÉÆ}©€
+3ƒİq­ÕÅ-È5(û¹$£yƒÃˆ:9ì0µcñ‹-–ò`­½”Ó ”c*TrG(›®2ÉQ:«)ù|32©b_uè±Ôj9K±O ê5Œ”_…¼Œ€Hïëò+ÑŸÓJ¥~‡ë;·ŞÁ]Go^ìí«I×ı]‚°Ì•`)s¥b¦#j™Zf….ÔrÜŠ®‚óã¬p$' ¿½[8şr+o_AÆXÂ‚Ë“ŠKIáVñİsâIŒê©•ßŒ%½äÚ"âè¬’1„éåmøã#%Íº›Ça­­$ñ,?´n²ï.YV8ğ IS¢ñ×¦K¹@Çœgçã8ÏŸ?ÇŒş¼ücõŒùÏï­5¾A |ü‚ò9úu¿G5“I™pGqÿ ||çéüÇÇØÃ+Ç^–Æ^ÊÎå^?Ëş¸ùÆqŒcıìøÇïÊ~<ùó9©–Øƒõ?ĞàŸÜöGßûı*Ê+¥8Ñùèö?¿_¾sôøÄY²iRÆSV<g9Çòøñÿ ?ÏôùóŸôñã<¯–Õ[=j{Ï_#ê?~ñÿ ¿­XÅr1ÑÏÁO°ìŸ¹øüÖ”›ÖRB©jm…ã8øõcóŒ'9ÏŒ->3œã÷çÏíŸº¹¸óûı{¬cìA9ÿ ì}XÅx£åµÏDô3õùÎ1Ş1ôúš×Ds®½—£Í’)^şS«J}M«*o*ÇÎ”øòœ«9ÊqãÆ<g<ª–ÊDÎ2FG]ÿ 0 ë9ÿ Ç×3Ráa‚•Æ>{Áşã°úgï]wø‹.ÉªÕW‰· ‚[—˜î’Á­`sVø…¤ÈÅº[(N
+B@m“V–)·i·‘	íÈe,›jáÙFî?‰ş2ØúëØç#d8åRj3Aè€;8ÉÁøÆMmZ/d©ÔŠ¸´˜Š„í>­‡“†œˆ‰Jñêmø‘$gã$[sÎF(<±–•±—ÃŠG9nH‘\J€ïŒd…ÈÀàûÉÍp{V‘Ä£v:ìÄa˜}C6ÀÙÏô¬&NkAJÇš¡¦n¿Æ¶'ä?/~¹3r²Lì”€²
+”2*~°\œÛa¤†Ü“(N[Æ”6Kµ—<M¤îäÅäi“J²?•”ƒuGRÌ½‚H'2ã¹¼„ºªDGŠ(´P@vWÊ¶}ÁŠÿ Õ[&S@ÇÒdè±Qšîìt™Âı»jkFÎ Ï²eÏÅ>[1ÅHHJÆ¾ë¸[’réÁ¹uÜH¤-~ïØ¸ıgÔÇˆ–™ãc$Ä‚O“B†fÅC±VPrIî¸É$ÎD†Ib=şT3WcØM¶ÑX`ê Œô¸ê¶ÚCë†ÔÖÇ ÃW²b™ˆ>B³J8N+1Ï‰©ºQr(¢ÎI±—V±eŠpüç(a÷İYHöóHª‰Tè8t/°
+F¡YÂ;C+È	\3óQÃ<HQ¥g¶\Ê2; S"¨Æ
+)ÁúŸ¥n’µ•'kÉÇËOSn6É6¢ß4»mÿ wJ
+H¬À¯ÄÇ„e ¡	ö…iÅaE©Âò	á”5ÂËC.É b}Œº~•(B Œ~uI I#Vˆ+êAXòèA=†%‰/Ù%¶Á=câ§fÔ¯ÀU¡)Ñ€·P†e¤ZÉyJıõ¢
+Y¤Qå-çÜVH1÷N0”7†Ğ„a:‹N-@TaOJ;9DÙÉùö¢º¿ÚGm‰vè¹9b1€£ã¡Ğ şäUŒëzziŒeŒ´„c
+ÇïçÆ3ûùÎsç|\øş9¦¶µÁüŸåßòÀÇÇó=RM1nú?oÛ¿üÇ×±şs™_)ôå9Vr¬c><á9ıyş¸ÏéçÆ1Ÿ¿<º†=NqñõÇÉìuşIşßÊ«äbpó=üÛì1ıOÍw<“]Tâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â•òu–NRëiZsÂ±Œÿ Ã÷ûãâ•…ÎP ¦šqÒV¿>r¤aXÏœ~³ñçÇŸŸëóŒ|s‹¢IÔŠç®ûúÿ zú¤¯é$wÖ:Çö¨Ï{êÄtûKHŒ”­xZšSm¼Òı9Â“…°âTÚò•á+NVŒå+NœáIÆyWsÂZÜ‚ÇGëıñóÖGc uñS ä§ƒø‹÷ûg?¿ÉùÇc?Jƒ;;éÁ^±—‰ÔDjA•¶$aV}rE¼Ò™5_w H^JÂ½Ç0òõ†Jñ÷m6ò3W>Ûhüa:ë€}ÀƒHìçê>I?=ÕÕ¿©%Œ à°ÀÎpË×cõg¬şãêU»ô{£nˆêm7¡­zÔÁ£í
+ÍÄ¨ı·_,7ÖXŠo`-<k,””†!Ô †q¯eMú•Mò~A7E+$%¶ŠAØ÷ÆÀ«‘ônˆïéRš°˜†–1¸l«Àdû„+‚ª{‚>ÙÍkk×Ò5­ŸJÿ vT®Ü¹ÕJ$˜°ùyI–aæ­çØŠnG6–ÏÊGÈñ.6ûì¹¦ÓBÓ\¼ÂXvÁ%u	ª–ù*…?_iı¾1/üúÁĞ£~–Àn˜6£øAV®rİ`œd–ƒô!ë0‡Šë´$É„Äµ÷ñ£ò¶ÀòÏ¶:	‘b*\§"Á˜9C%òdcÅå:ñ*a¥÷ÉMÃóó$½º+X\`ç8ECO@’¿@½
+şmÅÇ“*¤ıU{ú²H ÿ 0OÔ÷Rû]ı-j4ŸÇ*™¨uÍ,˜ğŒBµGˆ™`YûrLĞÀ¦UNÆrÑ,¼”ëkq
+Â×åÿ â—³ø‹‰œ†ŞWbsØöGÔ|dãç‹söñŒEöAP1õìÿ ŞOy¿`~™`š{'L€Ákn((Vrkn–áq/	;­á˜ä6êCe†Ø[¨K®¥ÇJ±goé+xÔ	0ßû 1óĞèuô#5oQJùÑuìŸ·gëñŞrIÎ>qüæ¥¥uJËLıÄx®-”£Ñ•2Ê=><|z1Œ~¼cOÆ?^1]ÁÂÚCğ€üğ~ßöşİUDü•ÌÄåÈè:ÿ ·şşßj•UıY\‚öòÈ'ÛBSéBŒgÆ<gşïÆ?·9ÿ NZ¤QÆ0Š ûàııÔ&vbI'¿Ş¶ ˆÂp†˜BSŒxÆ<c?şş1Îy#àâ¸×ß,µœxÊœoû“×µ+†ü`O§)SÇœxóŒcúóıyó?ışÿ Î•…ÌQÂ7ü4ç
+Vœ'Æ„©XóáYóóû¹øÎ3ã8ùÇ>éûgã?JùĞÏûÿ gıM•ggêÑúaöá]Šª×íZÔëĞ¾K·†Á_âŞ±È7-J–m”º‰çâı¡å¢ÊdE‡>ú=Ô²×•Nx/WZ]ğ7ì‹{n’ÌĞ6ğÜØM¼bîİØ*åKÆÑ±ICG!èº]ñ²%äKç¶‘bFq‰"˜<jÂ'Çaµ?—œBU§ößQu>ëp›ß´Cº%v]â´FãÚÁÚ¨#Öh‘,Ó£Œ"Å9¯l°Â:Şl¶sÔ3Â.ğM¤Åó˜«âVIĞæ~ç®xy8.gœ³†ÎÆÁCa:¾ãM¼o —hˆĞ1fÂLˆBê Ö_ğòÜ-·#„®¢iRæ,¬RÅj¬²±Ã{¥
+„:ª¯½Yc’jÀ]§N±ËF³P€C‘¦B,t>IÄicãD¶ÎHÜ˜¶ÒYl³ÕexÁÓ‚1qB6ò÷–Yç‹dÎ¥ÙK”a0>ÿ pöŒä€k³½ŠâoúË¨"5!và»–WF¤m‚F>Ièº&¾²À
+T’
+„‚l’dä Ì®ÊĞzİa™+“j˜û0èlŒG¶Ùp-a¾yhq˜kù×H#É(ü·™X‹É·°3ä‡›¢lÔ#[[Ë¹H”–xâ1MBë²¨ÔN	'
+Aø©mÔ^ŸuÏ¸3ôËŒ–×Œ2³ùı\Æ»ÅZ-Û¡C4åšåsüÈH3×½¤Å6Délª<şÎWÔOéèâ…oøËNUi¡ƒ"4¹„0€8¹š[[Hš;‰#b×ãqù%‘	 üü›<–ö³ŞF¬A,² ê­+'‚Ş)îes¬(dØ#ÔeÂí–ĞØ]ÙÑ\×T»uKI}?·»…Ö•O¶‘³K—P‘¨„jq‡J/ÊÆìuh–Jz5˜[2‡½0ñ,Åô?¦¸ÅäùKØŸ“¼–æáUäˆ,+-É¸™mf-=ÑÖ{¡ŒÍhLh`rmqÈ\ÏÛà²¢\4JØwI*‡ÅqÃº!³:«dsÒ”†ÎSëKÊyçŸFqéC-IOÎ1ãÒœãÇÇÖ3{¹ÃØ÷ü¿¾kÌFF;ìušÓ6}69©sÀÉóŸ>3„cÎsı¼ãÇŒÿ _Ş3ãÇ÷çD«g IşønûOë]‹&>~~ıëíüê4ÚºôË¹s)óŒçÊQŒ||çGöóãõŸ?8ÏB–Ï? õñĞï#à©Æì~¸’·07Ïìö;ş`½Géş¸¡J^2±ñœg9k>1ñóŒ«Çœ|yıxş¸Î|Â{N û}~¿Ì÷ŸØÔ…»ÇÛ¾Èìœ\ÿ §öù­?3Ö6^õa@¥YùÇœµ8ññOüüùÿ :Ï#µR?é$ãäœ?¿Ò¤%éë³û‘~~¿Óùüüu¬%:)|Æ§9ÏÏÿ Æ?ÕXÎ<cÆqñœ|ş±óñÈ­b¿ |t>Aïçúûãùlzÿ ä:û}ßÒ°rºdªR¿ã?¤g>3ññåıyøøñç?§:Oÿ ø¿`ãı3Šî“}cç²Ggàã³×Ïß³_QzZNUç*Î<ÿ •Ö1óó”çÏœcÛçõç<àxÅú!È?·ûû×?óV.ßÆoåşó[*§ â˜¤ÿ /ŒggçÏÎ3ã¬ùÎ~qúùÎ?§>9Oğ§ô8Î1ÿ ²z®¶äÛ¶I3ßşÿ ô> ‘5­0"YJ"Ñ…aIR³†RŸñûóãÏŒçç?×ş\“r€ÜGÓí×ûÉøÇCòE³—b;#=|şÃ=?û?IeMĞiÚWÚ6ŒøÇ”©¼¸Ÿì¯Îsı1çÆ3çÓÇ™ññÄ`?¾|úøûT)/Y ’;øÈuòI?|ü}¿”°©êÖ‡e¬aŒ#çÊ?~œ|ùÎ1ñçãã9Çôş¾3Ë­ §Û¯è~˜¶1Qf$’Aş¹À8Ç×?í[ú*¼0¡9J|¥)ÆŒxñã×?¿8ÏŒã9ırbÂÓß¿ƒŒué÷ÏÓ¥¤ÉÏÏóú¡oß'ïY&1ŒcÇëÆ1ş˜øç}uW÷ŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠWÅcçÿ †Wã>™´+çşxÏ>‚GÁ4ù¯c€WûÁŸõe¼ÿ şŸøóîÍ÷5óÿ ×_öşTLpÏ”†>3ãÇœ4>?·Ÿ®6o¿ş?íL÷şÿ ß_a_t°Â?Üe¤øÿ åm8Ïıq|$Ÿ’Oó¯µõÆ1ŒcÆ?¶9ò”â”â”â”â”â•Æ(†ØejqxOŒÏÛ?úÿ ŸqfóõÎ?¥}
+[ãéóûWŸßªgTê{ıuèù
+ĞÓ,Åß«ûFwaÈçæ+¹%é œwí½Ó&¤Sœ¶Ì¥%Ä7ƒl—X|%ùª8s3)`Şæf.ˆ5K¥$=ÌL@U3:!Ìl}ñgÆ¥öè^äA²šÒã~=›%ãÉÄ2c'TŒŸùŠ:vÃ°RxIØÓ€ècY²kUŞ,pÖ[|ÔäÕbàQnDì˜Ç®¸“¶Â™[¥ÉÇDHºtwñLc‡ƒàÂF(vjîø¯IzêÒô\ÁÉ¢G<”gY {t)h%qãüLJ¥•­'Û*í«#˜ä[¨ææø?Ã¤ÉÈØæI^ÍòB½Ão;D‡oÃÊ
+Ï·¥Œ›¡·àµ/Ó×¶•m	¾ºáTëæÈµMZUØ}U^]êzÆ6Ñ3¯œ–faÒ%dr·#m‘òpÁÇ„Ó§†x¨S8Èz2ãÕœ/1qéŸRŞŞòz[ÜC´rò0DmÌMiqi|ÑÇsqhçh®ši-§QHºlö¼ŒÓÙ¿-Ç­ºNÒÁ<2œò‰C›{¨˜Zî)•pĞYc&D6£ ëŞ¨ëÖÛÜÛ©°×¥Be‰[(É~¸Z“!b&­tÄ¨ÍØY&‘jj"¸Hc~J6İ^®ÏØî‰jF RÙßHßå¶|Í¤n—‹ïeÿ -ÈªÂ’ä }]Ñ‰TRÅÈ\¬îo¥°E^Ü˜|â/frñFYorûpÒ¥{ê¾}äÚ”Mmm‡éWÓ¥9©5–Xí‘ØŠÑ ÏŸ·4A\r<ë;1ä¸±c­¸PÓ(-Æä¢£GÔ2ÏŸq¾’^U9TzÊêNe.S{[;ÃåŸ˜ÚIRÙ+8­KÆMµ”Vè†0³Î¦b ¶‡“¿²’ÎÃŒÖÎîŞIí[Û[+ù0²6×pb	î%‘ØÑFÅA'Ò·Òs¨ÍkšƒóFµJXõíF
+Åk"Qœµ·
+\ÙxÁA,$£1inCáAS))XŞp~‹Ô<Í—7pˆ––Q´Û¯¹	f
+@Œ$…FáZ5Î«)êLq¶MÆC#Ë;HD“±Ã’ÌÍ‚Xì^=Øº’ãr*ó½¦ÿ ùóûøıÿ ¯=¢¼Ö¸î+¸ğ¶SŸ¯ü×ŠWF]R(¬+ÔÊ1•c8ùN3üãÅ+7XF…ck>sŸŒ§øÎ¾¶<ÿ ×õÎ:©ùûuı¾+îOÜı>¿oö?°¬DÍ,¾r–ZÏŸ×ò§9Æ3óãúÏ?¬c>1çœHqĞÿ ×ôÆ3ûşçì)³}Ï×ê~½Ç^ÑB«*ò23ŒüçÊ1Ÿ??ÓúãÏôñçúøçÏoåôùûÿ çâ¹njâÿ €âı’sŸ?ôãÆ1çóêøóã¬~ñŒgÇïç‰·Oÿ Cÿ gïº	ßÇÓãéŠå³¢Ào8VBNsçç>ŒgÆ3ŸŒ|ücÓÏİ?cöëÿ Xùşµ÷ÈßB@ûgãù÷šÈÄÓqìå9û6±ã>sœ¥8ñÿ ÏôÏõóœó‚0s¨şßïıçèq_<ŒGÏ_ïúu‘«3[ÇŒyC8ñŸ	Æ|ş¾>1ãÇı<ÿ Ëæ#Prûÿ }*ù»cş¿_÷ş¿½e‚Öcôçc9N<|c	ÇùcÏü|å€> ğ’~Nk¼i–™NÒ„§1ã?õıÿ ãÏµò¾¼RœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœR¿ŠÏ¥9V¦3)Zºå,¶‡{)V1á9OŸ9N|ã1œxÆ1ş÷Œ~¼ÿ Ë9ä)É˜GĞ|õş§ûgàT”ÀÔ¾	ø=ÿ ç¯¯îHø«¯t‰ÑK
+Q¿º°Kl++ò’€)£1‡›R Ía‚E%‡ rK8•'™®AêÉ"õ•e?UdÃG$gå]FS²p äÕÍ“Ø:{X‚¤âF\2°ş%u%YH ƒƒÕy¼úœiµÊf
+ûUˆ&JİOar3µºà.enä` A?ÂG+Ä+,ÈgÖŞ£Ğãd¶‡†óâœµÏùg©.µ/àx ºHqS"â05Mù@öy‘”€p+×¸LÍÄ! gÚä:eÉ2ŒÃ…
+N}Åõ“æ‹gnanóÕØ)ëëE…[´ÃÖ#¡ˆ‡ƒ—1™Û¼œ4F'æšAr2†Š“_/í}¶[ĞËÃhÔÙò²´V·,s¯ Y¼·Z cP¦8˜õ,£_’sí"¸¿Jb †ŒD¢&D¯’q± úûe«°¬v7UX6Jì‘­I@Ş¶I¬{lA¨™´˜3J±EY«’ßÅE éY	$€|9¸@0kk‡!¶…+2+nFÆÀ]@#v`²˜œ:‘H#—õ+}	•¿`r£¢ÖÕnînme€±!&dxÛ.T4ˆ	ƒ-~`äßoQj›uÉêXĞë$š˜kVx6Z¥ÃˆxYWíÄ2±ğpÑj1'üƒ6ºRäÉ’?¨S;	ÃrŞ¢‰¸ïøhäi¦<pDpÛVÛÈÓa©Ö­ ã’Úi¿,K)F•ØĞ@Éoù›`GßXƒ’G¼Ml4l| !Å6Ë`ı˜ª,©áÔa„cd†Ûe$áIğ¤?†›Ã©Î–ÛJ°Œ~ƒôğ·^6Á­£8¥³·‘Dd0%¡BNãõá‰÷}G»ë^ÊyMİÏ˜±t¸•NÙaÏZœ•ú{I'¬ŠØ¼ĞUe8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥3ŒgÆYÇ)X°îSRUŒú±”ÿ |g8ıxÿ ü•ŸŸßŸ9øë‘6ãöë¿÷ÿ |ãùóVÁè~~~™ÿ ÇÏ÷'æ¡Ñ¦-I#aIÇœ§Æ39Î~UùOû¹V?¾sœş±Ê[»_Ô@ëèp?¾Gxco9_Œœ€OYï¯œ÷ûv)ÿ ¶}RqÑ¶iuz‡.¾°64®æÀEBÆ5Ò3Sm”XG!ÆuÖA[ò8~QN°c¿æªôšó
+×ò~ÿ Ç?‰(fÄ\~!V8„"]÷	/µÔºÈ\øBŸHô«	0[‹hoìˆº&Îà/¥ºµ’ÎV˜¹Aƒª’p¤FÈ\R~Åú|]S°n».Õp¯µP—µÆOÙµ­¹úôËI­—W2vÒĞf6t›'9"·dL ŞÜ{…2BS /#qÂMg!ä^%Q…ed……QãÀ”*Ç<ò3$b6EˆPêÛõ½×cÆÃkqn’ˆïáˆ¬¬gy|Jîh¡öo#nÙ[a°Àˆên…ÚE uÍ"{PJ…zˆépÄõı’D@]È‘Ú,x;<]’Bå‡dL@'Úy±…Ëá§¾?Ä$ñ÷¹K¨İVkétK{‰¸Š6$€JNYS¢0îº=¡g¼¥T´±Z+y<[49p iã0$|ôEúôûé;&²#¶•Âjí›SÚsö){+³ ]Æf´CoÑÌ:á.»#`.Ë8Â4Óòè³ØqãÖÄ[oğæû¿‚Ø¼±ñöü¿),ìCEsn!dn0Ë¡L[Ê÷9
+Ò4‚"TI¾[üF·kbòqÜrİÿ ’¿	oµªÛ½¤‘Ü$‘òK!"îXá[Y™˜ªÀÒ*K)ôÛS€
+µŞZ
+*8À¥aJ@Qâ´ ¨Ê¼c*RXeZ¿ï+Ï?Fqö‘ÙZÛ[D1µ¼Vğ‚va1¬I“õ%Tm“ó^wp÷3Í3^idšLò¹vÀÏC-Ğú z¬—“ª-8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥8¥|İi!M¯R¬xÏ­Cu§¶k'ÚB°¼/Ğ¬'ÏœøÆ~?øãúg9Ç:¤p@¼äõŸ÷óıÏŞ»£|~‡ó=ıÛçíPgbëRû„àlç8Ê±œú}^qûÆ~qı¾?¶®?| »¶c‘üÊşÿ N³şúëæ¬í¦_¹ã¿‚GÇĞö×¾ªØueæ–ÖÉ‚µÁ*@¦¶‘Ìa§œk%ÉL%¶K5î%¶qœç,·”ç.¬¤rWPêİÊØ0Àôp2GØ|• ‚ùP •ÔĞ•Á•Î:$°?ŸYö³ÑĞñÕ(E»9@‚¼E4Œ0,ƒlˆv0„ÿ ’ë§;"céxÂCÂ„}õã¯„<`•Ñ®"_dEeT6öö§:ª– ±_ié˜¼ŒŠ#™Ñ]ƒ>‚YvÆ	ÃaK 8Aœµ­eÄthŠ"0ÚR”0;M°Ò1ü¸W¥¶’”'ãÆ})ÇŒ'	øÂqÍ¤~4U
+J0 ÀÏÈ¡ğ'®¾1ŒÄòv‘™‹Ä19'¢1’s“ñóİo<c	Æ1Ö1ãòå¿ÅVü×÷ŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠSŠWÍÖ[yC‰Â“ŸéŸşßñâ•‡ËQâ¥0¯Z0…+3å8Î?çŸŞ~~~¯÷çElì3Ÿ÷šä†0~?ßóÿ Z×äix·\Êı+÷œ*~>~1ã8ş¸Ïœÿ _ßÏ:œå~~rÿ \î»Äƒ8l.»ıë¶ŠÕ1qêÂ°ÛIñóü¸Æ3çúüc>ÿ ¾9õm!S?íóÿ ä?½î~I?nş3ÿ ¯¿_\VÌ‹5¬6Êqñ|c1×ŒcõÎåEOÿ ¿÷şşÕÁ›äüüÿ ¿üWeÎuÂœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœRœR¿ÿÙ
