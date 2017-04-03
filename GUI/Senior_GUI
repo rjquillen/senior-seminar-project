@@ -1,7 +1,9 @@
 from Tkinter import *
 from PIL import ImageTk, Image
 import Tkinter as tk
-import urllib
+import urllib2, base64
+import StringIO
+import socket
 
 
 def test():
@@ -9,13 +11,33 @@ def test():
 
 
 def key(event):
-    """"""
+    if event.keysym == 'Escape':
+        commandSocket.send('EXIT')
+        print "Ending program"
+        commandSocket.close()
+        root.destroy()
+        return
+    else:
+        commandSocket.send(str(event.char))
+        print event.char
+
+
+def forwardButton(event):
+    if event.keysym == 'Escape':
+        commandSocket.send('EXIT')
+        print "Ending program"
+        commandSocket.close()
+        root.destroy()
+        return
+    else:
+        commandSocket.send("w")
+        print event.char
 
 
 def send_directions():
     """"""
- 
- 
+
+
 def start_line_follow():
     global line_go
 
@@ -25,18 +47,62 @@ def sel():
     global line_go
 
 
+def pictureCapture():
+    print("Capturing Still Photo")
+    img = fetch_image(url, username, password)
+    img = img.resize((300, 300), Image.ANTIALIAS)  # The (300, 300) is (height, width)
+    tkimg[0] = ImageTk.PhotoImage(img)
+    panelCapture.config(image=tkimg[0])
+    return img
+
+
+def fetch_image(url, username, password):
+    # Grabs Image using URL and User Authentication
+    request = urllib2.Request(url)
+    base64string = base64.encodestring('%s:%s' % (username, password)).replace('\n', '')
+    request.add_header("Authorization", "Basic %s" % base64string)
+    result = urllib2.urlopen(request)
+    imgresp = result.read()
+    img = Image.open(StringIO.StringIO(imgresp))
+    return img
+
+
+def loopCapture():
+    # Captures a Picture from the Stream Continuously
+    delay = 1  # in milliseconds
+    print "capturing"
+    img = fetch_image(url,username, password)
+    img = img.resize((300, 300), Image.ANTIALIAS)  # The (300, 300) is (height, width)
+    tkimg[0] = ImageTk.PhotoImage(img)
+    panel.config(image=tkimg[0])
+    root.update_idletasks()
+    root.after(delay, loopCapture)
+
+
+img = None
+tkimg = [None]
+
+commandSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
 host = "136.227.194.164"     # IP address (changes- not static)
-port = 8000
+sonicPort = 8000
+commandPort = 8000
+
+commandSocket.connect((host, commandPort))
 
 line_go = False
 path = "test.jpg"
-url = "http://136.227.192.101/cam_pic.php?time=1490296123098&pDelay=40000"
+url = "http://136.227.195.98/cam_pic.php?time=1490901535207&pDelay=40000"
+username = ''
+password = ''
 
 root = Tk()
 root.title("Senior Seminar")
 root.geometry("620x480")
 var = IntVar()
-var.set(1)  # initializing the choice
+var.set(1)  # initializing the choice for Radio Buttons
+checkBoxVar = IntVar()
+checkBoxVar.set(0)  # initializing the choice for Radio Buttons
 
 leftFrame = Frame(root)
 leftFrame.pack(side=LEFT)
@@ -44,39 +110,38 @@ leftFrame.pack(side=LEFT)
 rightFrame = Frame(root)
 rightFrame.pack(side=RIGHT)
 
-pictureCheck = tk.Checkbutton(rightFrame, text="Continuously Grab Picture")
 keyControl = Radiobutton(rightFrame, text="Keyboard Control", variable=var, value=1, command=sel)
 followLine = Radiobutton(rightFrame, text="Follow Line", variable=var, value=2, command=sel)
 stopRobot = Radiobutton(rightFrame, text="Stop Robot", variable=var, value=3, command=sel)
 
 sonarLabel = Label(rightFrame, text="Sonar Distance: ")
 sonarNumbers = Label(rightFrame, text="", bg="black", fg="white")
-buttonForward = Button(rightFrame, text="Forward", command=test, width=10)
+
+pictureGrab = Button(rightFrame, text="Capture Image", command=pictureCapture)
+buttonForward = Button(rightFrame, text="Forward", command=forwardButton, width=10)
 buttonLeft = Button(rightFrame, text="Left", command=test, width=10)
 buttonRight = Button(rightFrame, text="Right", command=test, width=10)
 buttonBackwards = Button(rightFrame, text="Backwards", command=test, width=10)
 
-pictureCheck.grid(row=1, column=1, columnspan=3, sticky=W)
 keyControl.grid(row=2, column=1, columnspan=3, sticky=W)
 followLine.grid(row=3, column=1, columnspan=3, sticky=W)
 stopRobot.grid(row=4, column=1, columnspan=3, sticky=W)
 
 sonarLabel.grid(row=5, column=1, columnspan=2)
 sonarNumbers.grid(row=5, column=3)
+
+pictureGrab.grid(row=1, column=1,columnspan=3, sticky=N)
 buttonForward.grid(row=6, column=2, sticky=N)
 buttonLeft.grid(row=7, column=1, sticky=W)
 buttonRight.grid(row=7, column=3, sticky=E)
 buttonBackwards.grid(row=7, column=2, sticky=S)
 
-# if checkVariable = True
-# Grab image Continuously
-# Program thread here
-
-urllib.urlretrieve(url, path)
-image = Image.open(path)
-image = image.resize((300, 300), Image.ANTIALIAS) # The (300, 300) is (height, width)
-img = ImageTk.PhotoImage(image)
 panel = tk.Label(leftFrame, image=img)
 panel.grid(row=1, column=1)
 
-root.mainloop()
+panelCapture = tk.Label(leftFrame, image=img)
+panelCapture.grid(row=2, column=1)
+
+while True:
+    loopCapture()
+    root.mainloop()
