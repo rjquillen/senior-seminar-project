@@ -122,11 +122,11 @@ panel.grid(row=1, column=1)
 
 # Set up Sockets
 
-sonar_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 command_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+sonar_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-sonar_socket.connect((host, sonar_port))
 command_socket.connect((host, command_port))
+sonar_socket.connect((host, sonar_port))
 
 # 2 Threads
 
